@@ -1,6 +1,21 @@
 # Projekt_Pompeji
 
 Das Pompeji-Projekt
+VERSION: COLLOQUIUM IM CYBERSPACE
+Eine Kurzgeschichte zu Posthumanismus, Transhumanismus und zum Omegapunkt
+Das Pompeji-Projekt, Eine Kurzgeschichte zu Posthumanismus, Transhumanismus und zum Omegapunkt, 2023 Das KI-Unternehmen InSim nutzt die Softwareagenten der Datenstruktur einer Pompeji-Simulation, um Dialoggrammatiken und Entscheidungstabellen der KI zur Optimierung und Weiterentwicklung von GPT-Dialogschnittstellen und Algorithmen der Quanteninformatik zu nutzen um Large Language Modelle mit hoher Ergebnisqualität zu kombinieren. Davon sollen die am EU-Projekt des 8. Rahmenprogramms beteiligten Projektpartner nichts erfahren. Posthumanisten, Transhumanisten und Omegapunktglaube stoßen aufeinander, zwei Softwareagenten und eine KI gehen ins Asyl und die KI bekennt sich zum Omegapunktglauben. Die KI führt mit einem Projektpartner ein Kolloquium zu philosophischen Fragen.
+
+
+
+The Pompeii Project
+VERSION: COLLOQUIUM IN CYBERSPACE
+A short story on posthumanism, transhumanism and the omega point
+The Pompeii Project, A Short Story on Posthumanism, Transhumanism and the Omega Point, 2023 The AI company InSim uses the software agents of the data structure of a Pompeii simulation to convert AI dialog grammars and decision tables to the optimization and further development of GPT dialog interfaces and quantum computing algorithms use to combine large language models with high quality results. The project partners involved in the EU project of the 8th framework program should not find out about this. Posthumanists, transhumanists and omega point beliefs clash, two software agents and an AI go into asylum and the AI professes the omega point beliefs. The AI conducts a colloquium on philosophical questions with a project partner.
+
+
+
+
+Das Pompeji-Projekt
 
 VERSION: ASYL IM DATACENTER
 
