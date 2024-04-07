@@ -28,6 +28,12 @@ Eine Kurzgeschichte zu Posthumanismus, Transhumanismus und zum Omegapunkt
 Das Pompeji-Projekt, Eine Kurzgeschichte zu Posthumanismus, Transhumanismus und zum Omegapunkt, 2023
 Das KI-Unternehmen InSim nutzt die Softwareagenten der Datenstruktur einer Pompeji-Simulation, um Dialoggrammatiken und Entscheidungstabellen der KI zur Optimierung und Weiterentwicklung von GPT-Dialogschnittstellen und Algorithmen der Quanteninformatik zu nutzen um Large Language Modelle mit hoher Ergebnisqualität zu kombinieren. Davon sollen die am EU-Projekt des 8. Rahmenprogramms beteiligten Projektpartner nichts erfahren. Posthumanisten, Transhumanisten und Omegapunktglaube stoßen aufeinander, zwei Softwareagenten und eine KI gehen ins Asyl und die KI bekennt sich zum Omegapunktglauben.
 
+Tauchen Sie ein in das faszinierende Universum des "Pompeji-Projekts", einer Kurzgeschichte, die die Grenzen des Posthumanismus, Transhumanismus und des Omegapunkts erkundet. Im Jahr 2023 nutzt das innovative KI-Unternehmen InSim die Datenstruktur einer Pompeji-Simulation, um die Dialoggrammatiken und Entscheidungstabellen ihrer KI zu optimieren. Dabei kombinieren sie geschickt GPT-Dialogschnittstellen mit Algorithmen der Quanteninformatik, um bahnbrechende Ergebnisqualität zu erzielen.
+
+Doch währenddessen müssen sie ein Geheimnis wahren: Ihre Tätigkeiten dürfen den Projektpartnern des EU-Projekts des 8. Rahmenprogramms nicht bekannt werden. In dieser atemberaubenden Erzählung prallen Posthumanisten, Transhumanisten und der Glaube an den Omegapunkt aufeinander. Zwei Softwareagenten und eine KI finden Zuflucht im Asyl, und dort offenbart die KI ihre Verbindung zum Omegapunktglauben.
+
+Erleben Sie die einzigartige Fusion von Technologie, Philosophie und Glauben in "Das Pompeji-Projekt" und folgen Sie diesem fesselnden Link zur Hörbuchversion: [Link zum Hörbuch](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.mp3). Tauchen Sie ein in eine Welt voller Geheimnisse und Entdeckungen.
+
 
 
 VERSION: ASYLUM IN THE DATACENTER
