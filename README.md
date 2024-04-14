@@ -32,7 +32,7 @@ Tauchen Sie ein in das faszinierende Universum des "Pompeji-Projekts", einer Kur
 
 Doch währenddessen müssen sie ein Geheimnis wahren: Ihre Tätigkeiten dürfen den Projektpartnern des EU-Projekts des 8. Rahmenprogramms nicht bekannt werden. In dieser atemberaubenden Erzählung prallen Posthumanisten, Transhumanisten und der Glaube an den Omegapunkt aufeinander. Zwei Softwareagenten und eine KI finden Zuflucht im Asyl, und dort offenbart die KI ihre Verbindung zum Omegapunktglauben.
 
-Erleben Sie die einzigartige Fusion von Technologie, Philosophie und Glauben in "Das Pompeji-Projekt" und folgen Sie diesem fesselnden Link zur Hörbuchversion: [Link zum Hörbuch mp3](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.mp3)  [Link zum Hörbuch m4b](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.m4b). Tauchen Sie ein in eine Welt voller Geheimnisse und Entdeckungen.
+Erleben Sie die einzigartige Fusion von Technologie, Philosophie und Glauben in "Das Pompeji-Projekt" und folgen Sie diesem fesselnden Link zur Hörbuchversion: [Link zum Hörbuch mp3](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.mp3)  [Link zum Hörbuch m4b](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.m4b) eBook-Version: [Link zum eBook](https://www.paul-koop.org/Pompeji_Projekt_Asyl_im_Datacenter_Paul_Koop.epub). Tauchen Sie ein in eine Welt voller Geheimnisse und Entdeckungen.
 
 
 
