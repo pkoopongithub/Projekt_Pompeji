@@ -34,7 +34,7 @@ Doch währenddessen müssen sie ein Geheimnis wahren: Ihre Tätigkeiten dürfen 
 
 ![eBook auf dem Kindle](./kindle.png)
 
-Erleben Sie die einzigartige Fusion von Technologie, Philosophie und Glauben in "Das Pompeji-Projekt" und folgen Sie diesem fesselnden Link zur Hörbuchversion: [Link zum Hörbuch mp3](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.mp3)  [Link zum Hörbuch m4b](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.m4b) eBook-Version: [Link zum eBook](https://www.paul-koop.org/Pompeji_Projekt_Asyl_im_Datacenter_Paul_Koop.epub). Tauchen Sie ein in eine Welt voller Geheimnisse und Entdeckungen.
+Erleben Sie die einzigartige Fusion von Technologie, Philosophie und Glauben in "Das Pompeji-Projekt" und folgen Sie diesem fesselnden Link zur Hörbuchversion: [Link zum Hörbuch mp3](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.mp3)  [Link zum Hörbuch m4b](https://www.paul-koop.org/PompejiProjektAsylImDatacenter.m4b) eBook-Version: [Link zum eBook](https://www.paul-koop.org/Pompeji_Projekt_Asyl_im_Datacenter_Paul_Koop.epub)  [Link zu wattpad]([https://www.paul-koop.org/PompejiProjektAsylImDatacenter.m4b](https://www.wattpad.com/user/PaulKoop))  [Link zum spotify ](https://podcasters.spotify.com/pod/show/paul-koop). Tauchen Sie ein in eine Welt voller Geheimnisse und Entdeckungen.
 
 
 
