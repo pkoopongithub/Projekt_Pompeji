@@ -43,19 +43,6 @@ These works offer a rich foundation for creative adaptations:
 
 
 
-## Contributions
-
-Successors, heirs, or other creative minds are invited to bring their ideas to the table and further develop the story.
-
-Please contact us via the Issues page or email to submit suggestions or contributions.
-
-## Contact
-
-For questions or suggestions: [Contact the Author](mailto:paul.koop@example.com)
-
----
-
-We hope this trilogy inspires and sparks new ideas. Enjoy exploring and building upon these works!
 
 
 
@@ -94,20 +81,3 @@ Diese Werke bieten eine reichhaltige Grundlage für kreative Adaptionen:
 Enthält das Manuskript von *Das Pompeji-Projekt*.
 Enthält das Manuskript von *I.R.A.R.A.H. antwortet*.
 Enthält das Manuskript von *Die letzte Freiheit*.
-
-
-
-
-## Mitwirken
-
-Nachfolger, Erben oder andere kreative Küpfer sind eingeladen, ihre Ideen einzubringen und die Geschichte weiterzuentwickeln. 
-
-Bitte kontaktieren Sie uns über die Issues-Seite oder per E-Mail, um Vorschläge oder Beiträge einzureichen.
-
-## Kontakt
-
-Bei Fragen oder Vorschlägen: [Autor kontaktieren](mailto:paul.koop@example.com)
-
----
-
-Wir hoffen, dass diese Trilogie inspiriert und zu neuen Ideen anregt. Viel Freude bei der Lektüre und Weiterentwicklung!
