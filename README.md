@@ -36,10 +36,10 @@ These works offer a rich foundation for creative adaptations:
 
 ## Repository Structure
 
-- **`/Volume_1/`** – Contains the manuscript of *The Pompeii Project*.
-- **`/Volume_2/`** – Contains the manuscript of *I.R.A.R.A.H. Responds*.
-- **`/Volume_3/`** – Contains the manuscript of *The Last Freedom*.
-- **`/Reviews/`** – Compiles the reviews for each volume.
+- Contains the manuscript of *The Pompeii Project*.
+- Contains the manuscript of *I.R.A.R.A.H. Responds*.
+- Contains the manuscript of *The Last Freedom*.
+
 
 
 
@@ -91,10 +91,10 @@ Diese Werke bieten eine reichhaltige Grundlage für kreative Adaptionen:
 
 ## Struktur des Repositories
 
-- **`/Band_1/`** – Enthält das Manuskript von *Das Pompeji-Projekt*.
-- **`/Band_2/`** – Enthält das Manuskript von *I.R.A.R.A.H. antwortet*.
-- **`/Band_3/`** – Enthält das Manuskript von *Die letzte Freiheit*.
-- **`/Rezensionen/`** – Zusammenstellung der Rezensionen zu jedem Band.
+Enthält das Manuskript von *Das Pompeji-Projekt*.
+Enthält das Manuskript von *I.R.A.R.A.H. antwortet*.
+Enthält das Manuskript von *Die letzte Freiheit*.
+
 
 
 
