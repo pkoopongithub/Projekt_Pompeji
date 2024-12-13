@@ -78,6 +78,6 @@ Diese Werke bieten eine reichhaltige Grundlage für kreative Adaptionen:
 
 ## Struktur des Repositories
 
-Enthält das Manuskript von *Das Pompeji-Projekt*.
-Enthält das Manuskript von *I.R.A.R.A.H. antwortet*.
-Enthält das Manuskript von *Die letzte Freiheit*.
+- Enthält das Manuskript von *Das Pompeji-Projekt*.
+- Enthält das Manuskript von *I.R.A.R.A.H. antwortet*.
+- Enthält das Manuskript von *Die letzte Freiheit*.
