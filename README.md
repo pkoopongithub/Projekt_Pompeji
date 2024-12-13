@@ -1,5 +1,9 @@
 # Projekt_Pompeji
 
+<p align="center">
+  <img src="Trilogie.jpg" alt="Trilogy Cover Image">
+</p>
+
 # The Last Freedom – A Dystopian Science Fiction Trilogy
 
 Welcome to the official repository of the trilogy **"The Last Freedom"** by Paul Koop. This collection of three works combines philosophical reflections, technological visions, and human conflicts in a dystopian setting. It serves as a foundation for creative adaptations, continuations, or interpretations.
