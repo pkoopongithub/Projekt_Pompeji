@@ -1,7 +1,7 @@
 # Projekt_Pompeji
 
 <p align="center">
-  <img src="Trilogie.jpg" alt="Trilogy Cover Image">
+  <img src="Trilogie.png" alt="Trilogy Cover Image">
 </p>
 
 
