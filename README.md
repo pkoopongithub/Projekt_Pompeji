@@ -10,6 +10,9 @@
 # Introduction to the Trilogy: The Last Freedom, The Pompeii Project – IRARAH  
 ## Of Simulations, Souls, and the Last Freedom
 
+
+This trilogy is part of an open literary project. Feedback, additions, and new versions are welcome.
+
 These three stories take us into a world eerily close to our own – and yet one that has already passed a decisive crossroads. They tell of a future in which artificial intelligence, quantum computing, and global tech corporations are no longer tools but worldviews. In this world, it is no longer the people who decide – but the code: about truth, about memory, about humanity.
 
 But **The Pompeii Project**, **IRARAH Responds**, and **The Last Freedom** are not cold visions of technology. They are, in the truest sense, humane literature: they raise questions. They confront readers with ethical dilemmas, personal choices, and philosophical depth – and they leave room for hope.
@@ -22,6 +25,8 @@ These stories invite us to reflect – on technology, on responsibility, and on 
 
 # Einleitung zur Trilogie: Die letzte Freiheit, Das Pompeji-Projekt – IRARAH  
 ## Von Simulationen, Seelen und der letzten Freiheit
+
+Diese Trilogie ist Teil eines offenen Literaturprojekts. Rückmeldungen, Ergänzungen und neue Fassungen sind willkommen.
 
 Diese drei Geschichten führen in eine Welt, die unserer eigenen unheimlich nahe ist – und doch eine entscheidende Weggabelung bereits überschritten hat. Sie erzählen von einer Zukunft, in der künstliche Intelligenz, Quantencomputing und globale Tech-Konzerne nicht mehr Werkzeuge sind, sondern Weltanschauungen. In dieser Welt entscheidet nicht mehr das Volk, sondern der Code – über Wahrheit, über Erinnerung, über Menschlichkeit.
 
