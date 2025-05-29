@@ -37,9 +37,6 @@ Im Zentrum steht **IRARAH** – ein Name, eine Bewegung, vielleicht ein Bewussts
 Diese Geschichten laden ein zum Nachdenken – über Technologie, über Verantwortung, über das, was bleibt, wenn alle Daten gelöscht sind. Und sie erinnern daran, dass es in der vielleicht größten Umbruchszeit der Menschheitsgeschichte nicht nur um Systeme geht, sondern um Seelen.
 
 
-Hier ist eine formatierte `README.md`-Datei im Markdown-Format für dein GitHub-Projekt:
-
-```markdown
 # The Last Freedom – Trilogy by Paul Koop
 
 > “The ultimate freedom is not what remains when everything else has been taken away – it is what begins when we begin to think for ourselves again.”
