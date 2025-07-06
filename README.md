@@ -70,7 +70,7 @@ The trilogy explores the conflict between technocratic control and human autonom
 
 ---
 
-## 🧭 Critical Perspective in English
+## 🧭 Critical Perspective
 
 ### **1. Topics like Conscientious Objection, Budapest, and Freedom of Expression in Kassel**
 
@@ -195,7 +195,7 @@ Die Trilogie verhandelt den Konflikt zwischen technokratischer Kontrolle und men
 
 ---
 
-## 🧭 Gesellschaftskritischer Hintergrund (Deutsch)
+## 🧭 Gesellschaftskritischer Hintergrund
 
 ### **1. Themen wie Kriegsdienstverweigerung, Budapest, Meinungsfreiheit in Kassel**
 
