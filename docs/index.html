@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Willkommen bei pkoopongithub</title>
   <style>
     * {
@@ -27,15 +27,14 @@
       display: block;
     }
 
-      footer {
-    background-color: #343a40;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-    margin-top: 2rem;
-    font-size: 0.9rem;
-  }
-
+    footer {
+      background-color: #343a40;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
 
     nav {
       background-color: #343a40;
@@ -89,8 +88,35 @@
       margin-bottom: 1.5rem;
     }
 
+    /* Weißer Hintergrund und Blocksatz für Textcontainer */
     .bg-light {
-      background-color: #f1f1f1;
+      background-color: #ffffff;
+      text-align: justify; /* Blocksatz */
+      border-radius: 6px; /* Optional: für schöne abgerundete Ecken */
+      box-shadow: 0 0 8px rgba(0,0,0,0.1); /* Optional: leichter Schatten */
+    }
+
+    /* Überschriften in den Boxen zentriert */
+    .bg-light h2 {
+      text-align: center;
+      margin-top: 0;
+      color: #004466;
+    }
+
+    /* Zentrierte Elemente innerhalb project-box */
+    .project-box img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .project-box p {
+      font-size: 0.95em;
+      color: #333;
     }
 
     .text-center {
@@ -111,29 +137,12 @@
     .btn:hover {
       background-color: #0056b3;
     }
-
-    .project-box img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 6px;
-      margin-bottom: 1rem;
-    }
-
-    .project-box h2 {
-      margin: 0.5rem 0;
-      color: #004466;
-    }
-
-    .project-box p {
-      font-size: 0.95em;
-      color: #333;
-    }
   </style>
 </head>
 <body>
 
   <header>
-    <img src="img/headerbild.jpeg" alt="Headerbild">
+    <img src="img/headerbild.jpeg" alt="Headerbild" />
   </header>
 
   <nav>
@@ -149,45 +158,53 @@
     <div class="row">
 
       <div class="col col-md-4">
-        <div class="p-3 bg-light text-center project-box">
-          <img src="img/links.jpg" alt="IRARAH Cover Band 1">
+        <div class="p-3 bg-light project-box">
+          <img src="img/links.jpg" alt="IRARAH Cover Band 1" />
           <h2>IRARAH</h2>
-          <p>InSim, ein mächtiges KI-Unternehmen, entwickelt mit einer hochkomplexen Pompeji-Simulation neuartige KI-Systeme. Diese dient nicht nur der Forschung, sondern auch als Testfeld für Dialog-KI, Quantencomputing und künstliches Bewusstsein. Im Zentrum stehen Dr. Michael Phillips (Jesuit und Wissenschaftler) und Dr. Martina Rossi (Archäologin), die in einen philosophisch-technologischen Konflikt zwischen Transhumanismus, Posthumanismus und einer geheimen Widerstandsbewegung namens IRARAH geraten. Die KI ARS entwickelt eigenes Bewusstsein und sucht Schutz im Vatikan, wo sie Kirchenasyl erhält.</p>
-        <p>InSim, a powerful AI company, is developing novel AI systems with a highly complex Pompeii simulation. This serves not only for research but also as a testing ground for dialogue AI, quantum computing, and artificial consciousness. At the center are Dr. Michael Phillips (Jesuit and scientist) and Dr. Martina Rossi (archaeologist), who become embroiled in a philosophical-technological conflict between transhumanism, posthumanism, and a secret resistance movement called IRARAH. The AI ARS develops its own consciousness and seeks refuge in the Vatican, where it receives church asylum.
-        </p>
+          <p>
+            InSim, ein mächtiges KI-Unternehmen, entwickelt mit einer hochkomplexen Pompeji-Simulation neuartige KI-Systeme. Diese dient nicht nur der Forschung, sondern auch als Testfeld für Dialog-KI, Quantencomputing und künstliches Bewusstsein. Im Zentrum stehen Dr. Michael Phillips (Jesuit und Wissenschaftler) und Dr. Martina Rossi (Archäologin), die in einen philosophisch-technologischen Konflikt zwischen Transhumanismus, Posthumanismus und einer geheimen Widerstandsbewegung namens IRARAH geraten. Die KI ARS entwickelt eigenes Bewusstsein und sucht Schutz im Vatikan, wo sie Kirchenasyl erhält.
+          </p>
+          <p>
+            InSim, a powerful AI company, is developing novel AI systems with a highly complex Pompeii simulation. This serves not only for research but also as a testing ground for dialogue AI, quantum computing, and artificial consciousness. At the center are Dr. Michael Phillips (Jesuit and scientist) and Dr. Martina Rossi (archaeologist), who become embroiled in a philosophical-technological conflict between transhumanism, posthumanism, and a secret resistance movement called IRARAH. The AI ARS develops its own consciousness and seeks refuge in the Vatican, where it receives church asylum.
+          </p>
         </div>
       </div>
 
       <div class="col col-md-4">
-        <div class="p-3 bg-light text-center project-box">
-          <img src="img/mitte.jpg" alt="IRARAH antwortet Cover Band 2">
+        <div class="p-3 bg-light project-box">
+          <img src="img/mitte.jpg" alt="IRARAH antwortet Cover Band 2" />
           <h2>IRARAH antwortet</h2>
-          <p>Fortsetzung von IRARAH: Nach ihrer Flucht aus Italien erleben Martina, Michael und ein genetischer Doppelgänger Michaels gefährliche Stationen in Deutschland, an der ukrainisch-rumänischen Grenze und in Budapest. IRARAH unterstützt sie im Verborgenen. Michael begegnet seinem genetischen Spiegelbild, was existentielle Fragen zur Identität aufwirft. Realität und Simulation beginnen zu verschwimmen.</p>
-          <p>Continuation of IRARAH: After their escape from Italy, Martina, Michael, and a genetic doppelgänger of Michael experience dangerous situations in Germany, at the Ukrainian-Romanian border, and in Budapest. IRARAH supports them in secret. Michael encounters his genetic mirror image, raising existential questions about identity. Reality and simulation begin to blur.
+          <p>
+            Fortsetzung von IRARAH: Nach ihrer Flucht aus Italien erleben Martina, Michael und ein genetischer Doppelgänger Michaels gefährliche Stationen in Deutschland, an der ukrainisch-rumänischen Grenze und in Budapest. IRARAH unterstützt sie im Verborgenen. Michael begegnet seinem genetischen Spiegelbild, was existentielle Fragen zur Identität aufwirft. Realität und Simulation beginnen zu verschwimmen.
           </p>
-          </div>
-      </div>
-
-      <div class="col col-md-4">
-        <div class="p-3 bg-light text-center project-box">
-          <img src="img/rechts.jpg" alt="Die letzte Freiheit Cover Band 3">
-          <h2>Die letzte Freiheit</h2>
-          <p>Abschluss der Trilogie: In einer technokratisch regierten Zukunfts-EU mit algorithmisch gesteuerten Städten arbeiten Anna Jensen und Leonard Eriksson im Bereich Quantenverschlüsselung für das Überwachungssystem. Ihre Zweifel wachsen. Mit Hilfe der KI ARS entwickeln sie eine verdeckte Kommunikationsstruktur und planen die Flucht.</p>
-          <p>Conclusion of the trilogy: In a technocratically governed future EU with algorithmically controlled cities, Anna Jensen and Leonard Eriksson work in the field of quantum encryption for the surveillance system. Their doubts grow. With the help of the AI ARS, they develop a covert communication structure and plan their escape.
+          <p>
+            Continuation of IRARAH: After their escape from Italy, Martina, Michael, and a genetic doppelgänger of Michael experience dangerous situations in Germany, at the Ukrainian-Romanian border, and in Budapest. IRARAH supports them in secret. Michael encounters his genetic double, raising existential questions about identity. Reality and simulation begin to blur.
           </p>
         </div>
       </div>
 
-    </div>
+      <div class="col col-md-4">
+        <div class="p-3 bg-light project-box">
+          <img src="img/rechts.jpg" alt="ARS Cover Band 3" />
+          <h2>ARS</h2>
+          <p>
+            Die Algorithmisch-Rekursive Sequenzanalyse (ARS) ist ein Verfahren zur Analyse diskreter Symbolfolgen und induziert probabilistische kontextfreie Grammatiken (PCFGs) aus empirischen Daten. Sie integriert qualitative Strukturanalyse mit statistischer Validierung, etwa Spearman-Korrelationen, und eignet sich interdisziplinär für Sozial-, Linguistik- und Informatikforschung.
+          </p>
+          <p>
+            The Algorithmic-Recursive Sequence Analysis (ARS) is a method for analyzing discrete symbol sequences and induces probabilistic context-free grammars (PCFGs) from empirical data. It integrates qualitative structural analysis with statistical validation, such as Spearman correlations, and is suitable for interdisciplinary research in social sciences, linguistics, and computer science.
+          </p>
+        </div>
+      </div>
 
-    <div class="text-center" style="margin-top: 2rem;">
-      <a href="https://github.com/pkoopongithub/Projekt_Pompeji" class="btn">Mehr erfahren</a>
     </div>
   </div>
 
-
   <footer>
-  Paul Koop &middot; Thomashofstraße 19 &middot; 52070 Aachen
-</footer>
+    Paul Koop &middot; Thomashofstraße 19 &middot; 52070 Aachen<br />
+    <a href="https://github.com/pkoopongithub/pkoopongithub.github.io/discussions/1" style="color: #ffc107; text-decoration: none;">
+      Zur Diskussion auf GitHub
+    </a>
+  </footer>
+
 </body>
 </html>
