@@ -10,7 +10,7 @@
 
 # Trilogy "The Last Freedom"
 
-The LaTeX version of this project is also available for viewing and editing on Overleaf:  
+The LaTeX version of this project is also available on Overleaf:  
 👉 [Open Overleaf project](https://www.overleaf.com/read/kbkzgjqkfhqv#d0295b)
 
 ## 1. "The Pompeii Project: IRARAH"
@@ -136,7 +136,7 @@ church thinkers, liberty-minded intellectuals, tech-skeptical ethicists, decentr
 
 # Trilogie "Die letzte Freiheit"
 
-Die LaTeX-Version dieses Projekts kann auch direkt auf Overleaf eingesehen und bearbeitet werden:  
+Die LaTeX-Version dieses Projekts kann auch direkt auf Overleaf eingesehen werden:  
 👉 [Overleaf-Projekt öffnen](https://www.overleaf.com/read/kbkzgjqkfhqv#d0295b)
 
 ## 1. "Das Pompeji-Projekt: IRARAH"
