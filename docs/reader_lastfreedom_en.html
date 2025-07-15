@@ -22,7 +22,13 @@
   <div id="viewer"></div>
   <script>
     const book = ePub("TheLastFreedom.epub");
-    book.renderTo("viewer", { width: "100%", height: "100%" }).display();
+    //book.renderTo("viewer", { width: "100%", height: "100%" }).display();
+      const rendition = book.renderTo("viewer", {
+      width: "100%",
+      height: "95vh"
+    });
+    book.ready.then(() => rendition.display());
+  </script>
   </script>
 </body>
 </html>
