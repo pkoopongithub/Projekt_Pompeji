@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>The Last Freedom – EPUB Reader</title>
+  <script src="https://unpkg.com/epubjs/dist/epub.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f8f8f8;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    #viewer {
+      width: 100%;
+      height: calc(100vh - 80px);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Last Freedom</h1>
+  </header>
+  <div id="viewer"></div>
+
+  <script>
+    const book = ePub("https://pkoopongithub.github.io/Projekt_Pompeji/TheLastFreedom.epub");
+    const rendition = book.renderTo("viewer", {
+      width: "100%",
+      height: "100%"
+    });
+    rendition.display();
+  </script>
+</body>
+</html>
