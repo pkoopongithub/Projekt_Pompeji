@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:e760aef5-61b0-4631-886b-c7a8208eb056" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="image0_png" />
+  </head>
+  <docTitle>
+    <text>Pompeji IRARAH</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Pompeji IRARAH</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Pompeji IRARAH</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#pompeji-irarah" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Prolog – Der Beginn einer neuen Ära</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#prolog-der-beginn-einer-neuen-uxe4ra" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>InSim</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#insim" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Der Anruf</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#der-anruf" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>Heimweg zum Collegium</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#heimweg-zum-collegium" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>Fahrt nach Pompeji</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#fahrt-nach-pompeji" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>Der Workshop</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#der-workshop" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>Rückfahrt nach Rom und Pompeji</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#ruxfcckfahrt-nach-rom-und-pompeji" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>Zurück im Collegium</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#zuruxfcck-im-collegium" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>ARS schickt eine Brieftaube</text>
+      </navLabel>
+      <content src="text/ch010.xhtml#ars-schickt-eine-brieftaube" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>Gespräch mit dem Provinzial und dem Rektor</text>
+      </navLabel>
+      <content src="text/ch011.xhtml#gespruxe4ch-mit-dem-provinzial-und-dem-rektor" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>Gespräch mit dem General und dem Pontifex</text>
+      </navLabel>
+      <content src="text/ch012.xhtml#gespruxe4ch-mit-dem-general-und-dem-pontifex" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>ARS und die Softwareagenten kommen im Datacenter des Vatikan an</text>
+      </navLabel>
+      <content src="text/ch013.xhtml#ars-und-die-softwareagenten-kommen-im-datacenter-des-vatikan-an" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>Die Begegnung in der Simulation</text>
+      </navLabel>
+      <content src="text/ch014.xhtml#die-begegnung-in-der-simulation" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>Flucht aus Pompeji</text>
+      </navLabel>
+      <content src="text/ch015.xhtml#flucht-aus-pompeji" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>Ankunft am Flughafen</text>
+      </navLabel>
+      <content src="text/ch016.xhtml#ankunft-am-flughafen" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>Flug nach Deutschland</text>
+      </navLabel>
+      <content src="text/ch017.xhtml#flug-nach-deutschland" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>Ankunft im Kloster in Deutschland</text>
+      </navLabel>
+      <content src="text/ch018.xhtml#ankunft-im-kloster-in-deutschland" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>Epilog – Die Nachricht von ARS</text>
+      </navLabel>
+      <content src="text/ch019.xhtml#epilog-die-nachricht-von-ars" />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>Quellen: </text>
+      </navLabel>
+      <content src="text/ch020.xhtml#quellen" />
+    </navPoint>
+  </navMap>
+</ncx>
