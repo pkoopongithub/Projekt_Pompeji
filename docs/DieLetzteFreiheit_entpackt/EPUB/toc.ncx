@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:8897aa76-2ef4-4c30-8633-0c02fba7e7b1" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="image0001_png" />
+  </head>
+  <docTitle>
+    <text>Die letzte Freiheit</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Die letzte Freiheit</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Die letzte Freiheit</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#die-letzte-freiheit" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Annas Leben in der Encryption and Telecommunication Zone</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#annas-leben-in-der-encryption-and-telecommunication-zone" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Anna lernt Leonard kennen</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#anna-lernt-leonard-kennen" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Die Entdeckung von ARS</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#die-entdeckung-von-ars" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>Geschichtsforschung mit ARS</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#geschichtsforschung-mit-ars" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>Die Ausreise</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#die-ausreise" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>Ein neues Leben</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#ein-neues-leben" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>Epilog</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#epilog" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>Einflüsse und Inspirationen für Das Pompeji-Projekt I.R.A.R.A.H</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#einfluxfcsse-und-inspirationen-fuxfcr-das-pompeji-projekt-i.r.a.r.a.h" />
+    </navPoint>
+  </navMap>
+</ncx>
