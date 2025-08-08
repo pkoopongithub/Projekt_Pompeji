@@ -1,4 +1,5 @@
-# 📚 Projekt Pompeji – EPUB.js-Integration
+# 📚 Projekt Pompeji – EPUB.js-Integration Projekt_Pompeji/docs/
+
 
 Dieses Verzeichnis enthält HTML-Dateien und entpackte EPUB-Inhalte zur Anzeige von E-Books direkt im Browser. Die Darstellung erfolgt mit Hilfe der JavaScript-Bibliothek [epub.js](https://github.com/futurepress/epub.js).
 
