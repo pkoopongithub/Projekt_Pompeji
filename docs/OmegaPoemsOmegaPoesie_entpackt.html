@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>IRARAH – Entpackt</title>
+  <!--<script src="https://unpkg.com/epubjs/dist/epub.min.js"></script>-->
+  <script src="libs/epub.min.js"></script>
+  <style>
+    body, html {
+      margin: 0; padding: 0; height: 100%; font-family: sans-serif;
+    }
+    #viewer {
+      height: 90vh; width: 100%; border-top: 1px solid #ccc;
+    }
+    #nav {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.5rem;
+      background: #f0f0f0;
+    }
+    #toc {
+      position: absolute;
+      top: 2.5rem;
+      left: 1rem;
+      background: white;
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      max-height: 60vh;
+      overflow-y: auto;
+      display: none;
+      z-index: 10;
+    }
+    #toc a {
+      display: block;
+      text-decoration: none;
+      color: #333;
+      margin-bottom: 0.3rem;
+    }
+    #toc a:hover {
+      text-decoration: underline;
+    }
+    .backlink {
+      display: block;
+      padding: 1rem;
+      text-align: center;
+      background: #eee;
+      text-decoration: none;
+    }
+    button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+<a href="./index.html" class="backlink">🔙 Zurück zur Übersicht</a>
+
+<div id="nav">
+  <div>
+    <button onclick="rendition.prev()">◀️ Zurück</button>
+    <button onclick="rendition.next()">▶️ Weiter</button>
+  </div>
+  <button onclick="toggleTOC()">📑 Inhaltsverzeichnis</button>
+</div>
+
+<div id="toc"></div>
+<div id="viewer"></div>
+
+<script>
+  const book = ePub("./OmegaPoemsOmegaPoesie_entpackt/");
+  const rendition = book.renderTo("viewer", {
+    width: "100%",
+    height: "90vh"
+  });
+
+  book.ready.then(() => {
+    rendition.display();
+
+    // Inhaltsverzeichnis laden
+    return book.loaded.navigation;
+  }).then((nav) => {
+    const tocElement = document.getElementById("toc");
+    nav.toc.forEach((chapter) => {
+      const item = document.createElement("a");
+      item.textContent = chapter.label;
+      item.href = "#";
+      item.onclick = (e) => {
+        e.preventDefault();
+        rendition.display(chapter.href);
+        tocElement.style.display = "none";
+      };
+      tocElement.appendChild(item);
+    });
+  });
+
+  // Tastatursteuerung
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "ArrowRight") {
+      rendition.next();
+    } else if (e.key === "ArrowLeft") {
+      rendition.prev();
+    }
+  });
+
+  function toggleTOC() {
+    const toc = document.getElementById("toc");
+    toc.style.display = toc.style.display === "block" ? "none" : "block";
+  }
+</script>
+
+</body>
+</html>
