@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" xml:lang="en-US" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:uuid:d5e3722d-4104-4c4e-8c85-c09c1a90b9a1</dc:identifier>
+    <dc:title id="epub-title-1">Omega Poems - Omega Poesie</dc:title>
+    <dc:date id="epub-date">2025-09-22T08:01:46Z</dc:date>
+    <dc:language>en-US</dc:language>
+    <dc:creator id="epub-creator-1">Paul Koop</dc:creator>
+    <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+    <meta property="dcterms:modified">2025-09-22T08:01:46Z</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="stylesheet1" href="styles/stylesheet1.css" media-type="text/css" />
+    <item id="cover_xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml" properties="svg" />
+    <item id="title_page_xhtml" href="text/title_page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001_xhtml" href="text/ch001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002_xhtml" href="text/ch002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003_xhtml" href="text/ch003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004_xhtml" href="text/ch004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005_xhtml" href="text/ch005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006_xhtml" href="text/ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="text/ch007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008_xhtml" href="text/ch008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009_xhtml" href="text/ch009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010_xhtml" href="text/ch010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011_xhtml" href="text/ch011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012_xhtml" href="text/ch012.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch013_xhtml" href="text/ch013.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch014_xhtml" href="text/ch014.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch015_xhtml" href="text/ch015.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch016_xhtml" href="text/ch016.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch017_xhtml" href="text/ch017.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch018_xhtml" href="text/ch018.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch019_xhtml" href="text/ch019.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch020_xhtml" href="text/ch020.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch021_xhtml" href="text/ch021.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch022_xhtml" href="text/ch022.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch023_xhtml" href="text/ch023.xhtml" media-type="application/xhtml+xml" />
+    <item properties="cover-image" id="file18_png" href="media/file18.png" media-type="image/png" />
+    <item id="file17_png" href="media/file17.png" media-type="image/png" />
+    <item id="file16_png" href="media/file16.png" media-type="image/png" />
+    <item id="file15_png" href="media/file15.png" media-type="image/png" />
+    <item id="file14_png" href="media/file14.png" media-type="image/png" />
+    <item id="file13_png" href="media/file13.png" media-type="image/png" />
+    <item id="file12_png" href="media/file12.png" media-type="image/png" />
+    <item id="file11_png" href="media/file11.png" media-type="image/png" />
+    <item id="file10_png" href="media/file10.png" media-type="image/png" />
+    <item id="file9_png" href="media/file9.png" media-type="image/png" />
+    <item id="file8_png" href="media/file8.png" media-type="image/png" />
+    <item id="file7_png" href="media/file7.png" media-type="image/png" />
+    <item id="file6_png" href="media/file6.png" media-type="image/png" />
+    <item id="file5_png" href="media/file5.png" media-type="image/png" />
+    <item id="file4_png" href="media/file4.png" media-type="image/png" />
+    <item id="file3_png" href="media/file3.png" media-type="image/png" />
+    <item id="file2_png" href="media/file2.png" media-type="image/png" />
+    <item id="file1_png" href="media/file1.png" media-type="image/png" />
+    <item id="file0_png" href="media/file0.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover_xhtml" />
+    <itemref idref="title_page_xhtml" linear="yes" />
+    <itemref idref="nav" />
+    <itemref idref="ch001_xhtml" />
+    <itemref idref="ch002_xhtml" />
+    <itemref idref="ch003_xhtml" />
+    <itemref idref="ch004_xhtml" />
+    <itemref idref="ch005_xhtml" />
+    <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
+    <itemref idref="ch008_xhtml" />
+    <itemref idref="ch009_xhtml" />
+    <itemref idref="ch010_xhtml" />
+    <itemref idref="ch011_xhtml" />
+    <itemref idref="ch012_xhtml" />
+    <itemref idref="ch013_xhtml" />
+    <itemref idref="ch014_xhtml" />
+    <itemref idref="ch015_xhtml" />
+    <itemref idref="ch016_xhtml" />
+    <itemref idref="ch017_xhtml" />
+    <itemref idref="ch018_xhtml" />
+    <itemref idref="ch019_xhtml" />
+    <itemref idref="ch020_xhtml" />
+    <itemref idref="ch021_xhtml" />
+    <itemref idref="ch022_xhtml" />
+    <itemref idref="ch023_xhtml" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Omega Poems - Omega Poesie" href="nav.xhtml" />
+    <reference type="cover" title="Cover" href="text/cover.xhtml" />
+  </guide>
+</package>
