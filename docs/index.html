@@ -74,9 +74,30 @@
       padding: 0.5rem;
     }
 
+    /* Responsive Anpassungen */
+    @media (min-width: 576px) {
+      /* Tablets und größere Handys: 2 Container pro Zeile */
+      .col-sm-6 {
+        flex: 0 0 50%;
+      }
+    }
+
     @media (min-width: 768px) {
+      /* Desktop: 3 Container in der ersten Zeile, 4. Container darunter zentriert */
       .col-md-4 {
         flex: 0 0 33.3333%;
+      }
+      
+      /* Spezieller Container für den 4. Container bei Desktop */
+      .col-md-6 {
+        flex: 0 0 50%;
+      }
+    }
+
+    @media (min-width: 992px) {
+      /* Große Desktops: alle 4 Container in einer Zeile */
+      .col-lg-3 {
+        flex: 0 0 25%;
       }
     }
 
@@ -91,9 +112,9 @@
     /* Weißer Hintergrund und Blocksatz für Textcontainer */
     .bg-light {
       background-color: #ffffff;
-      text-align: justify; /* Blocksatz */
-      border-radius: 6px; /* Optional: für schöne abgerundete Ecken */
-      box-shadow: 0 0 8px rgba(0,0,0,0.1); /* Optional: leichter Schatten */
+      text-align: justify;
+      border-radius: 6px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
     }
 
     /* Überschriften in den Boxen zentriert */
@@ -157,8 +178,7 @@
     <h1 class="mb-4 text-center">Willkommen Welcome</h1>
 
     <div class="row">
-
-      <div class="col col-md-4">
+      <div class="col col-sm-6 col-md-4 col-lg-3">
         <div class="p-3 bg-light project-box">
           <img src="img/links.jpg" alt="IRARAH Cover Band 1" />
           <h2>IRARAH</h2>
@@ -175,7 +195,7 @@
         </div>
       </div>
 
-      <div class="col col-md-4">
+      <div class="col col-sm-6 col-md-4 col-lg-3">
         <div class="p-3 bg-light project-box">
           <img src="img/mitte.jpg" alt="IRARAH antwortet Cover Band 2" />
           <h2>IRARAH antwortet IRARAH answers</h2>
@@ -192,7 +212,7 @@
         </div>
       </div>
 
-      <div class="col col-md-4">
+      <div class="col col-sm-6 col-md-4 col-lg-3">
         <div class="p-3 bg-light project-box">
           <img src="img/rechts.jpg" alt="ARS Cover Band 3" />
           <h2>Die letzte Freiheit The last Freedom</h2>
@@ -209,7 +229,7 @@
         </div>
       </div>
 
-      <div class="col col-md-4">
+      <div class="col col-sm-6 col-md-6 col-lg-3">
         <div class="p-3 bg-light project-box">
           <img src="img/omega.jpg" alt="ARS Cover Band 4" />
           <h2>Omega Poesie Omega Poems</h2>
@@ -217,7 +237,7 @@
             Dieses Werk ist eine poetische und philosophische Auseinandersetzung mit der zentralen Frage, ob sich Vernunft und Glaube in unserer modernen Welt nicht nur vertragen, sondern gegenseitig bereichern können. Es wagt den Versuch, das christliche Bekenntnis neu zu deuten – nicht als eine Abkehr von der Wissenschaft, sondern als eine Fortsetzung des menschlichen Strebens nach Erkenntnis.
           </p>
           <p>
-            Der Begriff des Omegapunkts stammt ursprünglich vom französischen Theologen und Paläontologen Pierre Teilhard de Chardin. Er verstand ihn als den eschatologischen, also endzeitlichen, Punkt höchster Komplexität und Bewusstheit, auf den sich die gesamte Evolution des Kosmos zubewegt. Für Teilhard war der Omegapunkt nicht nur eine abstrakte Idee, sondern eine göttliche Realität, die in Christus kulminiert.
+            Der Begriff des Omegapunkts stammt ursprünglich vom französischen Theologen und Paläontologen Pierre Teilhard de Chardin. Er verstand ihn als den eschatologischen, also endzeitlichen, Punkt höchster Komplexität und Bewusstheit, auf den sich die gesamte Evolution des Cosmos zubewegt. Für Teilhard war der Omegapunkt nicht nur eine abstrakte Idee, sondern eine göttliche Realität, die in Christus kulminiert.
           </p>
           <p>
             Die hier vorliegenden Texte knüpfen an dieses visionäre Erbe an, gehen aber darüber hinaus. Sie verstehen den Omegapunkt nicht nur als ein fernes Ziel, sondern als eine dynamische Realität, die bereits in der Gegenwart wirksam ist. Inspiriert von zeitgenössischen Denkern wie Ilia Delio, die Teilhards Konzepte in den Kontext moderner Systemtheorie und Quantenphysik stellt, entwickelt diese Sammlung ein eigenes, kohärentes Modell.
@@ -236,8 +256,8 @@
           </p>
         </div>
       </div>
-
     </div>
+    
     <div class="text-center" style="margin-top: 2rem;">
       <a href="https://github.com/pkoopongithub/Projekt_Pompeji" class="btn">Mehr erfahren</a>
     </div>
@@ -258,7 +278,4 @@
   </footer>
 
 </body>
-
 </html>
-
-
