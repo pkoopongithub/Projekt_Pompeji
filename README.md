@@ -42,6 +42,7 @@ If you find this boring, you have been warned.
 *Your brain will not be spared.*
 
 🔗 https://pkoopongithub.github.io/Projekt_Pompeji/
+
 [Facebook](https://www.facebook.com/profile.php?id=61582087610370)
 
 
@@ -86,6 +87,7 @@ Falls Sie das langweilig finden, gilt: Sie wurden gewarnt.
 *Ihr Gehirn wird nicht verschont.*
 
 🔗 https://pkoopongithub.github.io/Projekt_Pompeji/
+
 [Facebook](https://www.facebook.com/profile.php?id=61582087610370)
 
 
