@@ -9,7 +9,11 @@
 
 ## Willkommen beim Pompeji-Projekt
 
-**Liebe Leserinnen und Leser, liebe Forschende, Studierende und Interessierte / Dear readers, researchers, students, and interested parties,**
+**Liebe Leserinnen und Leser,**
+
+Ich freue mich, mein experimentelles Erzähl- und Denkprojekt vorzustellen: die IRARAH-Trilogie – eine Geschichte über Freiheit, Bewusstsein und Widerstand in einer technologisch überwachten Welt.
+
+I am pleased to present my experimental storytelling and thinking project: the IRARAH Trilogy – a story about freedom, consciousness, and resistance in a technologically monitored world.
 
 Das Pompeji-Projekt ist mehr als eine Romanserie. Es ist ein **experimentelles Erzähl- und Denkprojekt**, das literarische Fiktion mit theoretischer Reflexion verbindet. Im Zentrum steht die Frage, wie sich Freiheit, Bewusstsein und Würde unter den Bedingungen einer technologisch-überwachten, evolutionär-offenen Wirklichkeit bewahren lassen.
 
