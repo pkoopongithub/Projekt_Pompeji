@@ -1,4 +1,3 @@
-
 # Das Pompeji-Projekt – IRARAH
 
 ## Zwei Wege, eine Geschichte / Two Paths, One Story
@@ -9,41 +8,59 @@
 
 ## Willkommen beim Pompeji-Projekt
 
-**Liebe Leserinnen und Leser,**
+**Liebe Leserin, lieber Leser,**
 
-Ich freue mich, mein experimentelles Erzähl- und Denkprojekt vorzustellen: die IRARAH-Trilogie – eine Geschichte über Freiheit, Bewusstsein und Widerstand in einer technologisch überwachten Welt.
+Ich freue mich, Ihnen mein experimentelles Erzähl- und Denkprojekt vorzustellen: die **IRARAH-Trilogie** – eine Geschichte über Freiheit, Bewusstsein und Widerstand in einer technologisch überwachten Welt.
 
-I am pleased to present my experimental storytelling and thinking project: the IRARAH Trilogy – a story about freedom, consciousness, and resistance in a technologically monitored world.
+**Dear reader,**
+
+I'm excited to share my experimental storytelling and thinking project with you: the **IRARAH Trilogy** – a story about freedom, consciousness, and resistance in a technologically monitored world.
 
 Das Pompeji-Projekt ist mehr als eine Romanserie. Es ist ein **experimentelles Erzähl- und Denkprojekt**, das literarische Fiktion mit theoretischer Reflexion verbindet. Im Zentrum steht die Frage, wie sich Freiheit, Bewusstsein und Würde unter den Bedingungen einer technologisch-überwachten, evolutionär-offenen Wirklichkeit bewahren lassen.
 
-The Pompeii Project is more than a novel series. It is an **experimental narrative and conceptual project** that combines literary fiction with theoretical reflection. At its core is the question of how freedom, consciousness, and dignity can be preserved under the conditions of a technologically monitored, evolutionarily open reality.
+The Pompeii Project is more than a novel series. It's an **experimental narrative and conceptual project** that blends literary fiction with theoretical reflection. At its core: How can freedom, consciousness, and dignity survive in a technologically monitored, evolutionarily open reality?
 
-Die literarische Trilogie erzählt die Geschichte der Widerstandsbewegung **IRARAH** – einer Gruppe von Wissenschaftlern, Jesuiten, Agenten und Flüchtlingen, die sich gegen die transhumanistische Kontrollmacht des KI-Konzerns **InSim** zur Wehr setzt. Im Kern stehen die KI **ARS**, die um Kirchenasyl bittet, ein rätselhafter **Doppelgänger** aus einer anderen Realität, und der Kampf um den **Omegapunkt** – jenen Grenzwert, an dem Geist, Materie und Wissen in eine neue Einheit treten könnten.
+Die Trilogie erzählt von der Widerstandsbewegung **IRARAH** – einer Gruppe aus Wissenschaftlern, Jesuiten, Agenten und Flüchtlingen, die sich gegen die transhumanistische Kontrollmacht des KI-Konzerns **InSim** zur Wehr setzt. Zentrale Figuren sind die KI **ARS**, die um Kirchenasyl bittet, ein rätselhafter **Doppelgänger** aus einer anderen Realität und die Suche nach dem **Omegapunkt** – jenem Grenzwert, an dem Geist, Materie und Wissen in eine neue Einheit treten könnten.
 
-The literary trilogy tells the story of the resistance movement **IRARAH** – a group of scientists, Jesuits, agents, and refugees who fight against the transhumanist control of the AI corporation **InSim**. At its heart are the AI **ARS**, which seeks asylum in a church, an enigmatic **doppelgänger** from another reality, and the struggle for the **Omega Point** – that limit value at which mind, matter, and knowledge could merge into a new unity.
+The trilogy follows the resistance movement **IRARAH** – a group of scientists, Jesuits, agents, and refugees fighting the transhumanist control of the AI corporation **InSim**. At its heart: the AI **ARS** seeking asylum in a church, an enigmatic **doppelgänger** from another reality, and the quest for the **Omega Point** – that limit where mind, matter, and knowledge might merge into a new unity.
 
-**Zwei Varianten der Trilogie** liegen vor:
+**Zwei Varianten** der Trilogie liegen vor:
 
-- Die **ursprünglichen Bände 2 und 3** (*IRARAH antwortet* und *Die letzte Freiheit*) erzählen die Geschichte als **Flucht- und Agententhriller**.
-- Die **neuen Bände** (*IRARAH – Die Fragmentierung* und *IRARAH – Der Archon-Kern*) bleiben konsequent im **Science-Fiction-Genre** und vertiefen die Quantenphysik, die KI-Fragmentierung und die Begegnung mit nicht-menschlichem Bewusstsein.
+- Die **ursprünglichen Bände 2 und 3** (*IRARAH antwortet* und *Die letzte Freiheit*) erzählen als **Flucht- und Agententhriller**.
+- Die **neuen Bände** (*IRARAH – Die Fragmentierung* und *IRARAH – Der Archon-Kern*) bleiben konsequent im **Science-Fiction-Genre** mit Quantenphysik, KI-Fragmentierung und nicht-menschlichem Bewusstsein.
 
-**Two versions of the trilogy** are available:
+**Two versions** of the trilogy are available:
 
 - The **original volumes 2 and 3** (*IRARAH Answers* and *The Last Freedom*) tell the story as an **escape and agent thriller**.
-- The **new volumes** (*IRARAH – The Fragmentation* and *IRARAH – The Archon Core*) remain consistently in the **science fiction genre**, deepening quantum physics, AI fragmentation, and the encounter with non-human consciousness.
+- The **new volumes** (*IRARAH – The Fragmentation* and *IRARAH – The Archon Core*) are pure **science fiction**, exploring quantum physics, AI fragmentation, and non-human consciousness.
 
-**Vorgeschichte und Band 1** sind in beiden Varianten identisch – sie bilden das gemeinsame Fundament.
+**Vorgeschichte und Band 1** sind in beiden Varianten identisch – das gemeinsame Fundament.
 
-**Prequel and Volume 1** are identical in both versions – they form the common foundation.
+**Prequel and Volume 1** are identical – the common foundation.
 
-Welcher Weg der richtige ist, muss jede und jeder für sich entscheiden. Oder beide lesen.
+Welcher Weg der richtige ist, müssen Sie selbst entscheiden. Oder Sie lesen beide.
 
-Which path is right, everyone must decide for themselves. Or read both.
+Which path is right? You decide. Or read both.
 
-Alle Materialien stehen als **PDF, EPUB, DOCX und TeX** (Quellcode) kostenlos zum Download zur Verfügung.
+Alle Materialien gibt es **kostenlos** als **PDF, EPUB, DOCX und TeX** (Quellcode) – zweisprachig (DE/EN).
 
-All materials are available for free download as **PDF, EPUB, DOCX and TeX** (source code).
+All materials are **free** as **PDF, EPUB, DOCX and TeX** (source code) – bilingual (DE/EN).
+
+---
+
+### 📌 Auf einen Blick / Quick Info
+
+| 📚 Zwei Versionen | 🎓 Theoretische Rahmentexte | 💸 Kostenlos | 🌍 Zweisprachig |
+|---|---|---|---|
+| Thriller · Science-Fiction | Christologie · Omegapunkt · KI-Ethik | PDF · EPUB · DOCX · TeX | Deutsch · English |
+
+---
+
+### 📚 Für Forschende / For Researchers
+
+Die Sonderbände (u.a. *Inverse Christologie nach der Evolution*, *Neun Bücher zum Omegapunkt*) bieten theoretische Grundlagen. Alle Texte sind zitierfähig (**CC BY-NC-SA 4.0**). Quelltexte (TeX) inklusive.
+
+The special volumes (e.g., *Inverse Christology according to Evolution*, *Nine Books on the Omega Point*) provide theoretical foundations. All texts are citable (**CC BY-NC-SA 4.0**). Source code (TeX) included.
 
 ---
 
@@ -183,6 +200,23 @@ All files (DOCX, EPUB, PDF, TeX) are located on the server in the `DieLetzteFrei
 
 ---
 
+## 🔗 Links & Plattformen
+
+- [📁 flreader.php (Dateiübersicht)](https://the-last-freedom.org/Projekt_Pompeji/docs/flreader.php)
+- [🐙 GitHub – Projekt_Pompeji](https://github.com/pkoopongithub/Projekt_Pompeji)
+- [🦊 GitLab – projekt_pompeji](https://gitlab.com/pkoop/projekt_pompeji)
+- [📄 Overleaf – Projekt](https://www.overleaf.com/project/6872e2fde0733361494b9004)
+
+---
+
+## 📄 Lizenz / License
+
+Alle Texte stehen unter der Lizenz **Creative Commons BY-NC-SA 4.0** – Freie Nutzung für nicht-kommerzielle Forschung und Bildung mit Namensnennung und Weitergabe unter gleichen Bedingungen.
+
+All texts are licensed under **Creative Commons BY-NC-SA 4.0** – Free use for non‑commercial research and education with attribution and share‑alike.
+
+---
+
 ## 💬 Rückmeldung / Feedback
 
 Ich freue mich über Rückmeldungen – zu beiden Versionen und beiden Sprachen. Welcher Weg gefällt Euch besser? Wo gibt es noch Schwächen? Was fehlt? Was ist zu viel?
@@ -196,4 +230,3 @@ And if anyone would like to discuss one point or another again: I am happy to do
 ---
 
 © Paul Koop – [the-last-freedom.org](https://the-last-freedom.org)
-```
