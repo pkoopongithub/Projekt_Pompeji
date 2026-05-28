@@ -1,6 +1,4 @@
-Hier ist die `README.md` im Markdown-Format, basierend auf dem überarbeiteten Eingangstext und der Struktur der HTML-Seite:
 
-```markdown
 # Das Pompeji-Projekt – IRARAH
 
 ## Zwei Wege, eine Geschichte / Two Paths, One Story
