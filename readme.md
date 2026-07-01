@@ -56,13 +56,7 @@ All materials are **free** as **PDF, EPUB, DOCX and TeX** (source code) – bili
 
 ---
 
-### 📚 Für Forschende / For Researchers
 
-Die Sonderbände (u.a. *Inverse Christologie nach der Evolution*, *Neun Bücher zum Omegapunkt*) bieten theoretische Grundlagen. Alle Texte sind zitierfähig (**CC BY-NC-SA 4.0**). Quelltexte (TeX) inklusive.
-
-The special volumes (e.g., *Inverse Christology according to Evolution*, *Nine Books on the Omega Point*) provide theoretical foundations. All texts are citable (**CC BY-NC-SA 4.0**). Source code (TeX) included.
-
----
 
 ## 📖 Gemeinsame Grundlage / Common Foundation
 
@@ -209,13 +203,7 @@ All files (DOCX, EPUB, PDF, TeX) are located on the server in the `DieLetzteFrei
 
 ---
 
-## 📄 Lizenz / License
 
-Alle Texte stehen unter der Lizenz **Creative Commons BY-NC-SA 4.0** – Freie Nutzung für nicht-kommerzielle Forschung und Bildung mit Namensnennung und Weitergabe unter gleichen Bedingungen.
-
-All texts are licensed under **Creative Commons BY-NC-SA 4.0** – Free use for non‑commercial research and education with attribution and share‑alike.
-
----
 
 ## 💬 Rückmeldung / Feedback
 
