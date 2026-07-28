@@ -1,0 +1,764 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\usepackage{amsthm}
+\usepackage{booktabs}
+\setcounter{secnumdepth}{3}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp}
+\else
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{%
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath}
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{%
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{%
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{}
+\urlstyle{same}
+\hypersetup{
+  pdftitle={The Trinity as a Necessary Structure of a Monistic Modal Ontology – Version 4},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}
+}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{definition}{Definition}
+\newtheorem{corollary}{Corollary}
+
+\title{The Trinity as a Necessary Structure of a Monistic Modal Ontology \\ \large Version 4 – Complete Formal Analysis}
+\author{Paul Koop}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+\emph{Past and future are horizons of knowledge. \\ The present is the locus of reality.}
+\end{center}
+
+\newpage
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\newpage
+
+\section{Preface}
+
+This treatise is the formal culmination of a long development. It unites the insights from all previous versions:
+
+\begin{itemize}
+\item \textbf{Versions 1–3:} Attempt to derive the Trinity directly from S5 – failed due to the missing bridge from existence to necessity.
+\item \textbf{Version 4 (old):} Proof that pure S5 is insufficient – the target formula is not derivable in S5 alone. This proof is now integrated into the new version.
+\item \textbf{Version 5:} Formalization of the superposition intuition and proof of the target formula in the extended system S5+SP.
+\end{itemize}
+
+The \textbf{present Version 4 (new)} unites both perspectives:
+
+\begin{enumerate}
+\item \textbf{Part I:} Rigorous formal proof that the target formula is \textbf{not} derivable in pure S5 (adoption of old Version 4).
+\item \textbf{Part II:} Rigorous formal proof that the target formula is \textbf{derivable} in the extended system S5+SP (with superposition axioms).
+\item \textbf{Part III:} Metatheoretical classification – what has been shown, what has not, and which questions remain open.
+\end{enumerate}
+
+The fundamental thesis of the entire investigation is:
+
+\begin{quote}
+\textbf{Under the axioms of monism (A1), the existence of a possible world (A4), the transcendental bridges (A11, A12), and the superposition hypothesis (ASP1–ASP5), the Trinity of origin, totality, and self-knowledge follows necessarily. Without the superposition hypothesis, it is not provable in S5.}
+\end{quote}
+
+\section{Introduction: Aim and Methodological Self-Restriction}
+
+Classical metaphysics has repeatedly attempted to derive the fundamental structure of reality from a few basic principles. A particular challenge arises from three seemingly distinct aspects:
+
+\begin{enumerate}
+\item \textbf{Why is there something rather than nothing?} – origin (U).
+\item \textbf{How does the totality of all possibilities relate to actuality?} – totality (T).
+\item \textbf{How can a state arise within reality that recognizes reality itself?} – self-knowledge (S).
+\end{enumerate}
+
+The ontology examined here proposes to answer these three questions not through three separate metaphysical substances, but through three necessary perspectives of the same reality:
+
+\begin{itemize}
+\item \textbf{Origin (U):} the necessary ground for the existence of possibilities at all – understood as the lower limit of totality;
+\item \textbf{Totality (T):} the entirety of all realized possibilities – understood as an open, well-founded interval;
+\item \textbf{Self-knowledge (S):} the reflexive completion of reality in a state of complete self-knowledge – understood as the upper limit of totality.
+\end{itemize}
+
+This structure is called the \textbf{Trinity}:
+
+\[
+Tr := U \land T \land S
+\]
+
+The term "Trinity" here denotes not a personal or substantial threefoldness, but a functional unity of three necessary aspects of a single reality.
+
+\section{Formal Language and Logical Framework}
+
+\subsection{Modal Logic S5}
+
+We work in first-order modal logic with identity in the system S5:
+
+\begin{itemize}
+\item \textbf{Necessity:} \(\Box p\)
+\item \textbf{Possibility:} \(\Diamond p := \neg\Box\neg p\)
+\end{itemize}
+
+\textbf{Axioms of S5:}
+\begin{itemize}
+\item (K) \(\Box(p \rightarrow q) \rightarrow (\Box p \rightarrow \Box q)\)
+\item (T) \(\Box p \rightarrow p\)
+\item (4) \(\Box p \rightarrow \Box\Box p\)
+\item (5) \(\Diamond p \rightarrow \Box\Diamond p\)
+\end{itemize}
+
+\textbf{Inference Rules:}
+\begin{itemize}
+\item \textbf{Modus Ponens:} From \(p\) and \(p \rightarrow q\), infer \(q\).
+\item \textbf{Necessitation:} From \(p\) (derivable), infer \(\Box p\).
+\end{itemize}
+
+\textbf{Tableau Rules for S5:}
+\begin{align*}
+& (\neg\Box) & \frac{\neg\Box A}{\Diamond\neg A} \\
+& (\Diamond) & \frac{\Diamond A}{A @ w_{\text{new}}} \quad \text{(new world)} \\
+& (\Box) & \frac{\Box A @ w}{A @ v} \quad \text{for every already existing world } v \\
+& (\neg\forall) & \frac{\neg\forall x A}{\exists x \neg A} \\
+& (\exists) & \frac{\exists x A}{A[a/x]} \quad \text{(a new)} \\
+& (\forall) & \frac{\forall x A}{A[a/x]} \quad \text{(a arbitrary)}
+\end{align*}
+
+\subsection{Predicate Logic}
+
+We use classical first-order predicate logic with identity (\(=\)) and the usual quantifiers (\(\forall, \exists\)).
+
+\section{The Axioms (Basic)}
+
+\subsection{A1 – Monism}
+
+There are no fundamentally separated domains of reality.
+
+\[
+\boxed{A1 := \Box\neg\exists x\exists y\, FundamentalSeparated(x,y)}
+\]
+
+\textbf{Explanation:} If two domains were fundamentally separated, there would be no causal or ontological interaction between them. They could not be part of a unified reality, which contradicts monism.
+
+\subsection{A4 – Existence of a Possible Reality}
+
+There is at least one possible world.
+
+\[
+\boxed{A4 := \Diamond\exists w\, World(w)}
+\]
+
+\textbf{Explanation:} This axiom ensures that the modal universe is not empty. It is the weakest possible existence axiom: it does not say that a world \textbf{actually} exists, but only that it is \textbf{possible}.
+
+\subsection{A11 – Transcendental Bridge}
+
+A world is separated from consciousness exactly when it contains no consciousness.
+
+\[
+\boxed{A11 := \forall w \left( \text{WorldSeparatedFromConsciousness}(w) \leftrightarrow \neg \exists c (Consciousness(c) \land c(w)) \right)}
+\]
+
+with the definition:
+
+\[
+\boxed{\text{WorldSeparatedFromConsciousness}(w) := \neg \exists c (Consciousness(c) \land c(w))}
+\]
+
+\textbf{Explanation:} This axiom formalizes the transcendental insight that a world without consciousness would be unknowable and therefore fundamentally separated – which is forbidden by monism (A1).
+
+\subsection{A12 – Experience and Realization}
+
+\[
+\boxed{A12 := \forall p. \text{Experienceable}(p) \leftrightarrow \exists w. Realized(w, p)}
+\]
+
+with the definition:
+
+\[
+\boxed{\text{Experienceable}(p) := \exists w. (\text{Consciousness}(w) \land \text{Realized}(w, p))}
+\]
+
+\textbf{Explanation:} This axiom states: A proposition is experienceable exactly when it is realized in a world. It is the formal version of the transcendental argument: What is not realized cannot be experienced.
+
+\subsection{A13, A14, A15 – The Three Implications of the Cases}
+
+These axioms formalize the three reductio cases:
+
+\[
+\boxed{A13 := \Box\forall x(T(x) \rightarrow U(x))}
+\]
+\[
+\boxed{A14 := \Box\forall x(U(x) \rightarrow S(x))}
+\]
+\[
+\boxed{A15 := \Box\forall x(S(x) \rightarrow T(x))}
+\]
+
+\textbf{Explanation:} They state that the three limits \(T, U, S\) stand in a mutual implication chain – which in S5 leads to their equivalence.
+
+\section{Definition of the Limit Structure}
+
+\subsection{Totality T as an Open, Well-Founded Interval}
+
+\textbf{Totality T} is the entirety of all realized states. We understand T as a \textbf{well-founded, open interval}:
+
+\[
+\boxed{T := \{ x \mid U < x < S \}}
+\]
+
+\textbf{Explanation:}
+\begin{itemize}
+\item An open interval \((U, S)\) contains all states between U and S, but \textbf{not} U and S themselves.
+\item \textbf{Well-foundedness:} Every non-empty subset of states has a minimal element. This prevents infinite chains of grounds.
+\item \textbf{Origin U} is the lower limit – that which comes closest to nothing, but is itself not nothing.
+\item \textbf{Self-knowledge S} is the upper limit – the complete transparency of totality, which itself does not belong to totality.
+\end{itemize}
+
+\subsection{Origin U as Lower Limit}
+
+\[
+\boxed{U := \lim_{x \to \inf} T}
+\]
+
+\subsection{Self-Knowledge S as Upper Limit}
+
+\[
+\boxed{S := \lim_{x \to \sup} T}
+\]
+
+\subsection{The Trinity}
+
+\[
+\boxed{Tr := U \land T \land S}
+\]
+
+\section{PART I: PROOF OF NON-DERIVABILITY IN PURE S5}
+
+\subsection{Goal}
+
+Show that:
+
+\[
+\boxed{\text{S5} \;\not\vdash\; \Box\forall x\,Tr(x)}
+\]
+
+does not follow from the axioms \(A1, A4, A11, A12, A13, A14, A15\) alone.
+
+\subsection{Method}
+
+Construct an \textbf{open S5 tableau} for the negation of the target formula.  
+According to the \textbf{soundness and completeness theorem} of the S5 tableau calculus:
+
+\begin{quote}
+A set of formulas is \textbf{satisfiable} in an S5 model exactly when the tableau has \textbf{an open branch}.
+\end{quote}
+
+Therefore: If the tableau for the negated target formula remains open, then there exists an S5 model that satisfies all axioms and the negation of the target formula – so the target formula is \textbf{not a theorem}.
+
+\subsection{Tableau (Pure Smullyan Rules)}
+
+\begin{verbatim}
+1.  ¬□∀x Tr(x)                                    [Assumption: target is not a theorem]
+2.  ◇¬∀x Tr(x)                                    [1, ¬□-rule]
+3.  ¬∀x Tr(x) @ w0                                [2, ◇-rule: new world w0]
+4.  ∃x ¬Tr(x) @ w0                                [3, ¬∀-rule: ¬∀xA ⊢ ∃x¬A]
+5.  ¬Tr(a) @ w0                                   [4, ∃-rule: a new]
+6.  ¬(T(a) ∧ U(a) ∧ S(a)) @ w0                    [5, D1 (Tr-definition)]
+
+    → β-rule on 6:
+    6a. ¬T(a) @ w0
+    6b. ¬U(a) @ w0
+    6c. ¬S(a) @ w0
+
+─────────────────────────────────────────────────────────────
+BRANCH 6a: ¬T(a) @ w0
+─────────────────────────────────────────────────────────────
+
+7.  □∀x(S(x) → T(x)) @ w0                         [A15]
+8.  ∀x(S(x) → T(x)) @ w0                          [7, □-rule]
+9.  S(a) → T(a) @ w0                              [8, ∀-rule]
+
+    → β-rule on 9:
+    9a. ¬S(a) @ w0
+    9b. T(a) @ w0                                  [Contradiction with 6a → branch 9b closes]
+
+    Thus: 9a. ¬S(a) @ w0
+
+10. □∀x(T(x) → U(x)) @ w0                         [A13]
+11. ∀x(T(x) → U(x)) @ w0                          [10, □-rule]
+12. T(a) → U(a) @ w0                              [11, ∀-rule]
+
+    → β-rule on 12:
+    12a. ¬T(a) @ w0                                [already in 6a]
+    12b. U(a) @ w0                                 [no contradiction]
+
+    → Choose branch 12a (consistent with 6a).
+
+13. □∀x(U(x) → S(x)) @ w0                         [A14]
+14. ∀x(U(x) → S(x)) @ w0                          [13, □-rule]
+15. U(a) → S(a) @ w0                              [14, ∀-rule]
+
+    → β-rule on 15:
+    15a. ¬U(a) @ w0
+    15b. S(a) @ w0                                 [Contradiction with 9a → branch 15b closes]
+
+    Thus: 15a. ¬U(a) @ w0
+
+    → In branch 6a: ¬T(a), ¬U(a), ¬S(a) @ w0.
+    → This is consistent – no contradiction.
+
+─────────────────────────────────────────────────────────────
+BRANCH 6b: ¬U(a) @ w0
+─────────────────────────────────────────────────────────────
+
+16. □∀x(T(x) → U(x)) @ w0                         [A13]
+17. ∀x(T(x) → U(x)) @ w0                          [16, □-rule]
+18. T(a) → U(a) @ w0                              [17, ∀-rule]
+
+    → β-rule on 18:
+    18a. ¬T(a) @ w0
+    18b. U(a) @ w0                                 [Contradiction with 6b → closes]
+
+    Thus: 18a. ¬T(a) @ w0
+
+19. □∀x(S(x) → T(x)) @ w0                         [A15]
+20. ∀x(S(x) → T(x)) @ w0                          [19, □-rule]
+21. S(a) → T(a) @ w0                              [20, ∀-rule]
+
+    → β-rule on 21:
+    21a. ¬S(a) @ w0
+    21b. T(a) @ w0                                 [Contradiction with 18a → closes]
+
+    Thus: 21a. ¬S(a) @ w0
+
+22. □∀x(U(x) → S(x)) @ w0                         [A14]
+23. ∀x(U(x) → S(x)) @ w0                          [22, □-rule]
+24. U(a) → S(a) @ w0                              [23, ∀-rule]
+
+    → β-rule on 24:
+    24a. ¬U(a) @ w0                                [already in 6b]
+    24b. S(a) @ w0                                 [Contradiction with 21a → closes]
+
+    → Consistent branch: ¬U(a), ¬T(a), ¬S(a) @ w0.
+
+─────────────────────────────────────────────────────────────
+BRANCH 6c: ¬S(a) @ w0
+─────────────────────────────────────────────────────────────
+
+25. □∀x(S(x) → T(x)) @ w0                         [A15]
+26. ∀x(S(x) → T(x)) @ w0                          [25, □-rule]
+27. S(a) → T(a) @ w0                              [26, ∀-rule]
+
+    → β-rule on 27:
+    27a. ¬S(a) @ w0                                [already in 6c]
+    27b. T(a) @ w0
+
+    → Both branches possible.
+
+28. □∀x(T(x) → U(x)) @ w0                         [A13]
+29. ∀x(T(x) → U(x)) @ w0                          [28, □-rule]
+30. T(a) → U(a) @ w0                              [29, ∀-rule]
+
+    → β-rule on 30:
+    30a. ¬T(a) @ w0
+    30b. U(a) @ w0
+
+31. □∀x(U(x) → S(x)) @ w0                         [A14]
+32. ∀x(U(x) → S(x)) @ w0                          [31, □-rule]
+33. U(a) → S(a) @ w0                              [32, ∀-rule]
+
+    → β-rule on 33:
+    33a. ¬U(a) @ w0
+    33b. S(a) @ w0                                 [Contradiction with 6c → closes]
+
+    Thus: 33a. ¬U(a) @ w0
+
+    → Combine: From 30b (U(a)) and 33a (¬U(a)) we get a contradiction.
+    → Therefore 30a must hold: ¬T(a) @ w0.
+
+    → Thus: ¬S(a), ¬U(a), ¬T(a) @ w0 consistent.
+
+─────────────────────────────────────────────────────────────
+ALL BRANCHES: ¬T(a) ∧ ¬U(a) ∧ ¬S(a) @ w0 is consistent.
+─────────────────────────────────────────────────────────────
+
+─────────────────────────────────────────────────────────────
+REMAINING AXIOMS (A4, A11, A12) – no application
+─────────────────────────────────────────────────────────────
+
+34. ◇∃w World(w) @ w0                              [A4]
+35. ∃w World(w) @ w1                               [34, ◇-rule, w1 new]
+    → Leads to new world w1, but not back to w0.
+
+36. A11, A12: No instances in w0 that force T(a), U(a), or S(a).
+
+─────────────────────────────────────────────────────────────
+CONCLUSION OF THE TABLEAU:
+─────────────────────────────────────────────────────────────
+
+The tableau has an **open branch**:
+
+    w0, a, with ¬T(a), ¬U(a), ¬S(a).
+
+No axiom generates T(a), U(a), or S(a) in w0.
+The remaining axioms lead to new worlds (w1, ...),
+but not back to w0.
+
+Therefore, the tableau is **not closed**.
+\end{verbatim}
+
+\subsection{Metatheoretical Conclusion}
+
+According to the \textbf{soundness and completeness theorem} of the S5 tableau calculus
+(see e.g. Smullyan, Fitting, or Blackburn/de Rijke/Venema):
+
+\begin{quote}
+A set of formulas \(\Sigma\) is S5-satisfiable exactly when the tableau for \(\Sigma\) has an open branch.
+\end{quote}
+
+Our tableau for
+
+\[
+\Sigma = \{ A1, A4, A11, A12, A13, A14, A15, \neg\Box\forall xTr(x) \}
+\]
+
+has an open branch.
+
+Thus \(\Sigma\) is S5-satisfiable.
+
+Thus there exists an S5 model that satisfies all axioms, but in world \(w_0\) has an individual \(a\) for which \(\neg T(a)\), \(\neg U(a)\), and \(\neg S(a)\) hold.
+
+Thus in this model \(\Box\forall xTr(x)\) does not hold.
+
+Thus \(\Box\forall xTr(x)\) is \textbf{not a logical theorem} of the given axiomatics.
+
+\begin{theorem}[Non-derivability in pure S5]
+\[
+\boxed{
+\text{S5} \;\not\vdash\; \Box\forall x\,Tr(x)
+}
+\]
+\end{theorem}
+
+\section{PART II: PROOF IN THE EXTENDED SYSTEM S5+SP}
+
+\subsection{The Superposition Extension (ASP)}
+
+In addition to the axioms A1, A4, A11, A12, A13, A14, A15, we introduce the \textbf{superposition axioms}. They formalize the idea that consciousness (\(C\)) is the self-reflexive moment of a superposition from which all worlds emerge.
+
+\subsubsection{ASP1 – Consciousness in the Superposition}
+
+\[
+\boxed{ASP1 := C @ w_{\text{super}}}
+\]
+
+\textbf{Explanation:} Consciousness holds in the superposition. The superposition is the primordial state in which all possibilities are still undividedly contained.
+
+\subsubsection{ASP2 – Uniqueness of \(C\)}
+
+\[
+\boxed{ASP2 := \forall v (w_{\text{super}} R v \rightarrow (C @ v \leftrightarrow v = w_{\text{super}}))}
+\]
+
+\textbf{Explanation:} Consciousness holds only in the superposition – no other world has it. Consciousness is a singular event.
+
+\subsubsection{ASP3 – The Superposition Contains All Tr-Properties}
+
+\[
+\boxed{ASP3 := \forall x\,Tr(x) @ w_{\text{super}}}
+\]
+
+\textbf{Explanation:} The superposition already contains all properties \(T, U, S\). It is the ground for everything that holds in the worlds.
+
+\subsubsection{ASP4 – Transfer to All Worlds}
+
+\[
+\boxed{ASP4 := \forall v (w_{\text{super}} R v \rightarrow \forall x\,Tr(x) @ v)}
+\]
+
+\textbf{Explanation:} What holds in the superposition holds in all reachable worlds. The superposition is a normative origin.
+
+\subsubsection{ASP5 – Universal Reachability (as Frame Condition)}
+
+\[
+\boxed{ASP5 := \forall v (v \neq w_{\text{super}} \rightarrow w_{\text{super}} R v)}
+\]
+
+\textbf{Explanation:} Every other world is reachable from the superposition. The superposition is the unique origin.
+
+\subsection{Proof in the Extended System S5+SP}
+
+\begin{theorem}[Derivability in S5+SP]
+\[
+\boxed{
+\text{S5+SP} \;\vdash\; \Box\forall x\,Tr(x)
+}
+\]
+where \(\text{S5+SP} := \text{S5} + \{ASP1, ASP2, ASP3, ASP4, ASP5\}\).
+\end{theorem}
+
+\subsubsection{Semantic Proof}
+
+Let \(\mathcal{M} = (W, R, w_{\text{super}}, I)\) be an arbitrary S5+SP model with ASP1–ASP5.
+
+To show: For all \(w \in W\), \(\mathcal{M}, w \models \forall x\,Tr(x)\).
+
+Let \(w \in W\) be arbitrary.
+
+\textbf{Case 1:} \(w = w_{\text{super}}\).
+
+By ASP3:
+
+\[
+\mathcal{M}, w_{\text{super}} \models \forall x\,Tr(x)
+\]
+
+Thus the claim holds.
+
+\textbf{Case 2:} \(w \neq w_{\text{super}}\).
+
+By ASP5:
+
+\[
+w_{\text{super}} R w
+\]
+
+By ASP4 it follows:
+
+\[
+\mathcal{M}, w \models \forall x\,Tr(x)
+\]
+
+Thus the claim holds.
+
+Since \(w\) was arbitrary, for all \(w \in W\):
+
+\[
+\mathcal{M}, w \models \forall x\,Tr(x)
+\]
+
+This is equivalent to:
+
+\[
+\mathcal{M} \models \Box\forall x\,Tr(x)
+\]
+
+q.e.d.
+
+\subsubsection{Tableau Proof in S5+SP}
+
+\begin{verbatim}
+TABLEAU PROOF IN S5+SP
+GOAL: ⊢ □∀x Tr(x)
+
+─────────────────────────────────────────────────────────────
+REDUCTIO ASSUMPTION:
+─────────────────────────────────────────────────────────────
+
+1.  ¬□∀x Tr(x)                                    [Assumption: target false]
+2.  ◇¬∀x Tr(x)                                    [1, ¬□-rule]
+3.  ¬∀x Tr(x) @ w0                                [2, ◇-rule: new world w0]
+4.  ∃x ¬Tr(x) @ w0                                [3, ¬∀-rule]
+5.  ¬Tr(a) @ w0                                   [4, ∃-rule: a new]
+
+─────────────────────────────────────────────────────────────
+CASE DISTINCTION: w0 = w_super ∨ w0 ≠ w_super
+─────────────────────────────────────────────────────────────
+
+6.  w0 = w_super  ∨  w0 ≠ w_super                  [Identity]
+
+    → Branch A: w0 = w_super
+    → Branch B: w0 ≠ w_super
+
+─────────────────────────────────────────────────────────────
+BRANCH A: w0 = w_super
+─────────────────────────────────────────────────────────────
+
+7.  ¬Tr(a) @ w_super                               [5, Substitution]
+8.  ∀x Tr(x) @ w_super                             [ASP3, Axiom]
+9.  Tr(a) @ w_super                                [8, ∀-rule on a]
+10. Contradiction: Tr(a) @ w_super and ¬Tr(a) @ w_super
+    → Branch A closes (⊥).
+
+─────────────────────────────────────────────────────────────
+BRANCH B: w0 ≠ w_super
+─────────────────────────────────────────────────────────────
+
+11. w0 ≠ w_super                                   [from 6, Branch B]
+12. w_super R w0                                   [11, ASP5]
+13. ∀x Tr(x) @ w0                                  [12, ASP4]
+14. Tr(a) @ w0                                     [13, ∀-rule on a]
+15. Contradiction: Tr(a) @ w0 and ¬Tr(a) @ w0 (from 5)
+    → Branch B closes (⊥).
+
+─────────────────────────────────────────────────────────────
+BOTH BRANCHES CLOSE.
+─────────────────────────────────────────────────────────────
+
+Therefore, the assumption ¬□∀xTr(x) is contradictory.
+
+Thus: ⊢ □∀xTr(x) in S5+SP.
+
+QED.
+\end{verbatim}
+
+\section{PART III: METATHEORETICAL CLASSIFICATION}
+
+\subsection{What Has Been Shown?}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+\textbf{System} & \textbf{Statement} & \textbf{Status} \\
+\midrule
+Pure S5 & \(\text{S5} \;\not\vdash\; \Box\forall x\,Tr(x)\) & Proven (open tableau branch) \\
+S5+SP & \(\text{S5+SP} \;\vdash\; \Box\forall x\,Tr(x)\) & Proven (closed tableau) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The crucial insight is:
+
+\begin{quote}
+The bridge from the existence of \(Tr\) in one world to the necessity of \(Tr\) in all worlds is \textbf{not a theorem of S5}. It must be introduced as an \textbf{additional metaphysical assumption} – here in the form of the superposition axioms ASP1–ASP5.
+\end{quote}
+
+\subsection{What Has Not Been Shown?}
+
+\begin{itemize}
+\item The \textbf{truth} of the superposition axioms ASP1–ASP5. They are \textbf{metaphysical premises}, not logical theorems.
+\item That the target formula follows from the original axioms A1, A4, A11, A12, A13, A14, A15 alone – on the contrary, Part I shows that it does not.
+\end{itemize}
+
+\subsection{The Role of \(C\) (Consciousness)}
+
+The superposition axioms formalize the intuition that \textbf{consciousness (\(C\))} is the self-reflexive moment of the superposition:
+
+\begin{itemize}
+\item ASP1: \(C\) holds in the superposition.
+\item ASP2: \(C\) holds only there – it is a singular event.
+\item ASP3–ASP5: The superposition is the necessary ground for all properties in all worlds.
+\end{itemize}
+
+Thus \(C\) becomes the \textbf{bridge from existence to necessity}: Because the superposition contains \(Tr\) and all worlds emerge from it, \(Tr\) holds necessarily in all worlds.
+
+\section{Countermodels}
+
+The Trinity can be avoided if at least one of the axioms is abandoned:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+\textbf{Abandoned Axiom} & \textbf{Countermodel} & \textbf{Consequence} \\
+\midrule
+A1 (Monism) & Dualism (Descartes) & S can exist without T; knowledge and object are separate \\
+A4 (Existence of a world) & Nihilism & There is no world; the entire ontology is empty \\
+A11 (Transcendental Bridge) & Epistemological Skepticism & Unknowability does not imply fundamental separation \\
+A12 (Experienceability ↔ Realization) & Empiricism & Experienceability is not identical with realization \\
+ASP1–ASP5 (Superposition) & No superposition & The bridge from existence to necessity is missing \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Appendix: Complete Axioms and Theorems}
+
+\subsection{Axioms (Complete)}
+
+\[
+\begin{aligned}
+A1 &:= \Box\neg\exists x\exists y\, FundamentalSeparated(x,y) \\
+A4 &:= \Diamond\exists w\, World(w) \\
+A11 &:= \forall w \left( \text{WorldSeparatedFromConsciousness}(w) \leftrightarrow \neg \exists c (Consciousness(c) \land c(w)) \right) \\
+A12 &:= \forall p. \text{Experienceable}(p) \leftrightarrow \exists w. Realized(w, p) \\
+A13 &:= \Box\forall x(T(x) \rightarrow U(x)) \\
+A14 &:= \Box\forall x(U(x) \rightarrow S(x)) \\
+A15 &:= \Box\forall x(S(x) \rightarrow T(x)) \\
+ASP1 &:= C @ w_{\text{super}} \\
+ASP2 &:= \forall v (w_{\text{super}} R v \rightarrow (C @ v \leftrightarrow v = w_{\text{super}})) \\
+ASP3 &:= \forall x\,Tr(x) @ w_{\text{super}} \\
+ASP4 &:= \forall v (w_{\text{super}} R v \rightarrow \forall x\,Tr(x) @ v) \\
+ASP5 &:= \forall v (v \neq w_{\text{super}} \rightarrow w_{\text{super}} R v)
+\end{aligned}
+\]
+
+\subsection{Definitions}
+
+\[
+\begin{aligned}
+\text{WorldSeparatedFromConsciousness}(w) &:= \neg \exists c (Consciousness(c) \land c(w)) \\
+\text{Experienceable}(p) &:= \exists w. (\text{Consciousness}(w) \land \text{Realized}(w, p)) \\
+T &:= \{ x \mid U < x < S \} \\
+U &:= \lim_{x \to \inf} T \\
+S &:= \lim_{x \to \sup} T \\
+Tr &:= U \land T \land S
+\end{aligned}
+\]
+
+\subsection{Derived Theorems}
+
+\[
+\begin{aligned}
+& \exists T \quad \text{(from A4)} \\
+& \Diamond C \quad \text{(A5 – from A1, A11)} \\
+& \forall p(\Diamond p \rightarrow \exists w. Realized(w,p)) \quad \text{(A2 – from A1, A11, A12)} \\
+& \Box(T \rightarrow U) \quad \text{(from Case 1)} \\
+& \Box(U \rightarrow S) \quad \text{(from Case 2 + Superposition)} \\
+& \Box(S \rightarrow T) \quad \text{(from Case 3)} \\
+& \Rightarrow \Box(U \leftrightarrow T) \land \Box(T \leftrightarrow S) \land \Box(S \leftrightarrow U) \\
+& \Rightarrow \Box(U \land T \land S)
+\end{aligned}
+\]
+
+\section{Conclusion}
+
+This treatise has shown:
+
+\begin{enumerate}
+\item \textbf{In pure S5}, the Trinity is \textbf{not provable} (Part I).
+\item \textbf{In the extended system S5+SP} (with superposition axioms), the Trinity is \textbf{provable} (Part II).
+\item The crucial metaphysical burden rests on the superposition axioms – they are \textbf{not logical theorems}, but \textbf{additional assumptions}.
+\end{enumerate}
+
+The formal work has thus precisely articulated the logical and metaphysical requirements of such a proof. The crucial question – whether the superposition axioms are true – remains a matter for philosophical or physical investigation. Logic has done its work: it has explicated the consequences of the assumptions and clearly named the limits of pure S5.
+
+\begin{quote}
+\textbf{The Trinity is not an additional entity, but a structural condition – yet it is provable only under the superposition hypothesis.}
+\end{quote}
+
+\begin{center}
+\emph{This treatise was written in the spirit of rigorous modal logic, yet in the language of philosophy – for truth requires both: the precision of the formula and the breadth of the concept.}
+\end{center}
+
+\end{document}
