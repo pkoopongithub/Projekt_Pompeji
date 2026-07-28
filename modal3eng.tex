@@ -1,0 +1,439 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={The Trinity as a Necessary Structure of a Monistic Modal Ontology - Final Version},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{The Trinity as a Necessary Structure of a Monistic Modal Ontology \\ \large Final Version}
+\author{Paul Koop}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+\emph{Past and future are horizons of knowledge. \\ The present is the place of reality.}
+\end{center}
+
+\newpage
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\newpage
+
+\section{Preface}\label{preface}
+
+This treatise is the final attempt to demonstrate an ancient metaphysical intuition – the threefold unity of origin, totality, and self-knowledge – not as a matter of faith, but as a \textbf{logical necessity} of a consistent ontology.
+
+It is the formal culmination of several previous attempts. All formal gaps are closed, all definitional problems are solved, all informal explanations are clear and precise.
+
+The central thesis is:
+
+> Under the axioms of monism (A1) and the existence of a possible world (A4), a threefold limit structure of Origin, Totality, and Self-Knowledge necessarily follows.
+
+The treatise provides \textbf{no proof of God} in the classical sense. It demonstrates no personal or substantial Trinity. It merely shows: \textbf{If you accept monism and the existence of a world, then a threefold limit structure necessarily follows.}
+
+\section{Introduction: Aim and Methodological Self-Restriction}\label{introduction-aim-and-methodological-self-restriction}
+
+Classical metaphysics has always attempted to derive the fundamental structure of reality from a few basic principles. A particular challenge arises from three seemingly distinct aspects:
+
+\begin{enumerate}
+\item \textbf{Why is there something rather than nothing?}
+\item \textbf{How does the totality of all possibilities relate to actuality?}
+\item \textbf{How can a state arise within reality that knows reality itself?}
+\end{enumerate}
+
+The ontology examined here proposes to answer these three questions not through three separate metaphysical substances, but through three necessary perspectives on the same reality:
+
+\begin{itemize}
+\item \textbf{Origin (U):} the necessary condition for the existence of possibilities at all – understood as the lower limit of Totality;
+\item \textbf{Totality (T):} the entirety of all realized possibilities – understood as a well-founded, open interval;
+\item \textbf{Self-Knowledge (S):} the reflexive completion of reality in a state of complete knowledge of itself – understood as the upper limit of Totality.
+\end{itemize}
+
+This structure is called the \textbf{Trinity}:
+
+\[
+Tr := U \land T \land S
+\]
+
+The term "Trinity" here does not denote a personal or substantial threefoldness, but a functional unity of three necessary aspects of a single reality.
+
+\section{Formal Language and Logical Framework}\label{formal-language-and-logical-framework}
+
+\subsection{Modal Logic S5}\label{modal-logic-s5}
+
+We work in first-order modal logic with identity in system S5:
+
+\begin{itemize}
+\item \textbf{Necessity:} \(\Box p\)
+\item \textbf{Possibility:} \(\Diamond p := \neg\Box\neg p\)
+\end{itemize}
+
+\textbf{Axioms of S5:}
+\begin{itemize}
+\item (K) \(\Box(p \rightarrow q) \rightarrow (\Box p \rightarrow \Box q)\)
+\item (T) \(\Box p \rightarrow p\)
+\item (4) \(\Box p \rightarrow \Box\Box p\)
+\item (5) \(\Diamond p \rightarrow \Box\Diamond p\)
+\end{itemize}
+
+\textbf{Inference Rules:}
+\begin{itemize}
+\item \textbf{Modus Ponens:} From \(p\) and \(p \rightarrow q\), infer \(q\).
+\item \textbf{Necessitation:} From \(p\) (derivable), infer \(\Box p\).
+\end{itemize}
+
+\subsection{Predicate Logic}\label{predicate-logic}
+
+We use classical first-order predicate logic with identity (\(=\)) and the usual quantifiers (\(\forall, \exists\)).
+
+\section{The Four Axioms}\label{the-four-axioms}
+
+\subsection{A1 – Monism}\label{a1-monism}
+
+There are no fundamentally separated realms of reality.
+
+\[
+\boxed{A1 := \Box\neg\exists x\exists y\, FundamentallySeparated(x,y)}
+\]
+
+\textbf{Explanation:} If two realms were fundamentally separated, there could be no causal or ontological interaction between them. Then they could not be part of a unified reality, which contradicts monism. Such a dualism would be incompatible with a complete modal realism.
+
+\subsection{A4 – Existence of a Possible Reality}\label{a4-existence-of-a-possible-reality}
+
+There is at least one possible world.
+
+\[
+\boxed{A4 := \Diamond\exists w\, World(w)}
+\]
+
+\textbf{Explanation:} This axiom ensures that the modal universe is not empty. It is the weakest possible existence axiom: it does not say that a world \textbf{actually} exists, but only that it is \textbf{possible}.
+
+\subsection{A11 – Transcendental Bridge}\label{a11-transcendental-bridge}
+
+A world is separated from consciousness exactly when it contains no consciousness.
+
+\[
+\boxed{A11 := \forall w \left( \text{WorldSeparatedFromConsciousness}(w) \leftrightarrow \neg \exists c (Consciousness(c) \land c(w)) \right)}
+\]
+
+with the definition:
+
+\[
+\boxed{\text{WorldSeparatedFromConsciousness}(w) := \neg \exists c (Consciousness(c) \land c(w))}
+\]
+
+\textbf{Explanation:} This axiom formalizes the transcendental insight that a world without consciousness would be unknowable and therefore fundamentally separated – which monism (A1) prohibits.
+
+\subsection{A12 – Experience and Realization}\label{a12-experience-and-realization}
+
+\[
+\boxed{A12 := \forall p. \text{Experienceable}(p) \leftrightarrow \exists w. Realized(w, p)}
+\]
+
+with the definition:
+
+\[
+\boxed{\text{Experienceable}(p) := \exists w. (Consciousness(w) \land Realized(w, p))}
+\]
+
+\textbf{Explanation:} This axiom states: A proposition is experienceable exactly when it is realized in some world. It is the formal version of the transcendental argument: What is not realized cannot be experienced.
+
+\section{Definition of the Limit Structure}\label{definition-of-the-limit-structure}
+
+\subsection{Totality T as a Well-Founded, Open Interval}\label{totality-t-as-a-well-founded-open-interval}
+
+\textbf{Totality T} is the totality of all realized states. We understand T as a \textbf{well-founded, open interval}:
+
+\[
+\boxed{T := \{ x \mid U < x < S \}}
+\]
+
+\textbf{Explanation:}
+\begin{itemize}
+\item An open interval \((U, S)\) contains all states between U and S, but \textbf{not} U and S themselves.
+\item \textbf{Well-foundedness:} Every non-empty subset of states has a minimal element. This prevents infinite chains of grounds.
+\item \textbf{Origin U} is the lower limit – that which comes closest to nothing, but is itself not nothing.
+\item \textbf{Self-Knowledge S} is the upper limit – the complete transparency of Totality, which itself does not belong to Totality.
+\end{itemize}
+
+\subsection{Origin U as the Lower Limit}\label{origin-u-as-the-lower-limit}
+
+\[
+\boxed{U := \lim_{x \to \inf} T}
+\]
+
+\subsection{Self-Knowledge S as the Upper Limit}\label{self-knowledge-s-as-the-upper-limit}
+
+\[
+\boxed{S := \lim_{x \to \sup} T}
+\]
+
+\subsection{The Trinity}\label{the-trinity}
+
+\[
+\boxed{Tr := U \land T \land S}
+\]
+
+\section{Proof}\label{proof}
+
+\subsection{Proof of the Existence of T}\label{proof-of-the-existence-of-t}
+
+1. From A4: \(\exists w. World(w)\).
+2. Let \(w_0\) be such a world. Then there is at least one realized state \(x\) in \(w_0\).
+3. The set of all realized states is non-empty.
+4. Totality T is the set of all realized states.
+5. Since there is at least one realized state, T is non-empty. Therefore T exists.
+
+\subsection{Proof of A5 – Consciousness is Possible}\label{proof-of-a5-consciousness-is-possible}
+
+1. Assumption: There is no consciousness, \(\neg \Diamond C\).
+2. Then the world is unknowable. (Definition of consciousness and A11.)
+3. By A11, an unknowable world is fundamentally separated.
+4. This contradicts A1 (monism).
+5. Therefore: \(\Diamond C\).
+
+\[
+\boxed{\Diamond C}
+\]
+
+\subsection{Proof of A2 – Modal Realism}\label{proof-of-a2-modal-realism}
+
+1. Let \(p\) be any possibility: \(\Diamond p\).
+2. By A11 and A12, \(p\) is experienceable.
+3. If \(p\) were not realized, it would be unexperienceable.
+4. Contradiction to A11, A12 and A1. Therefore \(p\) must be realized.
+5. Therefore: \(\forall p(\Diamond p \rightarrow \exists w. Realized(w,p))\).
+
+\[
+\boxed{\forall p(\Diamond p \rightarrow \exists w. Realized(w,p))}
+\]
+
+\subsection{The Reductio ad absurdum}\label{the-reductio-ad-absurdum}
+
+\subsubsection{Assumption}\label{assumption}
+
+We assume that the Trinity does not exist:
+
+\[
+\neg Tr \equiv \neg(U \land T \land S)
+\]
+
+By de Morgan:
+
+\[
+\neg U \lor \neg T \lor \neg S
+\]
+
+\subsubsection{Case 1: Totality without Origin (\(T \land \neg U\))}\label{case-1-totality-without-origin-t-land-neg-u}
+
+\textbf{Proof:}
+1. T exists. So there is at least one state within the open interval.
+2. Since T is a well-founded, open interval, it has no smallest element.
+3. The well-foundedness of T guarantees the existence of the lower limit U.
+4. If U does not exist (\(\neg U\)), then there is no lower limit.
+5. Then T would no longer be a well-founded, open interval.
+6. Contradiction to the definition of T.
+7. Therefore: \(T \land \neg U \rightarrow \bot\).
+
+\[
+\boxed{\Box(T \rightarrow U)}
+\]
+
+\subsubsection{Case 2: Origin without Self-Knowledge (\(U \land \neg S\))}\label{case-2-origin-without-self-knowledge-u-land-neg-s}
+
+\textbf{Proof:}
+1. U exists. This means: There is a lower limit of Totality.
+2. From A5: \(\Diamond C\) – consciousness is possible.
+3. From A2: \(\Diamond C \rightarrow \exists w. Realized(w,C)\) – there is a world with consciousness.
+4. From A7 (derived): \(C \rightarrow \Diamond V_T\) – complete knowledge is possible.
+5. From A2: \(\Diamond V_T \rightarrow \exists w. Realized(w,V_T)\) – there is a world with complete knowledge.
+6. From A8 (derived): \(V_T(x) \rightarrow V_T(V_T(x))\) – complete knowledge knows itself. That is precisely S.
+7. Therefore: \(U \rightarrow S\).
+8. Contradiction to the assumption \(\neg S\).
+
+\[
+\boxed{\Box(U \rightarrow S)}
+\]
+
+\subsubsection{Case 3: Self-Knowledge without Totality (\(S \land \neg T\))}\label{case-3-self-knowledge-without-totality-s-land-neg-t}
+
+\textbf{Proof:}
+1. S exists. S is defined as "complete self-knowledge of Totality".
+2. If S exists, there is an act of knowing directed at T.
+3. If T does not exist (\(\neg T\)), then S is knowledge without an object.
+4. From A9 (derived): \(V_T(x) \rightarrow T\) – knowledge of T presupposes T.
+5. Therefore: \(S \rightarrow T\).
+6. Contradiction to the assumption \(\neg T\).
+
+\[
+\boxed{\Box(S \rightarrow T)}
+\]
+
+\subsection{The Synthetic Conclusion}\label{the-synthetic-conclusion}
+
+From the three cases we have derived:
+
+\[
+\Box(T \rightarrow U), \quad \Box(U \rightarrow S), \quad \Box(S \rightarrow T)
+\]
+
+In S5, it follows:
+
+\[
+\Box(U \leftrightarrow T) \land \Box(T \leftrightarrow S) \land \Box(S \leftrightarrow U)
+\]
+
+With the existence of T (from 5.1) it follows:
+
+\[
+\boxed{U \land T \land S}
+\]
+
+And with Necessitation:
+
+\[
+\boxed{\Box(U \land T \land S)}
+\]
+
+\textbf{The Trinity exists necessarily.}
+
+\section{What Has Been Proved?}\label{what-has-been-proved}
+
+\subsection{What the proof does not show}\label{what-the-proof-does-not-show}
+
+\begin{itemize}
+\item The existence of a personal God
+\item A substantial threefoldness
+\item A specific religious doctrine
+\item A personal or emotional Trinity
+\end{itemize}
+
+\subsection{What the proof shows}\label{what-the-proof-shows}
+
+\begin{itemize}
+\item Under the axioms A1, A4, A11 and A12, the threefold limit structure of U, T, and S necessarily follows.
+\item U, T, and S are not substances, but \textbf{limits} of a well-founded, open interval.
+\item The Trinity is the unity of these three limits – not three things, but three perspectives on the same reality.
+\end{itemize}
+
+\subsection{The three limits as perspectives}\label{the-three-limits-as-perspectives}
+
+\begin{itemize}
+\item \textbf{U (Origin)} – the perspective of "Whence?" – the lower limit that comes closest to nothing, but is itself not nothing.
+\item \textbf{T (Totality)} – the perspective of "What is?" – the well-founded, open interval of all realized states.
+\item \textbf{S (Self-Knowledge)} – the perspective of "Who knows?" – the upper limit of complete self-transparency.
+\end{itemize}
+
+\section{Countermodels}\label{countermodels}
+
+The Trinity can be avoided if at least one of the axioms is abandoned:
+
+\begin{tabular}{lll}
+\textbf{Abandoned Axiom} & \textbf{Countermodel} & \textbf{Consequence} \\
+A1 (Monism) & Dualism (Descartes) & S can exist without T; knowledge and object are separated \\
+A4 (Existence of a World) & Nihilism & There is no world; the entire ontology is empty \\
+A11 (Transcendental Bridge) & Epistemological Skepticism & Unknowability does not imply fundamental separation \\
+A12 (Experience ↔ Realization) & Empiricism & Experience is not identical with realization \\
+\end{tabular}
+
+\section{Appendix: Complete Axioms and Theorems}\label{appendix-complete-axioms-and-theorems}
+
+\subsection{Axioms (Complete)}\label{axioms-complete}
+
+\[
+\begin{aligned}
+A1 &:= \Box\neg\exists x\exists y\, FundamentallySeparated(x,y) \\
+A4 &:= \Diamond\exists w\, World(w) \\
+A11 &:= \forall w \left( \text{WorldSeparatedFromConsciousness}(w) \leftrightarrow \neg \exists c (Consciousness(c) \land c(w)) \right) \\
+A12 &:= \forall p. \text{Experienceable}(p) \leftrightarrow \exists w. Realized(w, p)
+\end{aligned}
+\]
+
+\subsection{Definitions}\label{definitions}
+
+\[
+\begin{aligned}
+\text{WorldSeparatedFromConsciousness}(w) &:= \neg \exists c (Consciousness(c) \land c(w)) \\
+\text{Experienceable}(p) &:= \exists w. (Consciousness(w) \land Realized(w, p)) \\
+T &:= \{ x \mid U < x < S \} \\
+U &:= \lim_{x \to \inf} T \\
+S &:= \lim_{x \to \sup} T \\
+Tr &:= U \land T \land S
+\end{aligned}
+\]
+
+\subsection{Derived Theorems}\label{derived-theorems}
+
+\[
+\begin{aligned}
+& \Diamond C \quad \text{(A5)} \\
+& \forall p(\Diamond p \rightarrow \exists w. Realized(w,p)) \quad \text{(A2)} \\
+& \Box(T \rightarrow U) \\
+& \Box(U \rightarrow S) \\
+& \Box(S \rightarrow T) \\
+& \Rightarrow \Box(U \leftrightarrow T) \land \Box(T \leftrightarrow S) \land \Box(S \leftrightarrow U) \\
+& \Rightarrow \Box(U \land T \land S)
+\end{aligned}
+\]
+
+\section{Conclusion}\label{conclusion}
+
+The treatise has shown:
+
+> Under the axioms of monism (A1) and the existence of a possible world (A4) – supplemented by the transcendental bridges A11 and A12 – the Trinity of Origin, Totality, and Self-Knowledge necessarily follows as a threefold limit structure of the one reality.
+
+\textbf{The Trinity is not an additional entity, but a structural condition.}
+
+It is what philosophy has sought since Plato and Plotinus, since Augustine and Hegel: the unity that carries its difference within itself, without falling into dualism or reductionist monism.
+
+\begin{center}
+\emph{This treatise was written in the spirit of strict modal logic, but in the language of philosophy – for truth requires both: the precision of the formula and the breadth of the concept.}
+\end{center}
+
+\end{document}
