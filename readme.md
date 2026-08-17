@@ -10,7 +10,7 @@
 
 **Dear reader,**
 
-I am pleased to introduce you to my experimental narrative and conceptual project: the **IRARAH Trilogy** – a story about freedom, consciousness, and resistance in a technologically monitored world.
+I am pleased to introduce you to my experimental narrative and conceptual project: the  **IRARAH Trilogy** – a story about freedom, consciousness, and resistance in a technologically monitored world.
 
 The Pompeii Project is more than a novel series. It is an **experimental narrative and conceptual project** that blends literary fiction with theoretical reflection. At its core lies the question: How can freedom, consciousness, and dignity be preserved under the conditions of a technologically monitored, evolutionarily open reality?
 
