@@ -45,7 +45,7 @@ All materials are **free** as **PDF, EPUB, DOCX, TeX and Markdown** (source code
 
 > *"Boston, Rome, Pompeii – the paths that came together before the trilogy began."*
 
-[📄 PDF (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.pdf) | [📘 EPUB (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.epub) | [📝 DOCX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.docx) | [🧩 TeX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.tex) | [📑 MD (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.md)
+[📄 PDF (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2eng.pdf) | [📘 EPUB (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2eng.epub) | [📝 DOCX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2eng.docx) | [🧩 TeX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2eng.tex) | [📑 MD (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2eng.md)
 
 ### Pompeii IRARAH
 
@@ -236,7 +236,7 @@ Alle Materialien gibt es **kostenlos** als **PDF, EPUB, DOCX, TeX und Markdown**
 
 > *„Boston, Rom, Pompeji – die Wege, die zusammenführten, bevor die Trilogie begann.“*
 
-[📄 PDF (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.pdf) | [📘 EPUB (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.epub) | [📝 DOCX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.docx) | [🧩 TeX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.tex) | [📑 MD (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/BackgroundIRARAH.md)
+[📄 PDF (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2.pdf) | [📘 EPUB (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2.epub) | [📝 DOCX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2.docx) | [🧩 TeX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2.tex) | [📑 MD (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/VorgeschichteIRARAH_2.md)
 
 ### Pompeji IRARAH
 
