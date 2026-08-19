@@ -51,7 +51,7 @@ All materials are **free** as **PDF, EPUB, DOCX, TeX and Markdown** (source code
 
 > *"I would be cautious if someone promises me paradise but at the same time demands that I first have to blow myself up to get there."*
 
-[📄 PDF (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeii_IRARAH.pdf) | [📘 EPUB (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeii_IRARAH.epub) | [📝 DOCX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeii_IRARAH.docx) | [🧩 TeX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeii_IRARAH.tex) | [📑 MD (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeii_IRARAH.md)
+[📄 PDF (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.pdf) | [📘 EPUB (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.epub) | [📝 DOCX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.docx) | [🧩 TeX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.tex) | [📑 MD (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.md)
 
 ---
 
@@ -61,7 +61,7 @@ All materials are **free** as **PDF, EPUB, DOCX, TeX and Markdown** (source code
 
 > *Escape and agent thriller – "How a professor in a Franciscan habit disappeared – The escape across the Tisza."*
 
-[📄 PDF (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_answers.pdf) | [📘 EPUB (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_answers.epub) | [📝 DOCX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_answers.docx) | [🧩 TeX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_answers.tex) | [📑 MD (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_answers.md)
+[📄 PDF (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_antwortet_2eng.pdf) | [📘 EPUB (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_antwortet_2eng.epub) | [📝 DOCX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_antwortet_2eng.docx) | [🧩 TeX (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_antwortet_2eng.tex) | [📑 MD (EN)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/IRARAH_antwortet_2eng.md)
 
 ### IRARAH – The Fragmentation *(new)*
 
@@ -242,7 +242,7 @@ Alle Materialien gibt es **kostenlos** als **PDF, EPUB, DOCX, TeX und Markdown**
 
 > *„Ich wäre vorsichtig, wenn mir jemand das Paradies verspricht, aber gleichzeitig verlangt, mich erst in die Luft sprengen zu müssen, um es zu erreichen.“*
 
-[📄 PDF (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH.pdf) | [📘 EPUB (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH.epub) | [📝 DOCX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH.docx) | [🧩 TeX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH.tex) | [📑 MD (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH.md)
+[📄 PDF (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.pdf) | [📘 EPUB (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.epub) | [📝 DOCX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.docx) | [🧩 TeX (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.tex) | [📑 MD (DE)](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/Pompeji_IRARAH_2.md)
 
 ---
 
