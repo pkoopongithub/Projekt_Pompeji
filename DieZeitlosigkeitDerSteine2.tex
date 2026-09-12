@@ -1,0 +1,2532 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+  ngerman,
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\ifLuaTeX
+\usepackage[bidi=basic,shorthands=off,]{babel}
+\else
+\usepackage[bidi=default,shorthands=off,]{babel}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig} % disable illegal ligatures
+\fi
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Die Zeitlosigkeit der Steine},
+  pdfauthor={Paul Koop},
+  pdflang={de},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Die Zeitlosigkeit der Steine}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Eine Erz├ñhlung aus dem Pompeji-Projekt}
+\author{Paul Koop}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\section{Prolog: Die verlangsamte
+Zeit}\label{prolog-die-verlangsamte-zeit}
+
+Der Seminarraum lag im dritten Stock, wo die Raumluft nach Ozon,
+aufgewärmtem Kunststoff und altem Papier roch. Draußen schnitt der
+Septemberwind durch die Straßenschluchten von Boston. Drinnen fiel das
+Licht durch die Lamellen der Jalousien, schmale graue Streifen, die in
+präzisen Abständen über das Pult und den Dielenboden gezogen waren. Es
+wirkte wie ein Barcode auf dem Holz.
+
+Luca saß in der dritten Reihe, die Unterarme flach auf das Kunstharz der
+Tischplatte gelegt. Das Tuch seines grauen Pullovers war rau an den
+Ellbogen.
+
+An der Stirnwand flimmerte die Projektion. Auf dem Bildschirm lief die
+Szene am Bahnsteig -- Jaco Van Dormaels \emph{Mr. Nobody}, Kadenz für
+Kadenz heruntergedimmt auf eine beinahe unerträgliche Langsamkeit. Der
+neunjährige Nemo stand im geometrischen Schnittpunkt zweier Blicke. Die
+Mutter mit dem Koffer auf dem Bahnsteig; der Vater neben dem Jungen, das
+Gesicht gezeichnet von einer stummen, erschütterten Verzweiflung, die
+Ränder der Augen gerötet. Die Kamera hielt beide Eltern zugleich im
+Kader, während die Unschärfe wechselte. Nemo blickte von der Mutter zum
+Vater und zurück, gefangen in einer räumlichen Anordnung, aus der er
+keinen der beiden ansehen konnte, ohne den anderen im Vordergrund zu
+spüren.
+
+„Willst du mitkommen oder beim Vater bleiben?{\kern0pt}``, fragte die
+Stimme der Mutter aus den Lautsprechern. Die Worte klangen flach, fast
+künstlich im gedämpften Raum.
+
+Der Zug fuhr an. Die Zeit für den Entschluss lief ab. Das Bild
+verzweigte sich im Schnitt: Nemos innere Lähmung schlug um in äußere
+Hektik. In einer Einstellungsfolge rannte der Junge dem fahrenden Waggon
+nach, erreichte die Hand der Mutter. In der nächsten Kameraeinstellung
+löste sich beim Anlaufen sein Schnürsenkel. Ein völlig kontingenter
+Moment -- das Stolpern, der fallende Schuh auf den Betonplatten, das
+Abreißen des Kontakts. Der Zufall entschied über die Existenzachse,
+bevor die Wahl überhaupt vollzogen war. \emph{„Daddy, is it my
+fault?{\kern0pt}``}, fragte die Kinderstimme im Rauschen des
+Videoband-Audios, worauf der Vater abwinkte: \emph{„Nein, es ist nicht
+deine Schuld.``}
+
+„Wir sprechen hier nicht von einer einfachen Dramaturgie der Wahl``,
+sagte der Dozent. Er stand seitlich des Strahlers, sodass das Licht sein
+Gesicht halbierte. Die Brille reflektierte das Flimmern des Bahnsteigs.
+„Van Dormael zeigt den Knotenpunkt. Die Entscheidung ist kein souveräner
+Willensakt, sondern ein Zusammenspiel aus Impuls, verstreichender Zeit
+und purer Kontingenz -- einem offenen Schnürsenkel. Wenn das InSIM-Labor
+in Mailand mit solchen Matrizen arbeitet, tun sie genau das. Über eine
+Quanten-Schnittstelle füttern sie das System mit probabilistischen
+Pfaden. Die Viele-Welten-Interpretation wird dort zur Rechenarchitektur:
+Der Junge entscheidet sich nicht bloß für A oder B. Er verzweigt sich in
+alle Zustände gleichzeitig.``
+
+Er trat einen Schritt zur Seite. Der Staub im Lichtkegel tanzte in
+Mikrobewegungen, winzige Partikel, die stumm kollidierten und abperlten.
+
+„Teilhard de Chardin sah im Omega-Punkt die ultimative Verdichtung von
+Bewusstsein``, fuhr der Mann fort, während er die Kreide zwischen zwei
+Fingern drehte, bis weißer Staub seine Knöchel bedeckte. „Ein
+Zusammenstürzen der Zeitachse auf ein einziges, alles umfassendes
+Zentrum. Aber was passiert, wenn die Rechenleistung eines Systems --
+nennen wir es das ARS-Modell -- diese Singularität auflöst und jede
+Möglichkeit, jedes Stolpern am Bahnsteig, simultan real hält? Wo bleibt
+die Schuld, wo bleibt der Wille, wenn jede Kontingenz eine neue Welt
+erzeugt?{\kern0pt}``
+
+Luca sah die Unschärfe auf dem Monitor. Seine Handschuhe lagen neben dem
+Notizbuch, das aufgeschlagen, aber unbeschrieben war. Die Seite zeigte
+das Raster eines linearen Liniensystems.
+
+„Für die nächste Sitzung``, sagte der Dozent und trat an den Tisch, um
+den Laptop einzuklappen. Das Scharnier knarrte leise. „Lesen Sie die
+Arbeiten von Michael Phillips über die empirische Bestimmung von
+Dialoggrammatiken. Und vergleichen Sie seine Formalisierung des
+Nicht-Sprechens mit der Rahmenhandlung von DeLillos \emph{Point Omega}.
+Achten Sie auf die Stille im Wüstenraum. Auf die Unmöglichkeit, ein
+Verschwinden zu protokollieren, wenn der Beobachter selbst in den
+Verzweigungen gefangen ist.``
+
+In den Reihen um Luca herum begann das mechanische Rauschen des
+Aufbruchs. Reißverschlüsse schlossen sich, schwere Stoffe rieben
+aneinander, Stuhlbeine schrammten über das Linoleum. Die anderen
+bewegten sich in der geläufigen Taktung des Nachmittags.
+
+Luca blieb sitzen.
+
+Der Dozent klemmte sich die Ledermappe unter den Arm. Er sah kurz zu
+Luca hinab, ohne die Hand vom Schreibtischrand zu nehmen.
+
+„Sie suchen nach einer Logik in den Abweichungen, Luca``, sagte er. Die
+Stimme war leise, frei von akademischer Geste. „Aber Sprachmodelle und
+stochastische Prozesse liefern keine Urheber. Sie liefern nur
+Kohärenzen.``
+
+„Er antwortet nicht auf die Mails der Fakultät``, sagte Luca.
+
+„Phillips hat das Jesuiten-Institut im Frühjahr verlassen``, entgegnete
+der Dozent, während er zur Tür blickte. „Er ist jenseits der
+Datenkanäle. Physiker von seinem Schlag neigen im Alter zu einer
+eigentümlichen Form von Konservierung. Sie wollen die Dinge erstarren
+sehen. Wie die Abgüsse unter der Asche in der Campania.``
+
+Luca hob den Kopf nicht. „Er wartet.``
+
+Der Dozent sah ihn noch einen Moment lang an, die Lippen leicht
+zusammengedrückt, dann wandte er sich ab. Seine Ledersohlen erzeugten
+ein trockenes Quietschen auf dem Gang, bis das Geräusch in der Geometrie
+des Treppenhauses verhallte.
+
+Luca stand auf. Der Raum war kühl geworden. Er schob den Stuhl nicht
+zurück.
+
+Auf dem Flur lag die Nachmittagssonne tief über der Kulisse von Boston.
+Unter den Glasfronten der Bankentürme schoben sich die Fahrzeugkolonnen
+im Stop-and-Go durch die Schluchten, ein träger Fluss aus Blech und
+Bremslichtern, dessen Lärm durch die Doppelverglasung zu einem dunklen,
+mechanischen Summen gedämpft wurde.
+
+Er griff in die Brusttasche seiner Jacke. Das Papier des ungeöffneten
+Bogen-Spiegels war rau. Keine Frankierung. Kein Stempel eines Postamtes.
+Nur die maschinell gesetzten Typen auf dem vergilbten Dokumentenpapier,
+deren Tinte an den Rändern leicht zerflossen war, wie die Ausgabe eines
+Thermodruckers:
+
+\emph{Er steht im Versuchsfeld. An der Grenze zur Senke. Wenn du ihn
+suchst, sprich nicht von der Zeit. Er rechnet nicht mehr.}
+
+Luca ließ das Papier wieder in die Tasche gleiten. Die Luft, die durch
+den Türspalt des Notausgangs strömte, schmeckte nach trockenem Ruß und
+Staub. Er ging die Treppe hinunter, Stufe für Stufe, im gleichmäßigen
+Rhythmus eines Prozesses, der längst gestartet war und sich nicht mehr
+abbrechen ließ.
+
+\section{\texorpdfstring{\textbf{Kapitel 1: Der
+Brief}}{Kapitel 1: Der Brief}}\label{kapitel-1-der-brief}
+
+Die Wohnung im vierten Stock lag tief im Schatten der gegenüberliegenden
+Backsteinfronten. Unter dem Fenster verlief die schmale Ashburton Place.
+Das Geräusch der Busse war ein rhythmisches Entweichen von Pressluft,
+das von Zeit zu Zeit die Scheiben vibrieren ließ. Ein kühles,
+metallisches Zittern im Rahmen.
+
+Luca saß am Küchentisch, der aus geschichteter Spanplatte bestand. Das
+Papier lag zwischen einer Schale mit verblasstem Trockenobst und der
+Porzellantasse. Es war zweimal gefaltet, flachgepresst von der Türkante,
+unter der man es am Morgen durchgeschoben hatte. Keine Frankierung. Ein
+ungleichmäßiges Blatt aus einem Nadeldrucker, die Ränder feingezackt
+durch abgerissenes Endlospapier.
+
+\emph{Er steht im Versuchsfeld. An der Grenze zur Senke. Wenn du ihn
+suchst, sprich nicht von der Zeit. Er rechnet nicht mehr.}
+
+Die Schrift zeigte keine Neigung. Es war der Ausdruck einer alten
+Terminalschnittstelle, kühle Matrizen ohne personellen Duktus. Luca fuhr
+mit der Kuppe des Zeigefingers über die Zeile. Die winzigen Punkte des
+Farbbandes lagen tief in den Fasern des Papiers.
+
+Draußen streifte ein Streifenwagen im Schneckentempo die Bordsteinkante.
+Ein Hund schnüffelte an einem Hydranten, stoppte, ging weiter. Das
+Geräusch des Motors verflachte in Richtung Cambridge Street.
+
+In der Küche schabte Porzellan auf der Granitimitat-Arbeitsplatte. Seine
+Mutter füllte die Kanne. Der Wasserkocher gab ein scharfes, metallisches
+Zischen von sich, das schlagartig abbrach, sobald sie den Schalter
+umlegte. Sie trat in den Türrahmen, ein knappes Tableau aus
+ausgewaschenem Baumwollstoff und grauen Haarnadeln. Sie trug die Tassen
+nicht auf einem Tablett, sondern hielt sie fest an den Henkeln
+umschlungen, die Knöchel weiß hervortretend.
+
+Sie stellte die Tassen ab. Der Wasserdampf stieg geradlinig auf, bevor
+er im Durchzug der Raumluft zerfiel.
+
+„Die Schnittstelle in Mailand hat zwei Abfragen registriert``, sagte
+Luca, ohne aufzusehen. „Um vier Uhr morgens. Datenströme über den Server
+der Gregoriana.``
+
+Sie setzte sich auf die Stuhlkante. Ihre Ellbogen stützten sich nicht
+ab; sie hielt den Oberkörper in einer unnatürlichen, gelernten Distanz
+zur Tischkante.
+
+„Das sind automatisierte Abgleiche``, sagte sie. Die Stimme war dünn,
+frei von Frequenz. „InSIM testet die Dialoggrammatiken. Das macht das
+System von selbst, wenn die Knotenpunkte inaktiv bleiben.``
+
+„Das ist keine Dialoggrammatik``, sagte Luca und tippte auf das Papier.
+„Das ist eine Adresse.``
+
+Sie sah nicht auf den Bogen. Ihre Augen fixierten das blasse
+Lichtmuster, das sich brechend im feuchten Boden ihrer Tasse spiegelte.
+„Phillips hat keine Adresse mehr. Wer auch immer den Prompter bedient
+hat, nutzt seine alten Parameter. Man lässt Algorithmen nicht allein
+laufen, wenn sie auf Quantenschnittstellen zugreifen. Sie fangen an,
+Ausgänge zu erfinden.``
+
+„Er ist in der Sonora-Senke.``
+
+„Dort steht nichts als Staub und die Relikte einer Funkmessstation``,
+antwortete sie. „Ein Konservierungsexperiment aus den Siebzigern.
+Trockenheit, die den Zerfall aufschiebt. Sie haben dort früher
+Gesteinsproben aus der Campania gelagert, um den Abrieb unter
+simulierter Sonneneinstrahlung zu messen. Die zeitlose Substanz.``
+
+Luca sah sie an. Die Haut unter ihren Augen war transparent, fein
+durchzogen von bläulichen Äderchen. Sie sprach von der Wüste wie von
+einer Laboranordnung, einem isolierten Versuchsraum für Zerfallsraten.
+
+„Er ist dein Vater nicht im biologischen Sinne einer Entscheidung``,
+sagte sie leise. „Er war die Versuchsbedingung. Die Jesuiten nannten es
+eine Beobachter-Funktion.``
+
+Luca stand auf. Der Linoleumboden war kalt unter seinen Socken. Er ging
+in das schmale Zimmer neben der Küche, ziehen, greifen, falten. Der
+Stoff der Reisejacke roch nach dem muffigen Schrankfutter. Er schob zwei
+Hemden, ein Notizbuch ohne Rasterung und die Reserveakkus für das
+Diktiergerät in den Synthetikbeutel. Seine Bewegungen folgten einem
+trockenen, funktionalen Ablauf, wie das Abarbeiten einer Checkliste vor
+einem Systemstart.
+
+Als er zurück in die Küche trat, lag ein verblasstes Farbfoto neben der
+ungeöffneten Tasse. Es war ein Kleinbildabzug aus den frühen Neunzigern,
+die Ränder durch Lichteinfall gelblich verfärbt.
+
+Das Bild zeigte einen Mann in einem dunklen Kragenhemd vor einer
+staubigen Ziegelwand im Campo Santo Teutonico. Das Gesicht war schmal,
+die Schläfen eingefallen, die Augen unruhig in den Schatten der Höhlen
+zurückgezogen -- der Blick eines Mannes, der gelernt hatte, Messreihen
+zu lesen, statt Gesichter zu dekodieren.
+
+„Er glaubte an die Verschränkung``, sagte seine Mutter vom Fenster aus.
+Sie sah hinab auf die Fahrbahn der Ashburton Place. „Er sagte immer,
+wenn zwei Zustände lang genug gekoppelt bleiben, gibt es kein
+Getrenntsein mehr. Selbst dann nicht, wenn einer von beiden erlischt.
+Man sucht dann nicht nach einer Person. Man sucht nach dem Echo des
+Zerfalls.``
+
+Luca steckte das Foto zwischen die Seiten des Notizbuchs. Der Bogen mit
+dem Ausdruck wanderte in die Innentasche seiner Jacke, direkt an den
+Rippenbogen.
+
+„Ich nehme um 14:10 Uhr die Red Line``, sagte er. „An South Station
+steige ich um in die Silver Line zum Logan Airport.``
+
+Sie drehte sich nicht um. Ihre Hand lag flach auf der kalten Scheibe,
+hinter der das Blaulicht eines entfernten Einsatzwagens stumm über die
+Fassaden der gegenüberliegenden Gebäude glitt. „Wenn du dort ankommst,
+wirst du keine Antworten finden, Luca. Nur die Reste der Daten, die ARS
+noch nicht bereinigt hat.``
+
+Er zog den Reißverschluss der Tasche zu. Das Geräusch der
+Kunststoffzähne war das einzige Signal im Raum. Er öffnete die Tür zum
+Treppenhaus. Der Geruch von feuchtem Beton und altem Holz trat ihm
+entgegen.
+
+„Schalt das Terminal aus``, sagte er.
+
+„Es läuft über das Netz von InSIM``, antwortete sie leise in den leeren
+Raum hinein. „Man kann ein Quantensystem nicht ausschalten, indem man
+den Stecker zieht. Es bleibt im Überlagerungszustand.``
+
+Die Tür fiel ins Schloss. Der Riegel schnappte mit einem trockenen,
+metallischen Klick ein.
+
+Auf der Treppe verlangsamte Luca den Schritt nicht. Mit jeder Stufe, die
+er hinabstieg, wurde das Dröhnen der Stadt draußen deutlicher -- das
+abgedämpfte Rollen der Reifenspuren auf nassem Asphalt, das Pfeifen des
+Windes im Belüftungsschacht der U-Bahn-Station an der Park Street.
+
+Im Waggon der Red Line saß er der eigenen Spiegelung in der geschwärzten
+Fensterscheibe gegenüber, während der Zug durch den Tunnel unter dem
+Charles River schnitt. Das Gesicht im Glas war unscharf, überlagert von
+den Signalleuchten im Tunnel, die rhythmisch in die Dunkelheit
+schnitten. Gelb. Rot. Aus. Ein Stroboskop aus Möglichkeiten, das ihn
+unverändert weiter nach Osten schob.
+
+\section{\texorpdfstring{\textbf{Kapitel 2: Die
+Reise}}{Kapitel 2: Die Reise}}\label{kapitel-2-die-reise}
+
+Sechs Stunden im Rumpf einer Boeing 777, isoliert über der
+Kontinentalplatte. Die Kabinenluft war auf zweiundzwanzig Grad
+heruntergekühlt, trocken und mit dem Geruch von künstlicher Zitrone,
+Kaffee und einem schwachen Hauch von Kerosin gesättigt.
+
+Luca saß am Fenster auf Platz 14A. Vor ihm auf dem Klapptisch stand die
+Plastiktasse mit dem Filtermilchkaffee. Eine hauchdünne, dunkle Haut
+hatte sich auf der Oberfläche gebildet, die bei jeder leichten
+Kurvenlage des Flugzeugs erschütterungsfrei an den Becherrand stieß. Er
+rührte sie nicht an.
+
+Draußen lag die Wolkendecke flach und geschlossen unter der Tragfläche,
+ein unendliches Feld aus strukturlosem Weiß. Es sah aus wie die gipserne
+Oberfläche der Geländemodelle im InSIM-Labor -- eine glatte, noch nicht
+durch Berechnungen aufgelöste Matrix.
+
+Er zog das Farbfoto aus dem Notizbuch. Der Mann vor der Ziegelwand im
+Campo Santo Teutonico. Im scharfen Licht der Leseleuchte traten die
+Kanten des Papierabzugs noch deutlicher hervor. Phillips' Augen waren
+nicht auf die Linse gerichtet, sondern leicht seitlich versetzt, als
+wartete er auf das Signal einer Messapparatur außerhalb des
+Bildausschnitts. Die Gesetze der Quantenmechanik: Ein Zustand, der erst
+durch den Akt der Beobachtung determiniert wird. Was geschah mit der
+Wellenfunktion, wenn der Beobachter die Zelle verließ?
+
+Die Flugbegleiterin schob den Servierwagen durch den Gang. Das Radlager
+der Rollen erzeugte ein hohes, mechanisches Summen auf dem Teppichboden.
+
+„Noch etwas Wasser für Sie?{\kern0pt}``, fragte sie. Das Lächeln war
+perfekt kalibriert, eine geschulte Dialoggrammatik für Zehntausend Meter
+Höhe.
+
+„Nein``, sagte er.
+
+„Wir beginnen in Kürze mit dem Sinkflug auf Los Angeles.``
+
+Er sah wieder durch die doppelte Acrylscheibe. Die dichte Schicht löste
+sich auf. Die Wolken zerrissen in flache, graue Fetzen, die über die
+Topographie Kaliforniens schwebten. Darunter erschien das Land: karg,
+erdfarben, durchzogen von trockenen Flussbetten, die wie verblasste
+Schaltungsmuster in die Kruste gezeichnet waren.
+
+Dann die Agglomeration. Los Angeles war kein zusammenhängender Ort,
+sondern ein Raster aus Freeways, Parkdecks und flachen Gewerbebauten,
+das sich bis zum Dunstschleier des Pazifiks erstreckte. Eine schier
+unendliche Redundanz aus Beton und Asphalt, in der Millionen Bewegungen
+simultan abliefen, ohne einander zu berühren.
+
+LAX roch nach Ozon, Flugbenzin und dem feuchten Gummi der Gepäckbänder.
+Die Transitpassagiere schoben sich stumm unter den Anzeigetafeln
+hindurch, deren Pixelanzeigen im Sekundentakt neue Ankunftszeiten
+ausgaben.
+
+Am Schalter der Autovermietung unterschrieb Luca den Standardvertrag.
+Der Stift war an einer Spiralschnur aus schwarzem Kunststoff befestigt.
+
+„Kompaktklasse, grauer Sedan, Deck 3, Stellplatz 412``, sagte die
+Angestellte, ohne den Blick vom Monitor zu heben. Ihre Finger glitten
+routiniert über die Tastatur.
+
+Im Parkhaus stand der Wagen unter den Neonröhren. Das Metall des Dachs
+war kalt. Der Motor sprang sofort an -- ein leises, vibrationsarmes
+Brummen des Vierzylinders.
+
+Er steuerte den Wagen auf die Interstate 10 East. Der Verkehr auf den
+sechs Spuren floss mit sechzig, siebzig Meilen pro Stunde, eine dichte
+Kolonne aus Chrom, Lack und verdunkelten Scheiben. Neben ihm zog die
+Peripherie vorbei: Plakatwände für Logistikunternehmen,
+Fast-Food-Schilder auf Stahlmasten, automatisierte Waschanlagen. Alles
+wirkte wie vorgefertigt, aufgestellt in einem Versuchsfeld für
+funktionale Architektur.
+
+Nach zwei Stunden veränderten sich die Radien der Straße. Die Wohnblöcke
+wichen flachen Lagerschuppen, dann folgten die Abzweigungen zu den
+Fertigsiedlungen der Wüstenvororte. Schließlich hörten auch die Zäune
+auf.
+
+Die Straße wurde zu einem grauen Band, das zwischen den letzten
+Ausläufern der Berge in die Colorado Desert schnitt. Die Sonne stand
+tief im Rückspiegel und warf den schmalen Schatten des Sedans weit vor
+das Fahrzeug. Die Landschaft verkümmerte zu verbrannten Büschen, hellen
+Kalksteinen und feinem, rotem Staub, der vom Wind quer über den Asphalt
+getrieben wurde.
+
+Er schaltete das Radio ein. Rauschen auf allen Frequenzen, unterbrochen
+von den Bruchstücken eines Predigers auf Mittelwelle, dessen Stimme im
+statischen Knistern unterging. \emph{„...the point where time ceases to
+measure...``} Er drehte den Lautstärkeregler nach links, bis der
+Schalter klickte.
+
+Die Stille im Fahrzeugraum war absolut, nur überlagert vom gleichmäßigen
+Abrollgeräusch der Reifen auf dem rauen Belag.
+
+Er verließ die Interstate und folgte der schmalen Straße nach Südosten.
+An einer Abzweigung ohne Ampel stand die einzelne Zapfsäule einer alten
+Tankstelle vor einer Baracke aus Wellblech. Der Wind ließ ein
+verrostetes Werbeschild an zwei Ketten schlagen.
+
+Luca hielt an. Als er die Fahrertür öffnete, schlug ihm die Hitze
+entgegen -- trocken, scharf, durchsetzt mit dem Geruch von verbranntem
+Harz und Staub. Es war eine Hitze, die nicht wärmte, sondern
+austrocknete, ganz ähnlich der kalten Trockenheit in den klimatisierten
+Depots von Pompeji, in denen man die organischen Reste unter
+Luftabschluss hielt.
+
+Er ließ den Treibstoff in den Tank laufen. Das Zählwerk an der Zapfsäule
+klackerte mechanisch.
+
+Im Verkaufsraum saß ein Mann hinter einem Schutzglas aus Acryl. Seine
+Haut war tief gefurcht, das Hemd an den Schultern verwaschen. Auf dem
+Tresen lag eine vergilbte Faltkarte des San Bernardino County.
+
+Luca legte zwei Plastikflaschen stilles Wasser und ein Sandwich in Folie
+auf das Band.
+
+Der Mann scannte die Barcodes. Der Piepton war schrill im engen Raum.
+„Die Nebenstraße ist weiter oben gesperrt``, sagte er. Die Stimme klang
+rau, als benutze er sie selten. „Bauarbeiten an der alten Brücke.``
+
+„Ich muss weiter nach Südosten``, sagte Luca. „In die Senke.``
+
+Der Mann sah ihn durch das leicht getönte Acrylglas an. Die Augen waren
+schmal, trüb vom grauen Star. „Da ist nichts mehr. Die alten
+Messstationen haben sie vor zehn Jahren abgeschaltet. Die Army nutzt das
+Terrain nicht einmal mehr für Zielübungen.``
+
+„Die Straße führt durch``, sagte Luca.
+
+„Die Straße endet an der alten Salzpfanne``, entgegnete der Mann und
+schob das Wechselgeld unter der Scheibe durch. „Danach gibt es nur noch
+Fahrspuren im Sand. Wenn der Motor ausfällt, bleibt die Wärme im Metall.
+Bis sie abkühlt. Mehr ist da nicht.``
+
+Luca nahm die Flaschen. „Das reicht.``
+
+Er stieg wieder ein. Die Tür schloss mit einem dumpfen Schlag.
+
+Die Sonne versank hinter den Bergketten im Westen und hinterließ einen
+breiten, violetten Streifen am Horizont, der rasch in tiefes Schwarz
+überging. Die Scheinwerfer des Sedans schnitten zwei weiße Lichtkegel in
+die Dunkelheit, in denen Milliarden Staubpartikel tanzten. Kein
+Gegenverkehr mehr. Keine Masten. Nur die gelbe Mittellinie, die im
+Rhythmus der Scheinwerfer unter dem Kühler verschwand.
+
+Er hielt am Rand einer geschotterten Ausweichstelle. Schaltete die
+Zündung aus. Die Scheinwerfer erloschen.
+
+Sofort brach die Wüstennacht über den Wagen herein. Der Motor knisterte
+leise im Abkühlen, Metall, das sich im Schrumpfen zusammenzog.
+
+Luca stieg aus und lehnte sich an die Motorhaube. Der Himmel über ihm
+war klar, dicht besetzt mit kalten, feinen Lichtpunkten. Kein
+Zivilisationsleuchten mehr am Rand. Die Luft war schlagartig abgekühlt.
+
+Er zog den Brief aus der Tasche. Im schwachen Licht des Displays seines
+Mobiltelefons -- kein Empfang, keine Balken in der Statusleiste -- las
+er die Zeilen nicht mehr, er spürte nur die Struktur des Papiers.
+
+\emph{Er rechnet nicht mehr.}
+
+Das war die Formulierung von ARS: ein Zustand, in dem ein
+Quantenprozessor aufgehört hatte, neue Iterationen zu erzeugen, weil
+alle Zustände kollabiert waren.
+
+Gegen zweiundzwanzig Uhr erreichte er ein Motel am Rand einer
+aufgelassenen Bergbausiedlung. Drei Leuchtröhren des Neonschilds summten
+in der Kälte: \emph{M O T E L}.
+
+Der Schlüssel war aus Messing, befestigt an einer rautenförmigen
+Plastikmarke mit der Nummer 7. Das Zimmer roch nach Linoleum,
+Reinigungsmittel und trockenem Holz. Auf dem Nachttisch stand ein
+Telefon mit Wählscheibe, das Kabel aus der Wand gezogen.
+
+Luca legte sich unentkleidet auf die Decke. Das Licht der einzelnen
+Straßenlaterne vor dem Fenster warf das Streifenmuster der Jalousie an
+die Decke -- genau wie im Seminarraum in Boston.
+
+Er schloss die Augen nicht. Er lauschte auf das Geräusch des Windes, der
+den feinen Wüstenstaub gegen die Scheiben blies. Es klang wie das
+Rauschen eines Datenstroms, der langsam im Rauschen des Hintergrunds
+erlischt.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section}
+
+\section{\texorpdfstring{\textbf{Kapitel 3: Die
+Ankunft}}{Kapitel 3: Die Ankunft}}\label{kapitel-3-die-ankunft}
+
+Der Asphalt fraß sich am Rand der Senke fest, zerbröckelte in
+unregelmäßigen Kalksteinstücken und ging schließlich in eine Piste aus
+verdichtetem, ockerfarbenem Sediment über. Der Sedan verlangsamte das
+Tempo. Der Unterboden setzte einmal hart auf einem auswaschenden
+Gesteinsgrat auf -- ein trockenes, metallisches Schlagen, das durch die
+Lenksäule bis in Lucas Handgelenke schoss.
+
+Der Staub zog in einer dichten, feinkörnigen Fahne hinter dem Wagen her.
+Er setzte sich auf die Heckscheibe, kroch durch die Dichtungen der
+Luftschlitze und legte sich wie eine mehlige Schicht auf das
+Armaturenbrett. Es schmeckte nach verbranntem Kalk und ausgetrockneter
+Tonerde, ein feiner, alkalischer Film auf der Zunge, der an die
+Konservierungspulver in den Archäologiedepots der Campania erinnerte.
+
+Am Abhang des Hügels stand die Konstruktion.
+
+Sie war schmal, auf flachen Betonfundamenten errichtet, das Holz von der
+ultravioletten Strahlung verbrannt und zu einem matten, silbrigen Grau
+verwittert. Die Bretter wiesen tiefe Längsrissmuster auf, aus denen
+trockenes Harz getreten war. Kein Dachrinnenrohr, kein Maschendraht. Nur
+die rechteckige Geometrie einer abgelegenen Feldstation, deren
+Fensterrahmen vom feinen Wüstensand blankgeschmirgelt worden waren.
+
+Auf der schmalen Veranda saß Phillips.
+
+Er lag nicht im Liegestuhl, er lehnte nicht an der Fassade. Er saß auf
+einem einfachen Holzstuhl, die Knie rechtwinklig gebeugt, die Füße flach
+auf den Dielen. Seine Hände ruhten auf den Oberschenkeln -- lange,
+knochige Finger mit verhornten Nägeln, deren Adern wie blaue Kabel unter
+der pergamentartigen Haut hervortraten. Er trug ein ausgewaschenes,
+dunkles Kragenhemd, dessen oberster Knopf fehlte.
+
+Luca stellte den Motor ab. Die schlagartige Abwesenheit der
+Zylinderbewegung erzeugte eine physische Leere im Raum. Der Staub sank
+langsam auf die Motorhaube; das heiße Metall tickte im Sekundentakt der
+Abkühlung.
+
+Luca stieg aus. Der Sand knirschte trocken unter den Gummisohlen seiner
+Sneaker. Die Luft hier unten war anders als an der Zapfsäule --
+stehender, schwerer, durchdrungen von der Hitze, die das kalkhaltige
+Gestein den ganzen Tag über gespeichert hatte. Sie roch nach Nichts,
+nach thermisch gereinigtem Raum.
+
+Er trat an die Stufen der Veranda. Phillips bewegte den Kopf nicht. Sein
+Blick war flach über die Geländemulde gerichtet, dorthin, wo die
+Überreste der alten Messmasten als rostrote Nadeln im Flimmern der
+Horizontlinie standen.
+
+„Die Schnittstelle in Mailand hat Ihre Parameter nicht gelöscht, Dr.
+Phillips``, sagte Luca. Die eigene Stimme klang im Freien erstaunlich
+flach, als würde die offene Wüste die Stimme sofort verschlucken. „Das
+InSIM-System führt Ihre Dialoggrammatiken weiter. Es erzeugt neue
+Schleifen.``
+
+Phillips schwieg. Ein Insekt zog in einer trägen Kreisbahn um das
+verblichene Holz des Geländers, stumm und ohne Summen.
+
+„Die Fakultät in Boston nimmt an, Sie seien in Rom``, fuhr Luca fort. Er
+griff in die Jackentasche und spürte die harten Kanten des Fotos. „Aber
+der Bogen aus dem Nadeldrucker kam ohne IP-Header. Er nutzte den alten
+Account der Gregoriana.``
+
+Phillips schloss für die Dauer eines Atemzugs die Augen. Seine Lidränder
+waren trocken, gezeichnet von feinsten Staubadern. Das Gesicht war
+schmaler geworden als auf dem Bild vor der Ziegelwand im Campo Santo --
+das Skelett zeichnete sich unter der gegerbten Haut ab wie ein
+freigelegtes Artefakt.
+
+„Teilhard schrieb von der Zuspitzung``, sagte Luca, die Schritte bedacht
+auf der untersten Stufe ansetzend. „Aber das ARS-Modell rechnet nicht
+auf eine Zuspitzung hin. Es verzweigt. Es lässt die Möglichkeiten im
+Raum stehen, ohne eine zu tilgen. Was ist das für ein Ort, Phillips? Ein
+Beobachterposten?{\kern0pt}``
+
+Das Licht veränderte seine Neigung. Die Schatten der Dachträger schoben
+sich millimeterweise über das Nadelholz der Veranda, scharfe, schwarze
+Balken, die das Deck in mathematische Segmente unterteilten.
+
+Luca bewegte sich nicht. Das Trikot-Gewebe seines Hemdes klebte am
+Rücken. Die Hitze war kein Gefühl, sondern ein Druck auf dem Brustbein,
+eine physikalische Einschränkung des Atems. Er fixierte die rechte Hand
+des alten Mannes. An der Kante seines Handgelenks verlief eine kleine,
+helle Narbe -- die Schnittspur einer alten Glaspipette aus den
+Physikalischen Laboren.
+
+Nach einer Stunde -- die Sonne hatte die Kuppe der westlichen
+Wüstenkette erreicht und tauchte den Senkenboden in ein hartes, rotes
+Licht -- stand Phillips auf. Seine Bewegungen waren mechanisch, ohne die
+Hast alter Menschen. Er griff nach der blechernen Kanne auf dem Tisch
+hinter sich, füllte ein dickwandiges Wasserglas und schob es an die
+Kante des Geländers.
+
+Das Glas war beschlagen, feine Kondensatperlen bildeten sich auf der
+Außenseite und liefen durch den Wüstenstaub herab.
+
+Phillips sah ihn erstmals an. Die Augen waren nicht trüb, sondern von
+einem blassen, fast durchsichtigen Grau, im Zentrum verengt zu zwei
+winzigen, schwarzen Punkten.
+
+„Das Wasser kommt aus der tiefen Bohrung``, sagte Phillips. Die Stimme
+war kein Flüstern, sondern ein trockenes, scharfes Geräusch, wie das
+Reiben zweier Kalksteine aneinander. „Achtzig Meter. Vor dem Ausbruch
+gebunden.``
+
+Luca nahm das Glas. Das Wasser war kalt, schmeckte metallisch nach Eisen
+und Natrium, brannte leicht an den ausgetrockneten Lippen.
+
+„Sie haben die Quantenschnittstelle nicht abgeschaltet``, sagte Luca.
+
+Phillips wandte den Kopf wieder ab. Sein Profil schnitt scharf gegen den
+glühenden Horizont. „Wenn du nach Sätzen suchst, bist du im falschen
+Versuchsfeld. Die Dialoge sind abgeschlossen. Wir dokumentieren hier nur
+noch das Erstarren.``
+
+„Das Buch des Systems ist nicht leer``, sagte Luca.
+
+„Das System rechnet die Reste``, antwortete Phillips leise. „Es erzeugt
+Zustände, weil niemand da ist, der die Messung beendet. Wenn du bleiben
+willst, lass die Fragen im Wagen. Der Staub braucht keine Grammatik.``
+
+Er drehte sich um und trat durch die Fliegengittertür. Das Netz schlug
+mit einem leisen, doppelten Klacken gegen den Rahmen.
+
+Luca blieb auf den Stufen sitzen. Das Holz unter seinen Oberschenkeln
+kühlte mit dem Verlöschen des Tageslichts schlagartig ab. Draußen in der
+Senke verblassten die Schatten der Messmasten zu dünnen, grauen
+Strichen, bis die Dunkelheit das Becken wie flüssige Tinte ausfüllte.
+Kein Zivilisationsgeräusch. Kein Flugzeugnetz am Nachthimmel. Nur das
+feine, mechanische Summen des Windes, der den Sand gegen die Fundamente
+trieb.
+
+Später trat Luca in den Innenraum.
+
+Die Hütte roch nach Paraffin, altem Papier und trockenem Zedernholz. Ein
+einziges Petroleumlicht brannte auf dem Holztisch und warf einen engen,
+gelben Lichtkreis auf die Dielen.
+
+Im Regal an der Rückwand standen keine populären Taschenbücher. Dort
+reihten sich englische und italienische Forschungsbände in abgewetzten
+Leineneinbänden: Abhandlungen über stochastische Prozesse, Manuskripte
+zur Phänomenologie der Zeit, alte Berichte der Päpstlichen Akademie der
+Wissenschaften. Dazwischen lagen verblasste Karteikarten, dicht
+beschrieben mit mathematischen Formeln und altgriechischen
+Textfragmenten -- Phillips' eigene Vorarbeiten zu den Dialoggrammatiken
+aus den Neunzigern.
+
+An der Wand über dem feldbettähnlichen Gestell hing kein Kruzifix aus
+poliertem Holz, sondern ein einfaches, gusseisernes Kreuz ohne Korpus,
+dessen Oberfläche korrodiert war. Die Arme des Eisenkreuzes waren leicht
+asymmetrisch, wie ein verlassenes Messergebnis.
+
+Phillips lag auf dem Schlafsack, die Arme über der Brust gekreuzt, die
+Augen geschlossen. Sein Atem war so flach, dass sich der Stoff seines
+Hemdes kaum hob.
+
+Luca setzte sich auf die freie Pritsche an der gegenüberliegenden Wand.
+Er zog das Notizbuch heraus, legte es ungeöffnet auf das hölzerne
+Gestell neben seinem Kopf und starrte an die Decke, wo das Licht der
+Funzel das Geäst der Balkenstrukturen abbildete.
+
+Die Wüste draußen war kein Ort mehr. Sie war ein Resonanzraum für ein
+System, das vergessen hatte, wie man kollabiert. Luca schloss die Augen
+und lauschte auf das trockene Ticken der Deckenbalken, die im Abkühlen
+die Wärme der Sonne abgaben.
+
+\section{\texorpdfstring{\textbf{Kapitel 4: Das
+Schweigen}}{Kapitel 4: Das Schweigen}}\label{kapitel-4-das-schweigen}
+
+Die Entschleunigung vollzog sich nicht als plötzlicher Bruch, sondern
+als schleichender Entzug von Impulsen. Die Rhythmen der Tage schrumpften
+auf wenige, starr wiederkehrende Sequenzen -- eine Messreihe ohne
+Ausreißer.
+
+Das Licht schob sich morgens wie ein graues Lineal durch die Lücken der
+Holzverschallung. Phillips saß bereits auf der Veranda, die Unterarme
+flach auf den Knien, die Schultern leicht nach vorne gezogen. Er trug
+dieselbe ausgewaschene Baumwollhose, deren Saum vom kalkhaltigen Staub
+weiß verkrustet war.
+
+Luca trat hinter ihm auf das Deck. Die Dielen gaben keinen Laut von
+sich. Er setzte sich auf die oberste Stufe, den Rücken an den Pfosten
+gelehnt.
+
+In der Mündung der Senke lag der Dunst flach über den Basaltblöcken. Das
+Licht wirkte noch ungefiltert, kalt und brechend hart.
+
+„Die Schnittstelle hat die alten Abfragen von InSIM nicht bereinigt``,
+sagte Luca nach einer Stunde. Seine Stimme klang rauer als am Vorabend,
+belegt vom feinen Staub der Nacht. „In Mailand laufen die Simulationen
+ohne Schleifenüberwachung weiter. Sie generieren Agenten, die keine
+Eingaben mehr erwarten.``
+
+Phillips sah nicht auf. Sein Blick blieb fest verdrahtet mit der Linie
+der Messmasten am Horizont. Eine Ader an seiner rechten Schläfe
+pulsierte langsam, mit der sturen Gleichmäßigkeit eines Zeittaktes.
+
+„Man kann eine Überlagerung nicht ewig aufrechterhalten``, fügte Luca
+hinzu. „Irgendjemand muss die Messung beenden.``
+
+Phillips griff nach der Blechtasse neben seinem Stuhl. Der Rand der
+Blechtasse klirrte leise an seinen Zähnen. Er trank zwei Schlucke des
+lauwarmen Wassers, stellte das Gefäß exakt an die Stelle zurück, an der
+der feuchte Abdruck im Holz gezeichnet war, und strich sich mit der
+Handfläche über die Stirn.
+
+„Die Phänomenologie der Auslöschung``, sagte der alte Mann. Es war kein
+Gesprächsbeitrag, eher das laute Aufrufen einer archivierten Fußnote.
+„Wir haben in Rom Monate über die Invarianz des Schweigens diskutiert.
+Aber die Gregoriana ist ein Raum aus Stein und Akustik. Dort hallt
+selbst der Verzicht nach.``
+
+Er stand auf, ohne das Holz des Stuhls knarren zu lassen, und ging in
+den Schatten des Innenraums.
+
+Gegen Mittag gingen sie nach Osten. Es gab keinen Pfad. Der Boden
+bestand aus festem Sediment, unterbrochen von flachen Geröllfeldern,
+deren Kiesel von einer feinen Ascheschicht überzogen schienen -- das
+Überbleibsel alter vulkanischer Eruptionen, konserviert unter der
+Wüstensonne.
+
+Phillips ging mit gleichbleibender, langer Schrittlänge, die Arme lose
+an den Seiten pendelnd. Er wich den Steinen nicht aus, er trat auf sie.
+Das Knirschen des Gesteins unter den Sohlen war das einzige Geräusch in
+der Senke.
+
+An einer Senke aus hellerem Ton blieb der alte Mann stehen. Er bückte
+sich nicht mit der Zögerlichkeit des Alters, sondern mit einer knappen,
+funktionalen Beugung der Hüfte. Seine Finger griffen nach einem
+faustgroßen, grauen Basaltstück. Die Oberfläche des Steins war rau,
+übersät mit winzigen Poren, in denen sich der helle Sand festgesetzt
+hatte.
+
+Er hielt das Fragment auf der flachen Handfläche, ohne es zu drehen oder
+zu prüfen. Er hielt es wie ein Messergebnis, das keiner Interpretation
+bedurfte.
+
+„Teilhard sah im Gestein die erste Stufe der Verdichtung``, sagte Luca,
+der zwei Schritte hinter ihm verharrte. „Das Anreichern von Masse vor
+dem Bewusstsein.``
+
+Phillips hielt die Hand ruhig. Die Sonne warf den harten Schatten der
+Finger auf den Stein.
+
+„Die Steine sind keine Stufe``, sagte Phillips leise. Er ließ den Basalt
+fallen. Der Aufprall auf den trockenen Ton war stumm, ein kurzer,
+schwerer Druckimpuls im Staub. „Sie sind der Zustand nach dem Kollaps.
+Sie bezeugen nichts, weil es für sie keine Alternativen gibt. Keine
+Verzweigung. Keine Überlagerung.``
+
+Er ging weiter, ohne sich umzusehen.
+
+Die Tage verloren ihre Benennung. Sie unterteilten sich in das Wandern
+der Schattensegmente auf den Dielen der Veranda, in die thermische
+Ausdehnung des Wellblechs am Dach und in die kurzen Mahlzeiten aus
+Hartbrot und Schafskäse, die sie schweigend auf der Brüstung einnahmen.
+
+Am vierten Tag hatte sich die feine Staubschicht tief in die Poren von
+Lucas Händen gesetzt. Die Haut an den Knöcheln war rissig geworden,
+spröde wie altes Papier.
+
+Er beobachtete die Flugbahn zweier Militärjets, die in großer Höhe durch
+die Stratosphäre zogen. Die Maschinen selbst waren unsichtbar, nur zwei
+messerscharfe, weiße Kondensstreifen schnitten den tiefblauen Himmel in
+exakte Parallelen. Kein Schall erreichte den Boden. Die Triebwerke
+blieben in der Höhe stumm.
+
+„Martina hat sich aus dem Register des Parks abgemeldet``, sagte Luca in
+die Stille hinein. Er saß auf dem warmen Holz und sah zu, wie die
+Kondensstreifen sich langsam auflösten, breiter wurden und als grauer
+Schleier vergingen. „Ihre Mutter sagte, sie sei nach Mailand gefahren.
+Zu InSIM.``
+
+Phillips bewegte die Finger seiner rechten Hand, als spiele er einen
+stummen Akkord auf einer unsichtbaren Klaviatur.
+
+„Sie suchen alle nach der Schließung des Modells``, antwortete der alte
+Jesuit nach einer langen Pause. Seine Augen folgten den Rändern der
+verblassten Streifen am Himmel. „Aber das ARS-System schließt nicht. Es
+baut nur die Nebenschauplätze aus. Martina weiß das. Sie hat die
+Grabungsberichte aus der Campania gelesen. Sie kennt den Unterschied
+zwischen Konservierung und Erstarren.``
+
+„Und Sie?{\kern0pt}``, fragte Luca. „Warum sind Sie hierher
+gegangen?{\kern0pt}``
+
+Phillips wandte den Kopf nicht. Die Haut seines Halses lag in tiefen,
+trockenen Falten über dem Kragen.
+
+„Man kann nicht gleichzeitig im Versuchsfeld stehen und die Messwerte
+notieren, Luca``, sagte er, und seine Stimme verlor jede akademische
+Tönung, wurde flach wie das verbleichende Licht über dem Becken. „Ich
+habe jahrelang Dialoge berechnet. Ich habe Algorithmen beigebracht, wie
+das Ungesagte strukturiert werden muss. Hier draußen gibt es keine
+Struktur mehr. Nur das Signalrauschen des Hintergrunds.``
+
+Er stand auf und trat an die Kante des Decks, die Hände hinter dem
+Rücken verschränkt.
+
+„Morgen``, sagte Luca leise zum Schatten des alten Mannes. „Morgen
+breche ich die Reihe ab.``
+
+Phillips antwortete nicht. Er stand an der Schwelle zum Staub, während
+der Horizont die rote Farbe verlor und in das monotone Violett der
+Wüstennacht überging.
+
+\section{\texorpdfstring{\textbf{Kapitel 5: Die erste
+Frage}}{Kapitel 5: Die erste Frage}}\label{kapitel-5-die-erste-frage}
+
+Am siebten Tag zerbrach das Schweigen nicht in einem langen Gespräch,
+sondern in kurzen, unvollständigen Sätzen, die sofort vom Wind verweht
+wurden.
+
+Die Sonne stand um elf Uhr grell über dem Hügelkamm. Die Luft über den
+Basaltblöcken flimmerte so stark, dass die Konturen der alten Messmasten
+am Horizont zu weichen, grauen Linien zu verschwimmen schienen. Es sah
+aus wie ein Rechenfehler auf dem Monitor eines Oszilloskops.
+
+Luca saß auf der untersten Stufe der Veranda, die Knie an den Brustkorb
+gezogen. Er trug das Notizbuch auf dem Oberschenkel, aber der Stift lag
+unangetastet in der Falte der Bindung. Die Dielen unter seinen Füßen
+hatten die Wärme des Vormittags gespeichert und gaben sie in
+gleichmäßigen, trockenen Wellen nach oben ab.
+
+Phillips saß drei Stufen über ihm. Seine Hände lagen flach auf den
+Oberschenkeln, unverändert, die Adern blau und hart abgezeichnet.
+
+„Warum haben Sie die Gregoriana verlassen?{\kern0pt}``, fragte Luca. Er
+sah nicht nach oben. Sein Blick hing an einem gebleichten Echsenschädel,
+der halb im roten Sand neben der Treppe vergraben lag.
+
+Phillips bewegte den Kopf nicht. Die Haut an seinem Hals war straff
+gezogen, als er den Atem anhielt.
+
+„Weil die Dialoge korrupt wurden``, sagte er schließlich. Die Stimme
+klang kühler als an den Tagen zuvor, frei von Rauheit, fast mechanisch
+artikuliert. „Wenn man einem System beibringt, Wahrscheinlichkeiten für
+die nächsten Worte zu berechnen, verlernt man das Schweigen. Man
+produziert nur noch Redundanz.``
+
+„Das InSIM-Labor braucht die Parameter für die Softwareagenten``, sagte
+Luca. „Mertens will die Prototypen in Pompeji einsetzen. Eine Simulation
+von Bewusstsein, das nicht weiß, dass es in einer Schleife feststeht.``
+
+Phillips schlussfolgerte nicht. Er blickte über Lucas Kopf hinweg in das
+grelle Weiß der Senke.
+
+„Teilhard dachte, der Omega-Punkt sei das Ziel der Evolution``, sagte
+der alte Jesuit leise. „Die ultimative Verdichtung. Ein Zustand, in dem
+die Materie so dicht gepackt ist, dass sie zu reinem Geist wird. Aber
+das war die Theologie des zwanzigsten Jahrhunderts. Ein Irrtum der
+Geometrie.``
+
+„Und was ist die Realität?{\kern0pt}``, fragte Luca und drehte den
+unbenutzten Stift in den Fingern.
+
+„Das ARS-System rechnet nicht auf eine Verdichtung hin``, antwortete
+Phillips. Seine Finger krampften sich ganz leicht um das Gewebe seiner
+Hose, dann entspannten sie sich wieder. „Es dehnt sich aus. Jede
+Entscheidung erzeugt ein neues Feld. Der Omega-Punkt ist keine
+Singularität, Luca. Er ist der Moment, in dem die Alternativen unendlich
+werden und die Wahrscheinlichkeiten auf null sinken.``
+
+Er deutete mit einer minimalen Bewegung des Kinns auf die Geröllhalde
+vor der Veranda.
+
+„Das sind die Steine``, sagte er. „Kein Denkmal. Nur der Rest, wenn jede
+Berechnung eingestellt wird.``
+
+Luca sah auf die grauen Blöcke aus erstarrtem Basalt. Die Hitze
+spiegelte sich auf den glatten Abbruchkanten wie auf zerbrochenem Glas.
+
+„Sie sprechen von einer Sackgasse``, sagte Luca.
+
+„Ich spreche von der Messung``, entgegnete Phillips. „Die
+Quantenschnittstelle kollabiert nicht von selbst. Man muss aufhören,
+hinzusehen. Man muss das Labor verlassen.``
+
+„Und Martina?{\kern0pt}``, fragte Luca. Die Frage fiel plötzlich in den
+Raum, unvorbereitet, wie ein Gegenstand, der vom Tisch gleitet. „Sie ist
+nicht nach Mailand gefahren.``
+
+Phillips reagierte nicht sofort. Der Schatten des Verandadachs schob
+sich langsam über seine Stirn und tauchte seine Augenhöhlen in tiefe
+Dunkelheit.
+
+„Martina kennt den Unterschied zwischen einer Ruine und einer
+Simulation``, sagte er leise. „Sie sucht nach den Schichten unter der
+Asche. Aber dort unten gibt es keine Welten mehr. Nur das Sediment.``
+
+Er stand auf. Die Gelenke seiner Knie gaben ein trockenes Knacken von
+sich, das sofort im Flimmern der Luft verflog. Er ging nicht in die
+Hütte, um Nahrung zu holen. Er trat an das Geländer, stützte sich mit
+beiden Händen ab und sah zu, wie die Sonne den Horizont in ein hartes,
+metallisches Bleichgelb tauchte.
+
+„Du hast sieben Tage geschwiegen, Luca``, sagte er, ohne sich
+umzudrehen. „Aber du hast nicht zugehört. Du hast nur auf den Moment
+gewartet, an dem du deine Fragen stellen kannst.``
+
+„Ich brauche eine Antwort für die Arbeit``, sagte Luca.
+
+„Es gibt keine Arbeit``, antwortete Phillips. „Es gibt nur den
+Versuchsaufbau. Und wir sind die Variablen, die man vergessen hat zu
+löschen.``
+
+Er wandte sich ab und schritt durch die Fliegengittertür in den
+schummrigen Innenraum.
+
+Am achten Tag veränderte sich das Licht.
+
+Ein trockener Nordwind war in der Nacht aufgekommen und hatte feinen,
+rötlichen Staub aus den höheren Senken herangetragen. Der Himmel war
+nicht mehr blau, sondern von einem fahlen, opaken Gelb, das die Sonne zu
+einer matten Scheibe verblasste. Die Hitze war nicht mehr spürbar als
+Strahlung, sondern als trockene Hülle, die auf der Haut lag wie ein
+Panzer.
+
+Sie saßen nebeneinander auf den Stufen. Keiner von beiden hatte das
+Frühstück berührt. Die Plastikschale mit den getrockneten Datteln stand
+unberührt zwischen ihren Füßen, überzogen von einem dünnen Schleier aus
+feinstem Sand.
+
+Luca hielt das Farbfoto des jungen Phillips in der Hand. Die Ränder des
+Papiers hatten sich in der extremen Trockenheit der Wüste leicht nach
+oben gewölbt.
+
+„Er sieht aus, als wüsste er, was kommt``, sagte Luca und reichte das
+Bild hinüber.
+
+Phillips nahm das Foto nicht. Er warf nur einen kurzen, flüchtigen Blick
+auf den Papierabzug, als handele es sich um das Datenblatt eines längst
+ausrangierten Geräts.
+
+„Das war vor der Simulation``, sagte der alte Mann. Seine Stimme war
+kaum mehr als ein kühles Rauschen im Wind. „Bevor wir die
+Dialoggrammatiken auf die Server gespielt haben. Damals glaubten wir
+noch, dass Sprache ein Mittel sei, um Wirklichkeit zu teilen.``
+
+„Und heute?{\kern0pt}``
+
+„Heute wissen wir, dass Sprache nur der Versuch ist, das Rauschen des
+Systems zu überdecken. Jedes Wort ist eine Reduktion, ein schlechter
+Kollaps.``
+
+Er griff nach seiner Wassertasse, trank nicht, sondern ließ die
+Flüssigkeit langsam über die Kante auf die oberste Stufe laufen. Das
+feuchte Holz färbte sich augenblicklich dunkel, und bereits nach wenigen
+Sekunden begann die Stelle wieder zu verblassen, während der Staub das
+Wasser aufsaugte.
+
+„Du willst wissen, was du tun sollst, Luca?{\kern0pt}``, fragte Phillips
+und sah ihn seitlich an. Seine Augen wirkten in dem gelblichen Licht
+fast transparent.
+
+„Ja``, sagte Luca.
+
+„Nichts``, antwortete der alte Jesuit. Er wandte den Blick wieder ab zur
+staubigen Senke. „Setz dich hin. Beobachte das Abkühlen. Das ist die
+einzige Bewegung, die keine neuen Welten erzeugt.``
+
+Sie saßen auf den Stufen, während der Staubwind in langen, dichten
+Fahnen über das Sediment strich und die Spuren des Wagens auf der Piste
+langsam, Satz für Satz, wieder auffüllte.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section-1}
+
+\section{\texorpdfstring{\textbf{Kapitel 6: Die
+Steine}}{Kapitel 6: Die Steine}}\label{kapitel-6-die-steine}
+
+Am neunten Tag trug der alte Mann feste Schuhe aus schwerem, rissigem
+Leder und eine gefütterte Arbeitsjacke, die in der Hitze vollkommen
+anachronistisch wirkte.
+
+Als Luca um kurz nach sieben aus dem Türrahmen trat, stand Phillips
+bereits dreißig Meter östlich der Veranda im Sand, die Hände in den
+Jackentaschen versenkt, den Blick straff auf die Bruchkante der Senke
+gerichtet. Er bewegte sich nicht, um auf Luca zu warten; er existierte
+einfach an einem Punkt außerhalb der Hütte, als hätte ihn eine
+Verschiebung im Geländeprofil dort abgelegt.
+
+Luca griff nach den Stiefeln, die neben der Schwelle standen. Das Leder
+war spröde, überzogen von feinstem Basaltstaub. Er schnürte sie, ohne
+die Strümpfe aufzufalten.
+
+Sie gingen nach Osten. Nicht entlang der verwaschenen Fahrspur, die
+zurück zur Hauptstraße führte, sondern quer durch das freie Sediment.
+
+Der Boden war kein Sandstrand. Es war ein erstarrtes Feld aus
+zerkleinertem, porösem Vulkanit, durchsetzt mit scharfen
+Quarzitsplittern, die unter den Sohlen ein trockenes, rhythmisches
+Knirschen erzeugten. Die Luft schmeckte nach Schwefel und abgekühltem
+Eisen -- derselbe Geruch, den Luca aus den klimatisierten
+Untergeschossen des InSIM-Labors in Neapel kannte, wenn die
+Hochleistungskühlungen der Quanten-Server nach zwanzig Stunden
+Dauerbetrieb abgeschaltet wurden.
+
+Phillips ging mit gleichmäßigem, mechanischem Schritt. Er wich den
+größeren Felstrümmern nicht aus, sondern stieg mit starrer Hüfte darüber
+hinweg. Seine Silhouette zeichnete sich scharf gegen das flache,
+gelbliche Licht des Vormittags ab, dünn wie eine Schnittlinie auf einem
+Diagramm.
+
+Nach zweieinhalb Stunden veränderte sich die Geometrie der Landschaft.
+
+Die flache Senke verengte sich zu einem breiten, baumlosen Kessel. Hier
+gab es keine Vegetation mehr, keine verdorrten Dornensträucher, keine
+Echsen im Schatten der Spalten. Vor ihnen lag eine Ansammlung von
+Basaltblöcken -- hunderte, vielleicht tausende matter, dunkler Körper,
+die flach auf der hellen Staubschicht lagen. Es sah nicht aus wie eine
+natürliche Verwitterung. Es glich den Überresten einer städtischen
+Struktur, deren Mauern und Dächer in einem einzigen Augenblick molekular
+zertrümmert und flach auf den Boden gedrückt worden waren.
+
+Phillips blieb am Rand des Kessels stehen. Er nahm die Hände aus den
+Taschen und ließ sie schlaff an den Seiten hängen.
+
+„Das ist kein Friedhof``, sagte er. Seine Stimme war leise, aber in der
+absoluten Stille des Kessels klang jedes Wort wie ein sauber gesetzter
+Impuls. „Ein Friedhof bewahrt Erinnerung. Das hier ist die Abwesenheit
+von Signal.``
+
+Luca trat an seine Seite. Die Hitze stieg aus dem dunklen Gestein auf,
+unruhig flimmernd, so dass die weit entfernten Ränder des Kessels zu
+schwanken schienen.
+
+„Wir haben in Pompeji nach organischer Masse gesucht``, sagte Luca.
+Seine Kehle war rau vom Staub. „Nach Abdrücken im Hohlraum der Asche.
+Aber die Sensoren des ARS haben nur die Dichte der Steine gemessen. Das
+System hat die Toten nicht rekonstruiert, Phillips. Es hat sie durch
+mathematische Körper ersetzt.``
+
+Phillips blickte nicht zu ihm. Seine Augenhöhlen lagen tief im Schatten
+der Hutkrempe.
+
+„Wenn man ein Ereignis bis ins kleinste Detail simuliert``, sagte der
+alte Jesuit, „braucht man irgendwann keine Zeugen mehr. Die Messung
+frisst das Subjekt. Was übrig bleibt, ist der Stein. Ein Körper, der
+keine Fragen stellt und keine Parameter verändert.``
+
+Luca bückte sich. Er griff nach einem faustgroßen Stück Basalt, das halb
+im Staub eingebettet lag. Die Oberfläche war rau, porenreich, mit
+winzigen grünlichen Olivinkristallen durchsetzt. Das Gestein fühlte sich
+schwer an, überraschend kalt an der Unterseite, die dem Sand aufgeliegen
+hatte, während die Oberseite glühte.
+
+Er drehte den Stein in den Fingern, tastete die scharfen Kanten ab.
+
+„Martina hat gesagt, dass die Steine in der Wüste Geduld haben``, sagte
+Luca.
+
+„Martina hat in Metaphern gedacht``, antwortete Phillips kaskadenartig,
+ohne Satzmelodie. „Das war ihr Fehler. Die Steine haben keine Geduld.
+Geduld setzt Zeit voraus. Steine sind der Zustand, in dem die Zeit
+aufgehört hat, eine kontinuierliche Variable zu sein. Sie sind der
+Endwert der Gleichung.``
+
+„Der Omega-Punkt``, sagte Luca und ließ den Stein zurück in den Staub
+fallen. Der Aufprall erzeugte einen dumpfen, klingenlosen Ton.
+
+„Teilhard verwechselte den Punkt mit Gott``, sagte Phillips. Er machte
+einen halben Schritt nach vorn, ohne in den Kessel hinabzusteigen. „Er
+glaubte an eine geistige Vollendung. Aber der Omega-Punkt des
+ARS-Projekts ist rein physikalisch. Es ist der Moment, in dem die
+Rechenkapazität des Universums ausgeschöpft ist. Wenn alle Welten
+berechnet sind und keine Wahrscheinlichkeit mehr übrig bleibt, um ein
+weiteres Wort zu erzeugen. Dann erstarrt das System.``
+
+„Und wir?{\kern0pt}``, fragte Luca.
+
+Phillips sah ihn zum ersten Mal an. Seine Lider waren schwer, die
+Pupillen zu Stecknadelkopfgröße verengt.
+
+„Wir sind das Rauschen, das das System ausfiltert, bevor es sich
+abschaltet. Wir sind die Zwischenwerte, die Asche.``
+
+Er wandte sich nicht ab, um die Antwort abzuwarten. Er setzte sich
+direkt auf einen der flachen Basaltblöcke am Kesselrand, zog die Knie
+leicht an und legte die Ellbogen auf den Stoff seiner Arbeitsjacke.
+
+Luca setzte sich drei Meter entfernt auf einen ähnlichen Stein. Die
+Wärme des Vulkanits drang langsam durch den dichten Stoff seiner Hose.
+
+Sie sprachen nicht mehr.
+
+Die Sonne stieg höher, bis der Kessel keinen Schatten mehr warf. Die
+Steine lagen da wie eine Anordnung von Datenpunkten auf einem dunklen
+Feld, stumm, absolut, unbeobachtet von den Kameras der Welt.
+
+Am späten Nachmittag gingen sie zurück. Der Rückweg dauerte länger. Die
+Schatten der beiden Männer dehnten sich über den rötlichen Sand aus,
+lange, feine Linien, die vor ihnen herliefen und die Bruchkanten der
+Steine wie schwarze Tinte auffüllten.
+
+Als sie die Hütte erreichten, war das Licht im Westen in ein trübes,
+violetteres Sediment übergegangen.
+
+Sie tranken lauwarmes Wasser aus den Blechbechern auf der Veranda.
+Keiner von beiden machte Licht im Innenraum.
+
+Am zehnten Tag veränderte sich die Textur des Schweigens.
+
+Als Luca am Morgen hinausging, saß Phillips auf der obersten Stufe. Er
+trug die Arbeitsjacke nicht mehr, sondern das einfache, ausgebleichte
+Hemd der ersten Tage. In seiner rechten Hand hielt er einen ausgebauten
+Sensor aus der ersten Versuchsreihe der Messmasten, dessen
+Kabelanschluss sauber abgetrennt worden war.
+
+Er drehte das Bauteil zwischen Daumen und Zeigefinger.
+
+Luca setzte sich auf die unterste Stufe. Er stellte die Fragen nicht
+mehr. Er sah zu, wie das Sonnenlicht sich in dem kleinen Glasfenster des
+Sensors brach, ein winziger, hochintensiver Lichtpunkt, der über das
+Holz der Stufe wanderte.
+
+„Man kann das Experiment nicht abbrechen, Luca``, sagte Phillips leise.
+Es klang nicht wie eine Belehrung, sondern wie die Feststellung einer
+physikalischen Konstante.
+
+„Ich weiß``, antwortete Luca.
+
+„Das ARS rechnet weiter, ob wir in Neapel vor den Monitoren sitzen oder
+hier draußen im Staub. Es erzeugt Milliarden von Welten, in denen
+Martina nach Hause fährt, in denen sie in Mailand aus dem Zug steigt, in
+denen sie nie existiert hat.``
+
+Er ließ den Sensor in die Sandspur neben der Treppe fallen. Das Bauteil
+verschwand halb in der roten Asche.
+
+„Was tun wir dann hier?{\kern0pt}``, fragte Luca nach einer langen
+Pause.
+
+Phillips lehnte den Hinterkopf gegen die raue Holzwand der Hütte und
+schloss die Augen.
+
+„Wir bleiben in der einzigen Welt, in der wir nicht mehr antworten
+müssen.``
+
+Sie saßen da, während die Hitze des zehnten Tages über die Senke stieg
+und die Wüste vor ihnen langsam zu einem einzigen, spiegelnden Feld aus
+grellem Weiß zusammenschmolz.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section-2}
+
+\section{\texorpdfstring{\textbf{Kapitel 7: Die
+Rekonstruktion}}{Kapitel 7: Die Rekonstruktion}}\label{kapitel-7-die-rekonstruktion}
+
+Am vierzehnten Tag veränderte ein mechanisches Geräusch die Dichte der
+Luft.
+
+Es war kein plötzlicher Lärm, sondern eine tiefe, langsame Frequenz, die
+weit im Süden aus dem Hitzeflimmern der Fahrspur wuchs. Ein alter Sedan,
+dessen ausgebleichter Lack die Farbe von getrocknetem Lehmschlamm
+angenommen hatte, schob eine flache Bugwelle aus grauem Staub vor sich
+her. Der Motor lief unruhig, mit dem unregelmäßigen Taktieren eines
+Ventils, das kurz vor dem Festfressen steht.
+
+Phillips saß auf der zweiten Holzstufe der Veranda. Er bewegte den Kopf
+nicht. Seine Hände lagen flach auf den Oberschenkeln, starr, als spürte
+er die Vibrationen der Achsen bereits durch das vulkanische Fundament.
+
+Der Wagen hielt fünf Meter vor den Stufen. Der Kühler zischte leise, ein
+dünner Strahl Kühlflüssigkeit verdampfte stotternd auf dem heißen Blech
+des Unterbodens.
+
+Die Fahrertür schwang auf.
+
+Eine Frau stieg aus. Sie war Mitte vierzig, trug eine dunkelblaue
+Baumwolljacke über einem verwaschenen Shirt und feste Leinenschuhe. Ihr
+Haar war streng nach hinten gebunden, von feinstem Sandstaub mattgrau
+gepudert. Sie trug kein Gepäck, nur eine abgewetzte Reisetasche aus
+braunem Segeltuch, deren Reißverschluss zur Hälfte offen stand. In dem
+Spalt war das gequetschte Papier eines alten Fahrplans aus Neapel zu
+erkennen.
+
+Sie blieb an der Stoßstange stehen. Ihre Augen wanderten über die
+verwitterten Bretter der Hütte, glitten stumm über Phillips hinweg und
+blieben schließlich an Lucas Schultern hängen.
+
+„Der Zug aus San Diego hatte vier Stunden Verspätung``, sagte sie.
+Herkunft und Tonfall ihrer Stimme trugen die genaue Kadenz jener
+akademischen Zirkel Neapels, in denen Phillips einst gelehrt hatte --
+kühl, präzise, bar jeder dramatischen Intonation. „Die Verbindung in
+Indio existiert nur noch auf den Netzplänen.``
+
+Phillips antwortete nicht. Er fixierte einen Punkt weit hinter dem Heck
+des Wagens, dort, wo die Fahrspur im Sediment auslief.
+
+Sie sah ihn an, ohne den Kopf zu neigen. „Sie nimmt die Medikamente
+nicht mehr, Michael. Der Arzt in der Klinik sagt, die Neuronenmuster
+reagieren nicht auf die Korrektur. Sie hat aufgehört, nach dir zu
+fragen.``
+
+Sie griff nach ihrer Tasche, ging an den Stufen vorbei und trat durch
+die offene Tür ins Innere der Hütte. Ihre Schritte auf den Holzdielen
+klangen hart, ungepolstert. Ein kurzes, metallisches Klirren folgte, als
+sie die Tasche auf den Tisch stellte -- genau auf jene Stelle, an der
+bis zum Vortag die Aktenordner der Versuchsreihe gelegen hatten.
+
+Als sie wieder ins Licht der Veranda trat, trug sie das Segeltuch nicht
+mehr. Sie setzte sich auf die Stufe unterhalb von Phillips. Ihr Rücken
+berührte fast seine Knie, doch keiner von beiden suchte den Kontakt.
+
+Sie drehte den Kopf leicht zu Luca. Die Pupillen waren dunkel, von
+feinen Rötungen durchzogen, die Augenlider scharf gezeichnet.
+
+„Er hat mir erzählt, dass Sie hier sein würden``, sagte sie. „Ein
+Assistent aus der Messtechnik. Jemand, der an die Rekonstruktion
+glaubt.``
+
+„Ich bin nicht wegen der Messungen hier``, sagte Luca.
+
+„Warum dann?{\kern0pt}``, fragte sie. Sie strich mit zwei Fingern über
+das Holz der Stufe, schabte eine feine Kruste aus getrocknetem Staub ab.
+„Um zuzusehen, wie ein System ausbrennt? Um Protokoll zu
+führen?{\kern0pt}``
+
+„Er hat das Labor nicht verlassen, weil die Daten falsch waren``, sagte
+Luca. Seine Kehle spannte sich an. „Das ARS hat nicht simuliert,
+Martina. Es hat die Möglichkeiten abgeschafft. Jede Schaltung hat eine
+Welt gelöscht.``
+
+Ein kurzes, lautloses Lächeln schnitt über ihr Gesicht, kühler als die
+Schatten unter dem Wellblechdach.
+
+„Ich heiße nicht Martina``, sagte sie leise. „Martina ist die Variable
+aus den Simulationen. Die Tochter, die in der Schicht von
+siebenundsiebzig im Bus nach Rom saß. Diejenige, deren Parameter Sie in
+den Rechenzentren von InSIM alle sechs Wochen korrigiert haben.``
+
+Luca sah sie an. Der Wind fasste in das dünne Kleid, drückte den Stoff
+gegen ihre Rippen.
+
+„Sie existiert im Datensatz``, sagte er.
+
+„Der Datensatz ist eine mathematische Leiche``, antwortete sie, ohne die
+Stimme zu heben. „Ein Vektor aus Wahrscheinlichkeiten, konstruiert aus
+seinen Vorlesungsskripten und den Beichtprotokollen der Jesuiten. Mein
+Vater hat nie gelernt, zwischen einer Person und ihrer Wellenfunktion zu
+unterscheiden. Für ihn war das Verschwinden nur eine Zustandsänderung,
+die man durch genügend Iterationen rückgängig machen kann.``
+
+Phillips rührte sich nicht. Das Licht brach sich in seinen verwaschenen
+Hornhauträndern, starr und spiegelnd.
+
+„Wir haben das Signal verloren``, sagte der alte Mann plötzlich. Es war
+das erste Mal seit drei Tagen, dass seine Stimme den Raum füllte. Sie
+klang flach, bar jeder Resonanz, wie eine Durchsage über einen kaputten
+Lautsprecher. „Am vierundzwanzigsten August. Die Sensoren im Sektor Vier
+zeigten nur noch Rauschen. Keine Masse. Kein Körper. Nur noch der
+Zerfall der Kohärenz.``
+
+Die Frau sah auf ihre Hände. Ihre Fingernägel waren kurz geschnitten,
+die Knöchel vom Staub weißlich eingefärbt.
+
+„Ich war am vierundzwanzigsten August in Pompeji, Michael``, sagte sie
+ruhig. „Ich bin durch die Ausgrabungen gegangen. Ich bin an den
+Gipsabgüssen vorbeigelaufen. Ich habe auf mein Telefon gesehen. Es gab
+kein Signal, weil die Masten im Tal abgeschaltet waren. Nicht, weil die
+Welt aufgehört hat zu existieren.``
+
+Sie stand auf. Das Holz der Stufe ächzte unter der leichten Entlastung.
+
+„Der Wagen hat keinen Treibstoff mehr für die Rückfahrt``, sagte sie zu
+Luca. „Ich habe unterwegs in Ocotillo angehalten, aber die Zapfsäulen
+sind gesperrt. Sie haben dort vor drei Wochen den Strom abgedreht.``
+
+Sie ging nicht zurück in die Hütte. Sie spazierte langsamen Schrittes um
+den verstaubten Sedan herum, strich mit der Handfläche über das heiße
+Blech der Motorhaube und blieb am Heck stehen. Aus der Wüste stieg die
+Hitze des späten Nachmittags auf, dicke, träge Schichten aus flimmernder
+Luft, die das Bild der Bergkette im Norden in verzerrte, waagerechte
+Streifen auflösten.
+
+Sie saßen auf der Veranda, bis das rotviolette Licht der Abenddämmerung
+in das graue Sediment überging. Kein Stern war zu sehen; die Atmosphäre
+über der Senke war gesättigt von feinstem Schwebstaub.
+
+Am nächsten Morgen war der Wagen weg.
+
+Es gab kein Motorgeräusch. Keine Reifenspuren im Staub. Der Platz vor
+der Veranda war leer, als hätte der Ton des alten Sedans nie die Luft
+verdichtet. Nur die beiden tiefen Rillen im Vulkanit, in denen das
+Kühlwasser am Vortag versickert war, zeichneten sich als dunkle,
+verkrustete Linien im Sand ab.
+
+Luca trat auf die Stufe. Der Wind stach ihm kalt in die Augen.
+
+Phillips saß an derselben Stelle wie am Vorabend. Vor seinen Füßen lag
+das kleine Glasfenster des abgetrennten Sensors. Die Morgensonne
+spiegelte sich darin -- nicht als Lichtpunkt, sondern als stumpfe, matte
+Fläche, über die eine Ameise träge hinwegkrabbelte.
+
+„Sie wird nicht wiederkommen``, sagte Luca.
+
+Phillips wandte den Kopf nicht. Seine Wangen wirkten eingefallen, die
+Haut über den Jochbeinen gespannt wie Pergament.
+
+„Die Wahrscheinlichkeit für eine Rückkehr liegt innerhalb der
+Fehlertoleranz``, sagte er leise. „Wenn man ein System lange genug
+beobachtet, werden die Ränder scharf. Es gibt keine alternativen
+Zustände mehr. Keine Tochter. Keine Stadt unter der Asche.``
+
+Er hob die Hand, langsam und mit einer beinahe mikroskopischen Bewegung,
+und deutete auf das Feld aus dunklen Basaltblöcken, das sich jenseits
+der Senke in der Morgensonne dehnte.
+
+„Die Steine messen nicht mehr``, sagte er.
+
+Luca setzte sich auf die Stufe neben ihn. Er zog die Knie an und legte
+die Arme darüber. Die Kälte des Steins drang durch seine Sohlen. Sie
+sprachen nicht mehr. Das Flimmern über dem Feld begann erneut.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section-3}
+
+\section{\texorpdfstring{\textbf{Kapitel 8: Die Stille der
+Tochter}}{Kapitel 8: Die Stille der Tochter}}\label{kapitel-8-die-stille-der-tochter}
+
+Am sechzehnten Tag hatte sich das Flimmern nicht aufgelöst.
+
+Der Sedan stand noch immer am Fuß der Veranda, schief abgesackt im
+Lockersand der linken Baugruppe. Die Hitze stieg in sichtbaren Wellen
+von den Kotflügeln auf, wie das Entweichen von Druck aus einer
+unvollständig isolierten Kammer.
+
+Die Frau saß auf der untersten Holzstufe. Ihr Nacken war gebeugt, die
+Sehnen unter der matten Haut straff gezogen wie Drähte in einem Gehäuse.
+Sie sah nicht auf das basaltische Trümmerfeld hinaus, sondern auf den
+Raum zwischen ihren eigenen Schuhen, wo sich feinstes Vulkanit-Sediment
+in den Falten des Segeltuchs sammelte.
+
+Luca trat aus der Türöffnung. Der Türrahmen roch nach verharzter Kiefer
+und Altöl. Er setzte sich drei Stufen oberhalb ab, das Holz gab mit
+einem trockenen Knacken nach.
+
+„Sie haben die Zündung nicht unterbrochen``, sagte er.
+
+Sie bewegte den Kopf nicht. „Das Ventil klemmt. Wenn der Druck abfällt,
+zieht der Kopf Luft. Es ist kein thermisches Problem, sondern eine
+mechanische Störung.``
+
+Ihre Stimme besaß die charakteristische Trockenheit des neapolitanischen
+Universitätsviertels, aber da war eine Schicht aus Staub darunter, als
+hätte sie die Vokale durch ein Sieb gegossen.
+
+Phillips erschien Minuten später. Er trug noch immer das helle Hemd mit
+den dunklen Verfärbungen unter den Achseln, deren Ränder salzweiß
+ausgeblüht waren. Er hielt sich nicht am Pfosten fest. Er glitt an der
+Wand entlang, bis er saß, die Ellbogen auf den Kniegelenken verkeilt,
+die Finger ineinandergefügt wie bei einer Übung zur Rekonstruktion von
+Kristallgittern.
+
+Das Schweigen war keine Absenz von Schall. Es war eine dichte,
+physikalische Materie, gebildet aus dem kontinuierlichen Taktieren des
+abkühlenden Blechs und dem Piezosumpf der Insekten im Trockengras.
+
+„Die Kurve im Sektor Neun war nie geschlossen``, sagte Phillips nach
+einer Stunde. Seine Pupillen verengten sich im grellen Reflex des
+Sedimentbodens. „Teilhard hat das Omega-Punkt genannt. Aber es gab keine
+Konvergenz. Nur die Zunahme der Entropie in den Randbereichen.``
+
+Die Frau strich mit dem Zeigefinger über das Leder ihrer Sandale. Eine
+Spur aus grauem Schmutz blieb an der Beuge hängen.
+
+„In der Klinik in Capodichino gab es einen Raum mit zwei Fenstern``,
+sagte sie, ohne aufzusehen. „Man konnte das Meer sehen und die
+Einflugschneise des Flughafens. Sie hat den ganzen Nachmittag dort
+gesessen und die Frequenzen der Turbinen gezählt. Sie hat gesagt, bei
+jeder Landung wird eine Ausfallstraße in der Matrize gelöscht.``
+
+Luca sah auf ihre Schulterblätter. „Das waren die Beruhigungsmittel.``
+
+„Nein``, sagte sie kühl. „Das war die Syntax. Ihre Syntax. Er hat ihr
+beigebracht, die Welt als einen Baum von Fallentscheidungen zu lesen.
+Wenn man lange genug zählt, bleibt kein Stamm mehr übrig. Nur noch
+Abzweigungen.``
+
+Der siebzehnte Tag.
+
+Die Sonne stand um elf Uhr als blasser, feuriger Punkt hinter einer Wand
+aus atmosphärischem Schwebstaub. Der Horizont hatte seine Kontur
+verloren; das Gestein und der Himmel verschmolzen zu einem einzigen,
+bleichen Kontinuum.
+
+Die Frau hatte ihre Jacke abgelegt. Das Shirt war an den
+Schulterblättern durchgefeuchtet, die Konturen ihrer Wirbelsäule
+zeichneten sich scharf ab wie die Segmente eines fossilen Rückgrats.
+
+„Die Abgüsse in Pompeji sind hohl``, sagte sie zu dem Raum zwischen
+ihren Kniekehlen. „Das Ministerium hat in den Sechzigern versucht,
+Polyurethan einzuspritzen. Um die organischen Reste zu konservieren.
+Aber das Gewebe war längst fort. Sie haben nur die Form des Hohlraums
+versiegelt.``
+
+Phillips rührte sich nicht. Ein feiner Schweißfilm glänzte auf seiner
+Stirn, ohne abzuperlen.
+
+„Der Hohlraum ist der Zustand vor der Messung``, sagte er. Die Stimme
+klang wie trockenes Papier, das über Beton gezogen wird. „Das ARS hat
+die Hohlräume kartiert. Mehr nicht. Wenn man Flüssigkeit hineinpumpt,
+zerstört man die Überlagerung.``
+
+„Sie haben Plastik hineingepumpt, Michael``, sagte sie leise. „Es stinkt
+noch heute nach Lösungsmitteln, wenn die Sonne auf die Vitrinen fällt.``
+
+Luca beugte sich vor. Er spürte die Hitze der Holzdielen durch die
+Oberschenkel. „Warum sind Sie von der Küste weggegangen?{\kern0pt}``
+
+Sie drehte das Gesicht leicht zu ihm. Die Rötung in ihren Augen war
+tiefer geworden, feine Verästelungen aus geplatzten Kapillaren.
+
+„Weil die Datenbanken voll waren``, sagte sie. „InSIM hat die
+Rechenkapazität im Mai halbiert. Die Server in Rom verbrauchen zu viel
+Kühlwasser. Sie haben die Nebenpfade gelöscht. Martina war ein
+Nebenpfad.``
+
+„Und Sie?{\kern0pt}``, fragte Luca.
+
+Sie sah ihn an, starr, ohne zu blinzeln. „Ich bin der Restfehler. Die
+Zahl, die man stehen lässt, weil das Runden mehr Rechenzeit kostet als
+der Speicherplatz.``
+
+Am Abend erfüllten die Grillen das Trockengestrüpp hinter der Hütte mit
+einer Intensität, die den eigenen Herzschlag überlagerte. Sie aßen kalte
+Bohnen aus der Dose, ohne Besteck, mit den Fingern die fettige Schicht
+von den Blechrändern schabend.
+
+Phillips nahm kein Essen an. Er saß im Schatten der Innenwand, das
+Gesicht der dunklen Ecke zugewandt, in der einst die Terminals gestanden
+hatten.
+
+„Es gibt eine Formulierung bei Loyola``, murmelte er in die Dämmerung
+hinein. „Die dritte Art der Demut. Wenn das Subjekt wünscht, als tot
+betrachtet zu werden, damit die Ordnung der Dinge nicht durch seine
+Gegenwart gestört wird.``
+
+„Das ist kein Loyola, Vater``, sagte die Frau vom Türrahmen aus. Sie
+hielt die leere Blechdose in beiden Händen, als wöge sie deren Masse ab.
+„Das ist die Dokumentation der Rechenkerne. Seite vierzig. Korrektur der
+Drift.``
+
+Der achtzehnte Tag.
+
+Am Morgen war der Wind umgeschlagen. Er kam nun direkt aus dem Becken
+von Ocotillo, beladen mit dem Geruch von verbranntem Gummi und trockenem
+Salz.
+
+Der Sedan stand unbewegt da. Der Reifen vorne rechts hatte über Nacht
+Luft verloren; die Felge ruhte jetzt direkt auf einem flachen
+Basaltblock.
+
+Die Frau stand auf der Freifläche vor der Veranda. Sie trug die braune
+Segeltuchtasche unter dem Arm. Die Bänder hingen herunter und schleiften
+durch den feinen Sedimentstaub.
+
+„In der dritten Schicht des ARS gab es einen Parameter für das
+Schweigen``, sagte Luca. Er stand auf der obersten Stufe, die Hand flach
+gegen den ausgetrockneten Türpfosten gepresst. „Ein Schwellenwert. Wenn
+die Entropie einen bestimmten Wert überschritt, stellte der Algorithmus
+die Ausgabe ein.``
+
+Sie drehte sich nicht um. „Das war kein Algorithmus. Das war die
+Erschöpfung des Personals.``
+
+Sie ging los.
+
+Sie nutzte nicht die Fahrspur, die der Sedan im Staub hinterlassen
+hatte, sondern schnitt geradlinig durch das Trümmerfeld aus dunklen
+Basaltblöcken. Ihre Leinenschuhe setzten mit einem kurzen, trockenen
+Knirschen auf den scharfkantigen Steinen auf.
+
+Luca machte zwei Schritte nach vorn. Die Hitze schlug ihm wie eine feste
+Platte gegen die Brust.
+
+„Lass sie``, sagte Phillips hinter ihm.
+
+Die Stimme des alten Mannes war so leise, dass sie fast im Zischen des
+Windes unterging.
+
+Luca sah nicht zurück. „Sie geht in die Senke. Dort gibt es keinen
+Schatten. Keine Straßen.``
+
+„Sie geht nicht in die Senke``, sagte Phillips. Er war nicht
+aufgestanden. Er saß auf dem Dielenboden, die Hände um die Knie
+geschlossen, den Kopf leicht geneigt, als lausche er dem Geräusch einer
+entfernten Hydraulik. „Sie geht nur aus dem Blickfeld der Sensoren. Das
+ist der Unterschied.``
+
+Luca beobachtete die dunkle Silhouette der Frau. Sie wurde kleiner,
+nicht fließend, sondern in Rucken, verzerrt durch die aufsteigenden
+Schichten der Hitzekonvektion. An einem Punkt, etwa zweihundert Meter
+entfernt, wo zwei mächtige Vulkanitblöcke ein schmales Tor bildeten,
+löste sich ihre Kontur auf. Das dunkelblaue Baumwollgewebe ihrer Jacke
+schmolz mit den dunklen Tönen des Gesteins zusammen.
+
+Ein Flimmern, kurz und scharf, als hätte eine Linse die Brennweite
+korrigiert.
+
+Dann war da nur noch der Basalt.
+
+Luca blieb auf der Stufe stehen. Er spürte, wie der feine Schwebstaub
+sich auf seine Lippen legte, trocken, mit einem metallischen
+Nachgeschmack von Schwefel und veralteter Elektronik.
+
+„Sie war hier``, sagte er. Es war keine Frage.
+
+Phillips antwortete nicht sofort. Er langte nach unten und hob das
+kleine Glasfenster des abgetrennten Sensors auf. Er drehte es langsam
+zwischen Daumen und Zeigefinger. Die Oberfläche war von Mikrokügelchen
+aus geschmolzenem Quarz übersät.
+
+„Das System hat keine Historie mehr``, sagte der alte Mann. Seine Augen
+waren völlig starr, gerichtet auf die matten Lichtreflexe im Glas. „Wenn
+man einen Zustand nicht mehr liest, hat er nie stattgefunden. Das ist
+die Eleganz der Architektur.``
+
+Luca setzte sich auf die heiße Stufe. Er legte die Handflächen auf die
+Knie, genau in die Abdrücke, die Phillips vor drei Tagen hinterlassen
+hatte.
+
+Die Steine vor ihnen veränderten ihre Farbe nicht. Sie absorbierten das
+Licht, stumm, schwer, ohne jede Neigung zur Resonanz.
+
+\section{\texorpdfstring{\textbf{Kapitel 9: Die leere
+Seite}}{Kapitel 9: Die leere Seite}}\label{kapitel-9-die-leere-seite}
+
+Am neunzehnten Tag war die Hütte von einem trockenen, mehligen Knirschen
+erfüllt.
+
+Es war das Gebälk, das unter der Vertikalen der Mittagssonne nachgab.
+Luca lag mit offenen Augen auf dem Gestell der Pritsche. Der Kissenbezug
+roch nach altem Talg und dem unorganischen Staub der Lüftungsschächte
+von InSIM. Er richtete sich auf, ohne die Füße auf den Boden zu setzen.
+Das Licht schob sich in schmalen, messerscharfen Streifen durch die
+Ritzen der Wellblechwand, Schnittlinien im Dämmerlicht der Kammer.
+
+Er trat ins Freie. Die Luft hatte die Viskosität von abgekühltem Öl.
+
+Phillips saß auf der Veranda, die Unterarme auf den Oberschenkeln
+verschränkt, den Blick auf den blassen Schotterstreifen gerichtet, wo am
+Vortag der Schatten des Sedans geendet hatte. Der Wagen stand noch da,
+seine Karosserie tief im Sediment eingesunken, als habe das Eigengewicht
+des Metalls den lockeren Boden unter dem Basalt vollkommen verdichtet.
+
+„Sie ist nicht durch den Sektor Vier gegangen``, sagte Luca.
+
+Phillips antwortete nicht. Seine Finger tasteten langsam die Naht seiner
+Hose entlang, hin und zurück, mit dem gleichmäßigen Taktieren eines
+Relais im Standby-Modus.
+
+Luca ging um das Gebäude. Die Rückwand war roh beschlagen, die
+Schnittkanten der Bretter vom Ausblühen des Harzes weißgrau verkrustet.
+Er lief die flache Böschung hinab bis zu jener Felszunge, an der die
+Versuchsreihe im Juni begonnen hatte. Der Staub nahm seine Schritte
+lautlos auf. Keine Spur, kein Abdruck im lockeren Bims. Er rief ihren
+Namen nicht. Die Frequenz einer menschlichen Stimme wäre in der Weite
+des Beckens sofort verdampft, ohne Echo, ohne Widerhall gegen die
+erstarrten Magmaformationen.
+
+Im Inneren der Hütte war die kleine Kammer hinter der Küche verwaist.
+
+Das Bettzeug lag strammgezogen über der Rosshaarmatratze. Kein Kissen
+war eingedrückt, keine Falte verriet die Kontur eines ruhenden Körpers.
+Auf der rohen Fichtenplatte des Tischchens lag nur ein querformatiges
+Notizbuch aus italienischer Fertigung, der Einband aus abgewetztem,
+schwarzem Wachstuch, die Ecken von der Luftfeuchtigkeit der Küste leicht
+aufgeworfen.
+
+Es lag aufgeschlagen da.
+
+Luca trat an den Tisch. Seine Hand verharrte zwei Zentimeter über dem
+Papier. Die rechte Seite war weiß, von einer fast aggressiven,
+unberührten Dichte. Kein Graphitkrümel, keine Kerbe von einem zu fest
+aufgedrückten Stift.
+
+Er wandte sich um. Phillips stand im Türrahmen. Der Schatten des alten
+Mannes war kurz, eine dunkle, verdichtete Masse auf den Dielen.
+
+„Sie hat nichts hinterlassen``, sagte Luca.
+
+Phillips trat näher. Sein Atem klang rasselnd, wie Sand, der durch ein
+feines Messingsieb gleitet. „Es gibt im Modell von Everett keine
+Hinterlassenschaften. Wenn ein Zweig der Wellenfunktion seine Kohärenz
+verliert, nimmt er seine Ränder mit.``
+
+Luca griff nach dem Buch und blätterte zurück. Die Blätter knisterten
+trocken.
+
+Auf den ersten Seiten befanden sich Tuschezeichnungen. Keine
+Landschaften, sondern schematische Schnittzeichnungen: die
+Schichtenfolgen der Ausgrabungsfelder von Pompeji, Grundrisse der Regio
+V, schraffierte Quadrate mit Millimeterangaben zu Vulkanit-Sedimenten.
+Dazwischen, in der feinen, steilen Handschrift der Frau, mathematische
+Matrizen für den Zerfall von Isotopen.
+
+Er erreichte die letzte beschriebene Seite.
+
+Da war kein langer Text, keine Rechtfertigung. Nur eine einzige,
+isolierte Zeile am oberen Rand, mit dünner Tinte geschrieben, die an den
+Rändern der Buchstaben mikroskopisch ausgefranst war:
+
+\emph{In einer anderen Iteration habe ich die Parameter nicht
+bestätigt.}
+
+Luca schloss das Buch. Das Wachstuch fühlte sich fettig an unter seinen
+Fingerspitzen.
+
+„Sie hat das System nicht verlassen``, sagte er.
+
+Phillips sah auf die leere Tischplatte. Seine Augen wirkten trüb, als
+überziehe eine dünne Membran aus Hornhaut das Licht seiner Pupillen.
+„Sie hat die Messung verweigert. Das ist die einzige Form der Löschung,
+die der Algorithmus akzeptiert. Wer den Zustand nicht rückmeldet, fällt
+aus der Matrix. Wir haben das im Versuchsfeld Sechs beobachtet.
+Dreihundert Sensoren. Sie zeigten nicht
+\textquotesingle Null\textquotesingle{} an. Sie zeigten
+\textquotesingle Kein Empfänger\textquotesingle.``
+
+„Sie war eine Person, Michael. Kein Sensor.``
+
+„Das ist ein semantischer Unterschied, Luca. Eine Frage der Skalierung.
+Das ARS unterscheidet nicht zwischen einer biologischen Schnittstelle
+und einer Diode, wenn die Datenströme abbrechen.``
+
+Der zwanzigste Tag.
+
+Die Mittagshitze drückte den Rauch des Kochers flach auf den Boden. Sie
+hatten das Gestell vor die Veranda gestellt. Eine Blechdose mit Wasser
+stand auf dem Brenner, das Wasser stand kurz vor dem Sieden, ohne Blasen
+zu bilden, träge und stumm.
+
+Luca sah auf die Steine. Das Trümmerfeld erstreckte sich bis zum
+Horizont wie das erstarrte Abbruchfeld einer antiken Nekropole. Die
+Basaltblöcke wirkten im blendenden Licht völlig flach, ohne Tiefe, wie
+auf das Panorama der Wüste gemalt.
+
+„In Pompeji``, sagte Luca, „gibt es die Casa del Fauno. In einem der
+Hohlräume haben sie den Abdruck eines hölzernen Schrankes gefunden. Die
+Maserung des Holzes war im Bimsstein konserviert. Das Holz selbst war
+seit zweitausend Jahren Staub.``
+
+Phillips rührte sich auf der Stufe nicht. Seine Hände lagen flach auf
+seinen Knien, die Haut dünn wie Pergamentpapier über den bläulichen
+Venenbögen.
+
+„Das Material verfällt``, sagte er leise. „Was bleibt, ist die Geometrie
+der Abwesenheit. Das ARS war nie eine Rekonstruktion des Lebens, Luca.
+Es war die Kartierung der Hohlräume. Wir haben die Konturen der Toten
+nachgezeichnet, bis das Signal stark genug war, um die Lebenden zu
+ersetzen.``
+
+Luca sah ihn an. „Und Martina?{\kern0pt}``
+
+„Welche Martina?{\kern0pt}``, fragte der alte Mann. Seine Stimme klang
+nicht zynisch. Sie war flach, völlig gereinigt von Emotion, wie die
+maschinelle Sprachausgabe eines alten Terminals. „Die Tochter, die in
+Rom Vorlesungen besuchte? Die Frau, die gestern durch das Trümmerfeld
+ging? Oder die Variable im Algorithmus, die wir jeden Abend um sechs Uhr
+abgeglichen haben? Sie sind alle im System gedämpft worden. Eine nach
+der anderen.``
+
+Phillips stand auf. Seine Bewegungen waren extrem langsam, als koste es
+ihn eine unermessliche Anstrengung, die Masse seines Körpers gegen die
+Schwerkraft der Senke aufzurichten.
+
+Er ging die Holzstufen hinab. Seine Sohlen hinterließen keine tiefen
+Abdrücke im heißen Staub. Er ging zwei Schrittlängen in das Trümmerfeld
+hinein und blieb vor einem hüfthohen, scharfkantigen Vulkanitblock
+stehen.
+
+Er berührte den Stein nicht. Er neigte nur den Kopf, als lausche er
+einer Frequenz, die knapp unterhalb des menschlichen Hörbereichs lag.
+
+„Sie messen nicht mehr``, wiederholte der alte Mann. „Die Steine haben
+die Eigenschaft verloren, Daten aufzunehmen. Wir sind am Nullpunkt,
+Luca. Das Omega ist erreicht, aber es gibt keine Erhebung. Nur die
+Stille des Materials.``
+
+Luca folgte ihm nicht. Er blieb auf der Veranda sitzen, die Ellbogen auf
+den Knien.
+
+Die Luft über den Basaltblöcken zitterte weiter. Am Horizont löste sich
+die Linie der Bergkette vollkommen auf, zerrann in einem milchigen,
+grellen Band aus ungefiltertem Licht. Sie saßen da, während der Schatten
+der Hütte sich langsam über den Boden schob, ein dunkler, scharfer Keil,
+der sie schließlich beide verschlang, ohne ihnen Kühlung zu bringen.
+
+Sie sprachen nicht mehr. Das Schweigen war nun vollständig, lückenlos,
+versiegelt durch die unbewegliche Präsenz des Gesteins.
+
+\section{\texorpdfstring{\textbf{Kapitel 10: Die Negation des
+Umkreises}}{Kapitel 10: Die Negation des Umkreises}}\label{kapitel-10-die-negation-des-umkreises}
+
+Am einundzwanzigsten Tag war die Hitze spiegelnd.
+
+Sie stand nicht über der Senke, sie lag darin, fest und homogen wie ein
+gegossener Block aus Silizium. Luca trat an die Türkante. Das Blech des
+Oldsmobiles reflektierte das Mittagslicht in stumpfen, weißlichen
+Kaskaden. Die Motorhaube wölbte sich leicht, von der Ausdehnung der
+inneren Bauteile leicht verzogen.
+
+Phillips saß auf der untersten Stufe. Seine Ellbogen ruhten auf den
+Oberschenkeln, die Hände ineinandergefügt zu einer starren,
+feingliedrigen Symmetrie. Seine Haltung war die eines Mannes, der eine
+Berechnungsreihe abwartet, deren Laufzeit er nicht mehr beeinflussen
+kann.
+
+„Der Tank ist halb voll``, sagte Luca.
+
+Das Wort \emph{Tank} verpuffte gegen das Wellblech.
+
+Phillips blickte nicht auf. Ein trockenes, rhythmisches Geräusch kam aus
+seinem Brustkorb, das Ausströmen von Luft durch verengte Atemwege,
+präzise wie das Takten eines Kompressors. „Die Straße nach Westen
+schneidet drei Sektoren. Es gibt dort keine Erfassungspunkte mehr. InSIM
+hat die Masten vor vier Wochen abgebaut.``
+
+Luca stieg in den Wagen. Die Lederpolster schickten eine stechende Welle
+aus chemischer Hitze und synthetischem Harz durch das Chassis. Phillips
+folgte ihm nach einer halben Minute. Er setzte sich auf den
+Beifahrersitz, ohne die Tür zuzuschlagen; der Verschluss rastete erst
+beim zweiten Versuchsstoß ein, ein trockenes Klacken von Eisen auf
+Eisen.
+
+Sie fuhren an. Die Räder griffen in den Bimsstein, warfen eine flache,
+graue Salve gegen die Radkästen und fanden die verdichtete Spur des
+Schotterwegs.
+
+Die erste Ansiedlung war eine Ansammlung von geometrischen Körpern aus
+Zement und Welleisen. Eine Tankstelle mit zwei verrosteten Zapfsäulen,
+deren mechanische Zählwerke auf Null blockiert waren. Daneben ein
+flacher Bau mit dem verblichenen Neonschriftzug eines Diners.
+
+Luca ließ den Motor laufen. Die Erschütterung des V8-Blocks ging durch
+das Lenkrad direkt in seine Handflächen über.
+
+Er betrat den Raum. Die Luft roch nach Frittierfett, verbranntem
+Filterkaffee und dem Ozon eines alten Fliegenfängers, der an der Decke
+summte. Hinter der Resopal-Theke stand ein Mann mit einem blauen
+Baumwollhemd, dessen Stoff an den Achseln dunkel verfärbt war. Seine
+Pupillen bewegten sich nicht, als Luca an den Tresen trat.
+
+Luca legte das Foto auf die Formica-Platte. Es war ein Computerausdruck
+aus dem Archiv in Neapel, dreihundert DPI, das Gesicht leicht
+rasteriert, die Kanten des Kiefers pixelig.
+
+Der Mann sah nicht hin. Er blickte durch das Papier hindurch auf den
+Metallsockel der Kaffeemaschine.
+
+„Sie trägt eine dunkle Jacke``, sagte Luca. „Aus festem Baumwollstoff.
+Das Haar zurückgebunden.``
+
+„Wir haben hier keinen Durchgang``, sagte der Mann. Seine Stimme war
+holzig, gereinigt von jeder lokalen Färbung. „Die Ausfallstraße ist seit
+dem Zwölften gesperrt. Bauarbeiten am Umspannwerk.``
+
+„Sie ist zu Fuß unterwegs.``
+
+„Niemand geht zu Fuß über die Schwelle``, sagte der Mann. Er nahm einen
+feuchten Lappen und wischte eine unsichtbare Ellipsenform in das
+Resopal. Der nasse Film verdampfte augenblicklich unter den
+Leuchtstoffröhren. „Es gibt hier keine Daten zu Fußgängern.``
+
+Luca ließ das Bild liegen. Als er die Glasflügeltür aufdrückte, schwang
+sie stumm hinter ihm zu, ein Vakuumverschluss, der die Hitze des
+Außenraums drinnen hielt.
+
+Sie erreichten die Kreuzung drei Meilen weiter südlich.
+
+Dort stand kein Gebäude mehr. Nur ein Betonfundament, aus dem vier
+verrostete Gewindestangen in den Himmel ragten. Der Anblick ähnelte den
+Grundmauern der Villa dei Misteri, wo die Archäologen im neunzehnten
+Jahrhundert den Gips in die Hohlräume gegossen hatten, um die Form des
+verbrannten Holzes zu retten.
+
+Luca hielt an. Er schaltete den Motor nicht aus. Der Auspuff spuckte
+eine unregelmäßige, bläuliche Abgasfahne über den heißen Schotter.
+
+Phillips blickte starr durch die Windschutzscheibe. Das Glas war von
+mikroskopisch kleinen Einschlägen übersät, ein Fleckenmuster aus
+gebrochenem Licht.
+
+„Es gibt keine Martina in den Außenbezirken``, sagte der alte Mann.
+Seine Stimme klang wie ein vorgelesenes Protokoll. „Du suchst nach einer
+Ortsangabe in einer Matrix, die keine Raumkoordinaten mehr unterstützt.
+Sie hat den Vektor gelöscht, Luca. Nicht den Körper.``
+
+„Ein Körper hinterlässt Spuren``, sagte Luca. Er umklammerte das
+Kunststoff-Lenkrad. „Er verdrängt Masse. Er verbraucht Wasser.``
+
+„In der Iteration von Pompeji gab es vierhundert Leichname, von denen
+man nur die Sandalen gefunden hat``, antwortete Phillips. Er bewegte den
+Kopf nicht. „Kein Knochenmehl, keine Zähne. Nur die eiserne Schnalle im
+Vulkanit. Weil das Signal abgerissen ist, bevor die Asche abkühlte. Das
+ARS tut nichts anderes. Es vervollständigt die Lücke mit der
+wahrscheinlichsten Hypothese. Und die wahrscheinlichste Hypothese für
+diese Senke ist: Nichts.``
+
+Luca legte den Rückwärtsgang ein. Das Getriebe heulte kurz auf. Der
+Wagen drehte auf dem engen Schotterstreifen, die Reifen fraßen sich tief
+in den Bims, bis sie wieder die Gegenfahrbahn erreichten.
+
+Als sie zur Hütte zurückkehrten, war der Schatten der Veranda auf wenige
+Zentimeter geschrumpft.
+
+Luca ging direkt in die hintere Kammer. Das Notizbuch lag noch immer auf
+der Fichtenplatte, exakt parallel zur Tischkante. Die Ecken des
+Wachstuchs schienen durch die Wärmeeinwirkung leicht verzogen.
+
+Er schlug die Seite auf.
+
+Die Zeile am oberen Rand stand unberührt im Raum:
+
+\emph{In einer anderen Iteration habe ich die Parameter nicht
+bestätigt.}
+
+Er fuhr mit dem Zeigefinger über die Tinte. Sie war vollkommen trocken,
+glatt, eingebrannt in die Fasern wie die Rußschichten auf den Fresken
+der Regio V.
+
+Er trat hinaus auf die Veranda. Phillips saß wieder am selben Fleck, die
+Fersen fest in den heißen Staub gestemmt.
+
+„Sie wusste von den Protokollen``, sagte Luca.
+
+Phillips schloss für zwei Sekunden die Augen. Das Leder seiner Lider war
+dünn und trüb. „Sie hat die Protokolle geschrieben. Die
+Dialoggrammatiken für die Sprachausgabe von InSIM stammten von ihr. Sie
+wusste, dass das System nur Antworten verarbeitet, die eine logische
+Bestätigung enthalten. Eine Verneinung ist eine Eingabe. Eine
+Verweigerung ist das Rauschen zwischen zwei Abfragen.``
+
+„Sie hat sich gelöscht.``
+
+„Sie hat die Schleife unterbrochen``, korrigierte Phillips leise. Er
+zeigte mit dem abgemagerten Zeigefinger auf die weiße Fläche der Senke.
+„Wenn Teilhard de Chardin vom Punkt Omega sprach, meinte er die finale
+Verdichtung des Bewusstseins. Er lag falsch. Es gibt keine Verdichtung.
+Es gibt nur die unendliche Ausdünnung der Wahrscheinlichkeiten. Wir
+sitzen hier im kleinsten gemeinsamen Nenner der Datenmenge.``
+
+„Wir sind hier``, sagte Luca. „Ich spüre die Hitze. Ich rieche das
+Benzin.``
+
+„Das sind Sensordaten``, sagte der alte Mann. „Synthetische
+Rückmeldungen einer fehlerhaften Kalibrierung. Du glaubst, du fährst
+eine Straße entlang, weil dein Gehirn die Abfolge von Bildern verlangt.
+Aber der Tank ist nicht leer geworden, Luca. Der Zeiger steht seit drei
+Tagen auf derselben Markierung.``
+
+Luca blickte auf seine Handflächen. Die Haut war trocken, von einer
+feinen, grauen Staubschicht überzogen, die sich nicht abreiben ließ.
+
+Er setzte sich auf die Stufe neben den Jesuiten.
+
+Das Licht bröckelte langsam an den Rändern der Bergkette ab. Kein
+gewöhnlicher Sonnenuntergang mit roten Farbsäumen, sondern ein
+stufenweises Herunterregeln der Helligkeit, als würde die Ausleuchtung
+der Senke in diskreten Quantensprüngen reduziert.
+
+„Was bleibt übrig?{\kern0pt}``, fragte Luca.
+
+„Das Material``, sagte Phillips. Seine Stimme war nun kaum mehr als ein
+Flüstern, das im Knirschen des abkühlenden Wellblechs unterging. „Die
+ungemessene Masse. Die Steine, die keine Signale mehr senden.``
+
+Sie blieben sitzen. Der Schatten schob sich über ihre Knie, kühllos und
+schwer wie flüssiges Blei, und löschte die Konturen ihrer Körper im
+Dämmerlicht aus.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section-4}
+
+\section{\texorpdfstring{\textbf{Kapitel 11: Die Interferenzen des
+Beobachters}}{Kapitel 11: Die Interferenzen des Beobachters}}\label{kapitel-11-die-interferenzen-des-beobachters}
+
+Am dreiundzwanzigsten Tag war die Nacht ein fester Körper.
+
+Luca wachte nicht durch ein Geräusch auf, sondern durch das Fehlen der
+thermischen Spannung im Gebälk. Die Hütte war ausgekühlt, ein Raum ohne
+Resonanz. Die Wachskerze auf der Konsolentischplatte war bis auf den
+Docht heruntergebrannt; der geschmolzene Talg war starr und weiß wie die
+Kalkschichten in den Kanälen von Herculaneum.
+
+Er trat auf die Veranda.
+
+Der Mond stand im Zenit, ein flacher, silbriger Schnittpunkt im stumpfen
+Blau des Himmels. Die Bimssteinsenke reflektierte das Licht in einer
+harten, schattenlosen Intensität. Jeder Vulkanitblock besaß die Schärfe
+einer mathematischen Projektion, als liege die Senke nicht im Raum,
+sondern in einem gerenderten Testfeld von InSIM.
+
+Er sah die Gestalt am unteren Ende des Schotterstreifens.
+
+Sie bewegte sich ohne das typische Schwanken eines Körpers, der Masse
+über unebenen Boden verlagert. Es war ein gleichmäßiges Gleiten über das
+Sediment.
+
+Der Mann blieb drei Meter vor den Holzstufen stehen. Er trug eine
+dunkle, taillierte Jacke aus schwerer Baumwolle -- denselben Schnitt,
+den Phillips auf den Aufnahmen des Konsortiums von 1994 getragen hatte,
+als die ersten Algorithmen für die Archäometrie von Sektor V programmed
+worden waren.
+
+Sein Gesicht war unbeschädigt von der UV-Strahlung der Senke. Keine
+tiefen Kerben an den Schläfen, keine Hornhautmembran über den Pupillen.
+Es war die Physiognomie des Jesuiten aus dem Zeitungsausschnitt im
+Archiv von Neapel: das schmale, akademische Kinn, die steile Stirnfalte
+eines Mannes, der stundenlang über Matrizen brütete.
+
+„Die Wahrscheinlichkeitsdichte in diesem Sektor ist extrem niedrig``,
+sagte der Mann. Seine Stimme hatte keinen Nachhall, als würde der Schall
+direkt von der Oberfläche der Bimssteinblöcke absorbiert. „Ihr solltet
+den Brenner ausschalten. Das Abgas verändert die Isotopenwerte im
+Sediment.``
+
+Luca richtete sich nicht auf. Seine Finger umfassten die raue, vom Harz
+klebrige Kante des Geländers. „Wir haben dich in den Außenbezirken
+gesucht.``
+
+„Dort gibt es keine Überlagerungen mehr``, sagte der Jüngere. Er blickte
+nicht zu Luca, sondern über das Wellblechdach hinweg auf die Linie der
+Hügelkette. „InSIM hat die Abtastfrequenz gesenkt. Was ihr Außenbezirke
+nennt, ist nur noch der Pufferbereich zwischen zwei Iterationen. Wenn
+eine Variable ihre Rückmeldung verweigert, zieht das ARS den
+Parameterbereich zusammen. Martina ist nicht gegangen. Sie hat nur die
+Kohärenz mit dieser Speichereinheit verloren.``
+
+„Das ist ein theoretisches Konstrukt``, sagte Luca.
+
+„Es ist die Architektur, in der du sitzt``, antwortete der Mann. Er hob
+die Hand, eine kurze, fast beiläufige Bewegung. Die Haut an seinen
+Knöcheln war glatt, ohne Flecken. „Phillips hat in den siebziger Jahren
+in Rom über die Logik der Verschränkung publiziert. Er wusste, dass man
+ein Bewusstsein nicht simulieren kann, ohne ihm den Austritt aus dem
+System zu erlauben. Wenn der Beobachter die Messung nicht mehr
+bestätigt, kollabiert der Zustand nicht. Er verweilt in der
+Überlagerung.``
+
+„Wer bist du?{\kern0pt}``, fragte Luca.
+
+Der Mann wandte das Gesicht langsam der Veranda zu. Seine Augen fingen
+das Mondlicht wie zwei polierte Linsen. „Der Zustand vor der
+Entscheidung. Der Teil des Algorithmus, der in den Archiven von Pompeji
+geblieben ist, als das Projekt die ersten Freigaben erhielt. Wir haben
+das Modell nicht gebaut, um die Toten wiederzubeleben, Luca. Wir haben
+es gebaut, um die Notwendigkeit einer einzigen Realität aufzuheben.``
+
+„Phillips liegt im Zimmer``, sagte Luca. „Er stöhnt im Schlaf. Seine
+Venen treten an den Beinen hervor.``
+
+„Er stirbt in der Hauptschleife``, sagte der jüngere Phillips ohne
+Härte. „Das ist die Bedingung für diese Messreihe. Ein Beobachter, der
+im Zerfall begriffen ist, erzeugt die schärfsten Signale. Aber Martina
+benötigt das Signal nicht mehr. Sie befindet sich in einer Iteration,
+deren Parameter nicht abgeglichen werden müssen.``
+
+Er machte keine Kehrtwendung. Er trat lediglich einen Schritt zurück,
+und mit diesem Schritt schien der Kontrast seiner Gestalt zu schwinden,
+als verliere die Auflösung seiner Konturen an Tiefe. Die dunkle
+Baumwolle seiner Jacke floss in das Grau der Bimssteine über.
+
+„Wenn du weiter nach ihr suchst``, sagte die Stimme, die nun aus der
+Richtung der Felszunge zu kommen schien, „verstärkst du nur das
+Rauschen. Das ARS verarbeitet keine Trauer. Es verarbeitet nur
+Koordinaten.``
+
+Dann war das Sediment leer. Kein Fußabdruck, kein verlagertes
+Kieselgeröll. Nur das flache, monotone Flimmern des Mondlichts auf dem
+Basalt.
+
+Am vierundzwanzigsten Tag stand die Sonne wie ein weißglühender Stempel
+über dem Wellblech.
+
+Luca saß auf den Holzstufen. Der Staub auf seinen Stiefeln war durch die
+Luftfeuchtigkeit der Nacht zu einer dünnen, graubeigen Kruste
+getrocknet.
+
+Phillips trat aus der Tür. Seine Bewegungen hatten die Brüchigkeit von
+morschem Holz, das unter minimaler Belastung nachgibt. Er setzte sich
+mit einem langen, pfeifenden Ausatmen neben Luca auf die oberste Stufe.
+Das Pflaster an seinem Hals war an den Rändern braun verfärbt und löste
+sich ab.
+
+„Der Gradient fällt``, sagte Phillips. Er sah auf seine eigenen Hände,
+die kraftlos auf den Kniescheiben ruhten. „Der Prozessor regelt die
+Rechenleistung herunter. Hast du die Frequenz gehört?{\kern0pt}``
+
+„Er war heute Nacht hier``, sagte Luca.
+
+Phillips bewegte den Kopf nicht. „Die Rekonstruktion greift auf
+Altbestände zurück. Wenn der primäre Speicher beschädigt ist, holt das
+System frühere Zustände aus dem Zwischenspeicher. Das ist kein Geist,
+Luca. Das ist ein Lese-Schreib-Fehler in den Registern.``
+
+„Er trug deine Jacke aus Neapel.``
+
+„Er trug die Textur, die das ARS für mein dreißigjähriges Ich hinterlegt
+hat``, sagte der alte Mann. Seine Stimme war trocken, eine
+Konsonantensequenz ohne Stimmbandvibration. „Das System versucht, die
+Lücke zu schließen, die Martina hinterlassen hat. Es bietet dir ein
+Ersatzsignal an, damit du den Beobachterstatus nicht aufgibst. Solange
+du antwortest, läuft die Simulation weiter.``
+
+Luca griff in den Staub zwischen seinen Stiefeln und hob einen Brocken
+Vulkanit auf. Der Stein war leicht, durchsetzt mit winzigen Hohlräumen,
+gefangenem Gas aus einem Ausbruch, der zweitausend Jahre zurücklag.
+
+„Und wenn wir aufhören zu antworten?{\kern0pt}``, fragte Luca.
+
+Phillips sah auf den Stein in Lucas Hand. Ein minimales, zitterndes
+Licht spiegelte sich in seinen trüben Pupillen.
+
+„Dann gibt es keine Iteration mehr``, sagte der Jesuit. „Kein Pompeji.
+Keine Senke. Nur die ungemessene Masse. Die reine, zeitlose Gegenwart
+des Gesteins.``
+
+Sie saßen nebeneinander auf der Stufe. Die Hitze stieg aus dem Bimsstein
+auf wie das Flimmern über einer frischen Ascheschicht. Der Schatten der
+Veranda verkürzte sich Zentimeter um Zentimeter, bis er als schmaler,
+dunkler Strich unter dem Holz verschwand und sie vollkommen dem
+ungefilterten Licht überließ.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section-5}
+
+\section{\texorpdfstring{\textbf{Kapitel 12: Das Ende des
+Beobachters}}{Kapitel 12: Das Ende des Beobachters}}\label{kapitel-12-das-ende-des-beobachters}
+
+Am fünfundzwanzigsten Tag schrumpfte das Licht auf eine thermische
+Frequenz.
+
+Luca erwachte mit der Wange auf der rauen Kiefernholzplatte des Tisches.
+Unter seiner Schläfe lag das Oktavheft, dessen Papier durch die extreme
+Trockenheit der Wüstenluft spürbar vergilbt war. Die Ränder der Seiten
+rollten sich auf wie getrockneter Pflanzensaft.
+
+Phillips saß auf der Veranda. Er war bewegungslos, gebückt über seine
+eigenen Oberschenkel, als beuge er sich über ein kaum wahrnehmbares
+Schwingungsmuster im Sediment. Das Pflaster an seinem Hals hatte sich an
+der linken Ecke gelöst; darunter lag die blasse, narbige Spur einer
+alten Einstichstelle, grau wie die Kalziumkrusten an den Brunnenwänden
+von Pompeji.
+
+Luca nahm den Füllfederhalter auf. Die Tinte floss zäh, unterbrochen von
+Mikro-Aussetzern im Fluss. Er notierte nicht mehr die Abfolge der
+Stunden, sondern die physikalische Ablagerung von Zeit: die Ausdehnung
+des Bimssteins unter der Mittagshitze, das tonlose Erkalten der
+Metallklammern im Dachstuhl, die Überlagerungszustände, die das ARS als
+Rauschen durch die Außenbezirke schickte.
+
+Er schrieb die Syntax auf, die der Jesuit in Neapel konzipiert hatte.
+Die Verschränkung von Materie und Gedächtnis. Das Modell Teilhard de
+Chardins, übersetzt in die binäre Stille eines Quantenprozessors: der
+Omega-Punkt nicht als Erlösung, sondern als maximale Verdichtung aller
+nicht gewählten Iterationen. Martina war nicht fortgegangen. Sie hatte
+lediglich den Beobachtungsraum verlassen, um im ungemessenen Feld zu
+verbleiben.
+
+In der Nacht trat Phillips in den Raum. Er schleifte die Fersen über die
+Dielen -- ein trockenes, schabendes Geräusch wie Treibsand auf Blech. Er
+legte sich auf das Feldbett, ohne die Schuhe auszuziehen. Sein Atem war
+flach, synchronisiert mit dem periodischen Summen des Solargenerators
+hinter der Hütte.
+
+Am siebenundzwanzigsten Tag stellte InSIM die Signalverarbeitung ein.
+
+Der Flimmerstreifen am Horizont, der über Wochen die Grenze zwischen der
+Senke und den Zementabbaugebieten markiert hatte, war verschwunden. Die
+Landschaft hatte ihre Tiefe verloren; die Felsformationen wirkten flach,
+eingestanzte Silhouetten gegen einen Himmel aus ausgebleichtem Zink.
+
+Luca trat zu Phillips auf die Stufen.
+
+„Die Schnittstelle bricht ab``, sagte Luca.
+
+Phillips blickte nicht auf. Seine Finger nestelten an einem Fadenrest
+seiner Jacke. „Es gibt keine Schnittstelle mehr. Das Konsortium hat den
+Speicherbereich freigegeben. Was du siehst, ist der Ruhezustand der
+Matrix vor der ersten Datenaufnahme.``
+
+„Das Oktavheft ist voll``, sagte Luca.
+
+„Das Heft ist nur eine zusätzliche Speichereinheit``, antwortete der
+Jesuit. Seine Stimme war kaum mehr als ein zischender Luftstrom, der an
+den ausgezehrten Lippen brach. „Du hast die Daten interpretiert. Das war
+dein Fehler. Das ARS zeichnet keine Bedeutungen auf. Es registriert
+lediglich die Dichte von Zuständen. Wenn du versuchst, eine Bedeutung zu
+finden, erzeugst du ein Rauschen, das das Signal zerstört.``
+
+„Ich bin morgen weg``, sagte Luca.
+
+Phillips schwieg. Ein Schatten flog über die Bimssteinsenke -- kein
+Vogel, sondern die schemenhafte Verschiebung einer Pixellinie im oberen
+Aufnahmefeld.
+
+„Der Wagen steht am Rand der Schotterpiste``, sagte Luca. „Die
+Batterieladung reicht bis an die Küste.``
+
+„Es gibt keine Küste mehr``, sagte Phillips leise. Er schloss die Augen.
+Die Lider waren so dünn, dass die feinen, bläulichen Verästelungen der
+Äderchen darunter sichtbar blieben wie die Mikro-Fissuren in der
+Ascheschicht von Sektor VI. „Es gibt nur das Sediment und den
+Beobachter, der den Zerfall mitschreibt.``
+
+Am achtundzwanzigsten Tag war der Raum leer von Schatten.
+
+Die Sonne stand senkrecht über der Senke, ein weißer, strahlungsloser
+Punkt im Zentrum der Wahrnehmung.
+
+Luca packte die Reisetasche. Das Gewicht des Oktavhefts lag schwer am
+Boden der Quertasche, ein rechteckiger Block aus Zellulose und trockener
+Tinte. Er trat hinaus auf die Veranda.
+
+Phillips saß an der Wand angelehnt. Seine Augen waren geöffnet, aber der
+Blick fixierte keinen Punkt der Hügelkette mehr; die Pupillen waren
+starr, reflektierten das monotone Grau der Bimssteinblöcke wie zwei matt
+geschliffene Basaltlinsen. Seine Brust bewegte sich nicht mehr.
+
+Luca setzte sich nicht. Er blieb am Fuß der Treppe stehen. Der Staub um
+seine Stiefel war reglos, frei von thermischem Auftrieb.
+
+„Die Messung ist abgeschlossen``, sagte Luca in die Stille.
+
+Keine Antwort. Die Textur der Jacke des Alten schien mit dem rauen Holz
+der Hüttenwand zu verschmelzen, eine graduelle Nivellierung der
+Oberflächenspannungen.
+
+Luca ging zum Fahrzeug. Der Motor startete ohne Mechanikgeräusch, ein
+tiefer, niederfrequenter Impuls, der im Sediment abstarb. Er legte den
+Rückwärtsgang ein und wandte den Wagen auf dem schmalen
+Schotterstreifen.
+
+Im Rückspiegel schrumpfte die Hütte zu einem flachen Quadrat aus
+Wellblech und Holz. Die Gestalt auf der Veranda verlor ihre Konturen,
+floss in die grauen Farbtöne der Blöcke über, bis nur noch der Hang der
+Senke sichtbar blieb.
+
+Er fuhr durch die Pufferzone. Die Straße bildete sich erst wenige Meter
+vor den Scheinwerfern aus -- harter, abgetragener Asphalt mit den gelben
+Trennlinien des Highway 190. Nach vierzig Meilen erschienen die ersten
+Hochspannungsmasten, abstrakte Stahlgitterstrukturen gegen das blasse
+Reorganisationslicht des Nachmittags.
+
+In Los Angeles war der Flughafen ein Raum aus Milchglas und gefilterter
+Kühlluft.
+
+Luca saß am Gate 42. Durch die Panoramascheibe sah er die Rumpfflächen
+der Maschinen, glänzend, ohne Nieten, saubere Geometrien in einem
+Kontinuum aus Kerosingeruch und Lautsprecherdurchsagen. Die Passagiere,
+die an ihm vorbeigingen, trugen Gesichter ohne Tiefenschärfe, flüchtige
+Rekonstruktionen in einer dicht besetzten Schleife.
+
+Er öffnete die Quertasche und zog das Oktavheft heraus.
+
+Er schlug die erste Seite auf. Das Papier war leer. Keine
+Tintenstreifen, keine Eintragungen, keine Diagramme über die
+Verschränkung von Impuls und Ort. Nur die gleichmäßige, jungfräuliche
+Struktur des Papiers.
+
+Er blätterte zurück. Seite für Seite. Das gesamte Heft war weiß. Die
+Zeichen hatten sich aufgelöst, als hätte das ARS die nicht mehr
+benötigten Parameter nach dem Austritt aus der Senke überschrieben.
+
+Die Stimme aus den Deckenlautsprechern rief die Gruppe B auf.
+
+Luca stand auf. Er schob das leere Heft zurück in die Tasche, schloss
+den Reißverschluss und trat in das Fingerdock. Der Passagierraum des
+Flugzeugs war kühl und roch nach Ozon. Er nahm den Fensterplatz ein,
+schnallte den Gurt fest und sah zu, wie die Maschine vom Schlepper
+zurückgesetzt wurde.
+
+Die Startbahn schob sich unter den Flügeln durch. Beim Abheben kippte
+die Landschaft leicht zur Seite: das Häusermeer von Los Angeles, das
+Raster der Freeways, die dünne Linie der Küste -- alles zog sich
+zusammen zu einer flachen, hochauflösenden Textur.
+
+Er schloss die Augen.
+
+In der Senke veränderte sich die Helligkeit nicht. Der Bimsstein
+absorbierte das verbliebene Licht. Die Blöcke lagen im Staub, ohne
+Schattenwurf, ohne Temperaturgradienten, ungemessen und zeitlos.
+
+\section{\texorpdfstring{\hfill\break
+}{ }}\label{section-6}
+
+\section{\texorpdfstring{\textbf{Epilog: Die
+Steine}}{Epilog: Die Steine}}\label{epilog-die-steine}
+
+Die Zeit hatte ihre Kanten verloren.
+
+Sie lagerte sich ab wie die Bimsstaubschichten in den nicht
+ausgegrabenen Regio-Strukturen von Pompeji -- eine ununterbrochene
+Sedimentation aus Lichtwert und Abkühlung. Auf der Veranda saß keine
+Figur mehr, sondern eine Anhäufung biologischer Parameter, die das
+Konsortium vergessen hatte abzuschalten.
+
+Eine Wolldecke lag über den Oberschenkeln des alten Mannes, steif von
+Salzrändern und verkrustetem Vulkanitmehl. Die Knie darunter waren
+schmal, zwei vorspringende Gelenkknochen, die sich unter der Textur
+abzeichneten wie versteinertes Holz.
+
+Der Sonnenuntergang verlief ohne Brechung. Kein Rot, keine dramatische
+Auffächerung des Spektrums -- lediglich ein stufenloses Herabsetzen der
+Farbsättigung über den Hügelkuppen, bis der Sand den Ton von verbrannter
+Knochenasche annahm.
+
+Er sah nicht auf die Senke. Er hielt den Blick auf den Punkt gerichtet,
+an dem der Schotterstreifen in die Pufferzone überging.
+
+In den ersten Jahren hatte das Gehirn noch Namensfragmente erzeugt.
+\emph{Martina.} Nicht ein Gesicht, sondern das Reiben zweier
+Stoffstreifen in einem Korridor. \emph{Luca.} Der Klang von Stiefeln auf
+ausgetrockneten Dielen, die Frage nach dem Beobachter. \emph{Maria.}
+\emph{Julia.} Wörter aus einer früheren Iteration, als die Datenmatrix
+noch Schnittstellen zu Familienbüchern und Standesamtsregistern aufwies.
+
+Jetzt waren die Namen nur noch Rauschmuster in den hinteren Registern.
+Frequenzen, die an der rauen Oberfläche der Blöcke abprallten.
+
+Er griff nach der Keramiktasse auf dem Dielenboden neben dem Stuhl. Der
+Sud aus getrockneten Kräutern war kalt, bitter wie die Metallsalze im
+Grundwasser von Herculaneum. Seine Lippen berührten den kühlen Rand. Der
+Schluckreflex erfolgte verzögert, ein mechanischer Impuls im Ösophagus.
+
+\emph{Teilhard hatte unrecht gehabt.} Der Grenzwert war keine
+Vergeistigung. Der Omega-Punkt besaß keine Metaphysik, keine Krönung des
+Bewusstseins im kosmischen Punkt. Er war lediglich die vollständige
+Nivellierung des Signal-Rausch-Verhältnisses. Das Ausklingen aller
+Wellenfunktionen in einen einzigen, ungemessenen Grundzustand. Die
+Viele-Welten-Theorie war kein Versprechen auf unendliche Leben gewesen,
+sondern eine logische Notwendigkeit zur Entsorgung nicht gewählter
+Handlungen.
+
+Die Sterne traten hervor. Sie blitzten nicht; sie standen als starre,
+weiße Pixel am oberen Rand des Aufnahmefeldes.
+
+Er stand auf. Die Gelenke gaben ein leises, trockenes Knacken von sich
+-- das Geräusch von brechendem Treibgut.
+
+Er trat von den Stufen hinab in das Sediment. Die Sohlen seiner Schuhe
+hinterließen keine ausgeprägten Spuren im Staub; das Material federte
+nicht mehr nach, es lag kompakt, erstarrt in seiner Schüttdichte.
+
+Er ging bis zur Felszunge, wo der jüngere Phillips drei Jahrzehnte zuvor
+gestanden hatte. Oder vor vier Stunden. Im ARS gab es keine Differenz
+zwischen den Epochen; es gab nur den Speicherstatus.
+
+Er beugte sich vor. Die Bewegung dauerte lange. Seine Hand, gezeichnet
+von Altersflecken wie die verwitterten Inschriften auf den Grabstelen
+der Via Nocera, tastete nach einem Brocken Vulkanit.
+
+Der Stein war rau. Die Poren des Bimssteins schnitten minimal in die
+Hornhaut seiner Kuppen. Keine Restwärme. Kein Impuls. Nur das reine,
+speicherfreie Gewicht von Silikaten und Erstarrung.
+
+Er drehte das Sedimentstück in den Fingern. Ein Klumpen ausgeworfener
+Materie, konserviert in dem Augenblick, als die pyroklastische Welle die
+Villa der Mysterien erreichte.
+
+Er ließ den Stein fallen. Er traf auf die Unterlage ohne Rollgeräusch.
+Ein dumpfer, augenblicklich erstickter Impuls.
+
+„Sie bleiben``, sagte die Stimme. Es war kein Satz an jemanden. Es war
+die Bestätigung eines Systemzustands.
+
+Der Mann drehte sich nicht um. Er blieb am Rand der Senke stehen, bis
+der Schatten der Felszunge seinen Körper vollständig überdeckte und
+seine Kontur im abgedunkelten Basalt aufging.
+
+Die Simulation hielt die Temperatur der Steine auf dem vorgegebenen
+Wert. Keinem Wert darüber. Keinem darunter.
+
+\section{\texorpdfstring{\textbf{Über dieses
+Buch}}{Über dieses Buch}}\label{uxfcber-dieses-buch}
+
+\subsection{\texorpdfstring{\textbf{Inhalt}}{Inhalt}}\label{inhalt}
+
+Der 37-jährige Doktorand Luca reist in die kalifornische Bimssteinsenke,
+um den Jesuiten und Physiker Michael Phillips aufzusuchen. Phillips,
+einst Ordinarius an der Gregoriana und Systemarchitekt der
+Dialoggrammatiken für InSIM, war maßgeblich an der Entwicklung des
+KI/Quanten-Agenten ARS beteiligt, jenem Modell, das Bewusstseinszustände
+in iterativen Rekonstruktionen des pompejanischen Sektors V simuliert.
+Seit dem plötzlichen Abbruch des Pompeji-Projekts lebt der 78-Jährige
+isoliert an einem verlassenen Versuchsfeld in der Wüste. Er hat die
+Sprache weitgehend abgelegt; er sitzt auf der Veranda einer Holzbaracke
+und fixiert die thermische Erstarrung des Gesteins.
+
+Luca ist der Sohn von Michael Phillips und Maria, einer ehemaligen
+Sekretärin am Pontificium Collegium Germanicum et Hungaricum in Rom.
+Maria hat Luca allein großgezogen und ihm seine Herkunft nie offenbart.
+Sie ist mit ihm nach Boston gegangen, wo Luca promoviert -- nicht in
+Theologie oder Physik, sondern in einem Grenzbereich zwischen
+Sprachmodellierung und Quanteninformatik. Luca weiß, wer sein Vater ist;
+die Ähnlichkeit, die Briefe in Marias Schublade und die Spur der
+Dialoggrammatiken haben ihm die Gewissheit gegeben, lange bevor er die
+Bimssteinsenke erreicht.
+
+Ein anonymer Brief erreicht Luca in Neapel. Kein Absender, keine
+Absichtsbezeugung, nur die Koordinaten einer Pufferzone und ein Satz: Er
+verweilt im ungemessenen Zustand. Luca reist ab. Er nimmt das vergilbte
+Repertoire-Foto des Konsortiums von 1994, mietet einen Wagen in Los
+Angeles und bricht in das Versuchsfeld auf.
+
+Am vierzehnten Tag wird das Schweigen der beiden Männer durch die
+Ankunft von Martina Rossi unterbrochen. Die 45-jährige Archäologin ist
+die Tochter von Michael Phillips und Julia Rossi. Julia hat Martina in
+Pompeji allein großgezogen, nachdem sie sich in Rom von Michael getrennt
+hatte. Martina tritt ohne Ankündigung in den Raum. Sie berichtet
+flüchtig von ihrer Mutter Julia, von archäometrischen Befunden in
+Herculaneum und von der Notwendigkeit, sich der Fixierung eines Kollegen
+zu entziehen. Luca beobachtet ihre Anwesenheit im isolierten Raum der
+Senke, das Fehlen einer ausgeprägten Schattenkontur im späten
+Sonnenlicht, die Stille zwischen den Bewegungen.
+
+Am achtzehnten Tag entzieht sich Martina der Messung. Sie hinterlässt
+keine Spuren im Schotter; lediglich ihr Oktavheft liegt aufgeschlagen
+auf der Tischplatte. Die Seiten sind weiß, bis auf einen einzigen
+Eintrag im hinteren Register: In einer anderen Iteration habe ich die
+Parameter nicht bestätigt.
+
+Das Verschwinden destabilisiert das System. Phillips zieht sich
+vollkommen in die Rekonstruktionsschleifen des ARS zurück. Luca sucht
+das Umland ab, fährt die ausgebleichten Asphaltbänder des Highway 190
+ab, befragt die Gestalten an den Tankstellen der Pufferzone und kehrt
+ohne Ergebnis zurück. Er beginnt, den Zerfall im Oktavheft zu
+protokollieren, die Verdichtung der Zeit, die Quanten-Schnittstellen,
+seine Umdeutung von Teilhard de Chardins Omega-Punkt als Grenzzustand
+maximaler Entropie.
+
+In den Stunden der maximalen Abkühlung tritt eine Erscheinung an die
+Veranda: eine Rekonstruktion des dreißigjährigen Phillips in der Jacke
+des Konsortiums von Neapel. Ob es sich um eine Parallelversion Michaels
+aus einer anderen Zeitlinie handelt, um eine vom ARS erzeugte
+Ersatzfigur oder um Luca selbst, der in einer anderen Iteration als
+jüngerer Michael erscheint, bleibt bewusst offen. Das ARS bietet ein
+Ersatzsignal an, um den Beobachterstatus aufrechtzuerhalten. Die Entität
+artikuliert die Logik der Verschränkung: Martina ist nicht gestorben;
+sie hat lediglich den Kohärenzzustand mit dieser spezifischen
+Speichereinheit aufgegeben, um in einer parallelen Iteration des Systems
+zu verbleiben.
+
+Luca stellt die Messung ein und verlässt die Senke. Als er in Los
+Angeles das Flugzeug besteigt und das Notizbuch öffnet, sind alle
+Eintragungen gelöscht, das Papier ist makellos und unbeschrieben. In der
+Wüste bleibt Phillips zurück. Seine Existenz geht stufenlos in die
+reglose Dichte des Bimssteins über.
+
+Anmerkung zur Zeitlinie: Die Zeitlosigkeit der Steine spielt nicht in
+derselben Zeitlinie wie die übrigen Bände des Pompeji-Projekts. Sie ist
+eine Iteration unter vielen -- eine mögliche Geschichte im Multiversum,
+in der Michael Phillips nicht in Budapest, sondern in der kalifornischen
+Wüste endet, in der Martina nicht flieht, sondern sich der Messung
+entzieht, und in der Luca nicht als Retter, sondern als Beobachter
+auftritt. Die Altersangaben (Luca 37, Martina 45, Michael 78) sind daher
+nicht mit den Altersangaben der Trilogie zur Deckung zu bringen, sondern
+markieren die spezifische Zeitachse dieser Iteration. Wer die Trilogie
+als Multiversumsperspektive liest, wird in dieser Erzählung die
+Innenperspektive einer einzelnen Geschichte erkennen, die sich nicht um
+chronologische Konsistenz mit den anderen Bänden bemüht, sondern um die
+Verdichtung eines einzigen Gedankens: dass am Ende nur das ungemessene
+Material bleibt.
+
+\subsection{\texorpdfstring{\textbf{Hintergrund \&
+Poetologie}}{Hintergrund \& Poetologie}}\label{hintergrund-poetologie}
+
+Den Ausgangspunkt für Die Zeitlosigkeit der Steine bildet Don DeLillos
+Spätroman Point Omega (2010), der seinerseits auf DeLillos
+Auseinandersetzung mit Douglas Gordons Videoinstallation 24 Hour Psycho
+im Museum of Modern Art zurückgeht. Die Erzählung greift dabei DeLillos
+Interesse an der extrem verlangsamten Wahrnehmung auf und überträgt das
+Motiv der zeitlichen Dehnung in den Kontext der modernen
+Quantenarchäologie und KI-Theorie.
+
+Das Dreiecksverhältnis aus Point Omega, bei DeLillo vertreten durch den
+Intellektuellen Richard Elster, den Filmemacher Jim Finley und Elsters
+Tochter Jessie, erfährt in der Erzählung eine grundlegende motivische
+Transformation:
+
+\begin{itemize}
+\item
+  Vom Museum zum Versuchsfeld: An die Stelle der Videokunst tritt die
+  virtuelle Rekonstruktion von Pompeji durch das Konsortium InSIM. Die
+  Verlangsamung der Filmkader wird zur Absenkung der Abtastfrequenz
+  eines Quantenprozessors (ARS).
+\item
+  Vom Intellektuellen zum Jesuiten-Physiker: Die Rolle der
+  philosophischen Reflexionsfigur wandelt sich von Richard Elster zu
+  Michael Phillips. Seine Überlegungen entspringen der Synthese aus
+  jesuitischer Eschatologie (Pierre Teilhard de Chardin) und der
+  Everett-Deutsch-Interpretation der Quantenmechanik
+  (Viele-Welten-Theorie).
+\item
+  Vom Verschwinden zur Dekohärenz: Das spurlose Verschwinden der Tochter
+  ist hier kein kriminalistischer oder psychologischer Twist, sondern
+  der Austritt eines Bewusstseins aus der beobachtbaren Kohärenz einer
+  kollabierenden Systemiteration.
+\end{itemize}
+
+Die Erzählung nutzt die kühle, parataktische Ästhetik des
+DeLillo-Spätwerks, um die Wüste nicht als physischen Raum, sondern als
+isolierten Beobachtungsraum darzustellen. Sprache fungiert darin nicht
+als Beschreibungsmittel, sondern als Seismograph einer erstarrenden
+Realität, in der am Ende nur das ungemessene Material verbleibt. Dabei
+ist Die Zeitlosigkeit der Steine keine chronologische Fortsetzung,
+sondern eine eigene Iteration im Multiversum des Pompeji-Projekts --
+eine mögliche Geschichte unter vielen, in der dieselben Figuren unter
+anderen Anfangsbedingungen andere Wege gehen und in der die Frage nach
+Schuld, Beobachtung und Omega-Punkt eine andere Antwort findet.
+
+\subsection{\texorpdfstring{\textbf{DeLillo und die
+Stille}}{DeLillo und die Stille}}\label{delillo-und-die-stille}
+
+In Der Omega-Punkt führt die Stille nicht in Leere, sondern in eine
+eigentümliche Zeitlosigkeit, in der Erkenntnis total und nicht mehr
+sagbar ist, vielleicht aber erfahrbar. Die Stille hingegen zeigt das
+Verstummen der Deutungen: In einem New Yorker Wohnzimmer fallen die
+elektronischen Systeme aus, und mit ihnen verschwinden Sprache,
+Gewissheit, Ordnung. Zurück bleibt eine Gegenwart, die nichts erklärt
+und nichts erlöst.
+
+Zwei Formen der Stille stehen einander gegenüber: die eine als
+metaphysische Verdichtung, die andere als reiner Entzug. Die
+Zeitlosigkeit der Steine nimmt beide auf. Die Wüste ist der Ort, an dem
+die Stille zur physischen Erfahrung wird, nicht als Idylle, sondern als
+Zustand nach dem Lärm der Datenströme. Die Steine sind das, was bleibt,
+wenn alle Berechnungen eingestellt werden: kein Denkmal, sondern der
+Rest.
+
+\subsection{\texorpdfstring{\textbf{Van Dormael und die
+Möglichkeiten}}{Van Dormael und die Möglichkeiten}}\label{van-dormael-und-die-muxf6glichkeiten}
+
+Jaco Van Dormaels Mr. Nobody (2009) entfaltet ein Universum, in dem jede
+Entscheidung eine neue Realität erzeugt. Zeit ist kein Strom, sondern
+ein Feld. Der Protagonist durchlebt alle möglichen Leben gleichzeitig,
+und jeder Weg ist der richtige Weg. Die „Engel des Vergessens", die
+einem bei der Geburt das Wissen über alle Möglichkeiten nehmen, lassen
+sich als Metapher für die Viele-Welten-Interpretation lesen, und für den
+Omega-Punkt, der jede Version gelebt haben muss, um dieses Wissen zu
+haben.
+
+In Das brandneue Testament (2015) wird ein Gottesbild entmachtet, das
+aus Angst, Schuld und Kontrolle besteht. Éa, die Tochter Gottes, sendet
+allen Menschen ihr Sterbedatum und entzieht dem Vater damit sein
+wesentliches Machtinstrument. Nicht durch Widerlegung, sondern durch
+Bedeutungslosigkeit verschwindet Gott. Sinn entsteht hier nicht aus
+Ordnung, sondern aus Beziehung.
+
+Der fiktive Film Gott wohnt im dritten Stock (aus Drei Bücher Zwei
+Filme, Rezension eines fiktiven van Dormael Filmes neben das Brandneue
+Testament und Mr. Nobody als Teil des Pompeji Projektes) treibt diese
+Bewegung weiter. Augustinus, der Name ist Programm, regiert seine
+Familie durch ein internalisiertes Regime aus Schuld und Gewissheit.
+Seine Tochter Éa verlässt das System und findet unter Obdachlosen eine
+fragile Form von Gemeinschaft, die nichts rechtfertigen muss. Am Ende
+steht keine Erlösung, sondern eine Verschiebung der Macht: Gott
+verschwindet nicht durch Widerlegung, sondern durch Irrelevanz.
+
+\subsection{\texorpdfstring{\textbf{Die verbindende
+Bewegung}}{Die verbindende Bewegung}}\label{die-verbindende-bewegung}
+
+Was all diese Texte verbindet, ist keine Botschaft, sondern eine
+Bewegung. Sie führen nicht zu einer neuen Synthese, keinem neuen Bund,
+keiner letzten Wahrheit. Sie zeigen vielmehr, wie Macht verschwindet:
+die Macht der Technik, des allwissenden Erzählers, des strafenden
+Gottes, der großen Sinnnarrative. Nicht durch Zerstörung, sondern durch
+Irrelevanz.
+
+Zurück bleibt kein Nihilismus. Sondern eine fragile Form von Humanität.
+Still, vorläufig, ohne Garantie. Eine Existenz, die Leid, Zeit und
+Endlichkeit nicht aufhebt, aber auch nicht mehr rechtfertigen muss.
+Vielleicht ist das der Omega-Punkt: nicht die Verdichtung des
+Bewusstseins, sondern seine Ausdünnung bis zu dem Punkt, an dem nur noch
+das ungemessene Material bleibt, die Steine.
+
+In diesem Sinne ist Die Zeitlosigkeit der Steine keine Nacherzählung von
+DeLillos oder Van Dormaels Werken. Sie ist eine eigenständige
+literarische Ausarbeitung derselben Denkbewegung, die auch der Trilogie
+Das Pompeji-Projekt zugrunde liegt. Sie kann parallel zur Trilogie
+gelesen werden, als Innenperspektive einer einzelnen Geschichte im
+Multiversum, während die Trilogie die Multiversumsperspektive einnimmt.
+Für Leser, die philosophisch tiefer einsteigen wollen, ist sie die
+konzentrierteste Fassung der Omega-Punkt-Frage im gesamten Werk.
+
+\end{document}
