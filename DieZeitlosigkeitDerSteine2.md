@@ -872,8 +872,9 @@ Stift in den Fingern.
 Phillips. Seine Finger krampften sich ganz leicht um das Gewebe seiner
 Hose, dann entspannten sie sich wieder. „Es dehnt sich aus. Jede
 Entscheidung erzeugt ein neues Feld. Der Omega-Punkt ist keine
-Singularität, Luca. Er ist der Moment, in dem die Alternativen unendlich
-werden und die Wahrscheinlichkeiten auf null sinken."
+Singularität, Luca. Er ist der Zustand, in dem keine Alternative mehr
+berechnet werden muss. Nicht weil eine Welt übrig bleibt. Sondern weil
+alle Fragen, die noch eine Berechnung verlangen, verschwunden sind."
 
 Er deutete mit einer minimalen Bewegung des Kinns auf die Geröllhalde
 vor der Veranda.
