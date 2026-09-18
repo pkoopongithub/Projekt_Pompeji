@@ -1,91 +1,691 @@
-Paul Koop
+---
+author: Paul Koop
+lang: de
+subtitle: Zwei sp├ñte Romane Don DeLillos, zwei Filme von Jaco Van
+  Dormael und ein Film, den es so nie gegeben hat
+title: Drei Filme Zwei B├╝cher
+---
 
-Drei Filme Zwei Bücher
+- [Vorbemerkung](#vorbemerkung){#toc-vorbemerkung}
+- [Vorspiel](#vorspiel){#toc-vorspiel}
+- [Zwei Stimmen, ein
+  Grenzwert](#zwei-stimmen-ein-grenzwert){#toc-zwei-stimmen-ein-grenzwert}
+- [Der Omega-Punkt](#der-omega-punkt){#toc-der-omega-punkt}
+- [Die Stille](#die-stille){#toc-die-stille}
+- [Zwei
+  DeLillo-Stimmen](#zwei-delillo-stimmen){#toc-zwei-delillo-stimmen}
+- [Mr. Nobody](#mr.-nobody){#toc-mr.-nobody}
+- [Das brandneue
+  Testament](#das-brandneue-testament){#toc-das-brandneue-testament}
+- [Gott wohnt im dritten
+  Stock](#gott-wohnt-im-dritten-stock){#toc-gott-wohnt-im-dritten-stock}
+- [\
+  ](#section){#toc-section}
+- [Die dritte Perspektive: Entmachtung durch
+  Irrelevanz](#die-dritte-perspektive-entmachtung-durch-irrelevanz){#toc-die-dritte-perspektive-entmachtung-durch-irrelevanz}
+- [Nachwort](#nachwort){#toc-nachwort}
 
-zwei späte Romane Don DeLillos, zwei Filme von Jaco Van Dormael und ein Film, den es so nie gegeben hat
+# Vorbemerkung
+
+Dieser Essay ist kein Kommentar zu den Erzählungen des Pompeji-Projekts.
+Er ist ein eigenständiger Zugang zu denselben Fragen, die die Romane und
+Erzählungen narrativ entfalten. Er setzt sie nicht voraus. Er erklärt
+sie nicht. Er ist eine andere Stimme im selben Gespräch, eine, die
+beschreibt, was die Erzählungen vorführen.
+
+Die folgenden Analysen kreisen um zwei Werke Don DeLillos, zwei Filme
+Jaco Van Dormaels und einen Film, den es so nie gegeben hat. Sie tun das
+nicht, um diese Werke zu bewerten oder zu vereinnahmen. Sie tun es, um
+eine Denkbewegung sichtbar zu machen, die sich in ihnen artikuliert,
+eine Bewegung, die auch das Pompeji-Projekt trägt. Wer die Theorie
+sucht, wird sie hier finden. Wer die Erzählung sucht, wird anderswo
+fündig. Beide Wege führen zu demselben Rand, aber keiner setzt den
+anderen voraus.
 
 # Vorspiel
 
-Es geht in den folgenden Texten nicht um Bücher und Filme im üblichen Sinn. Nicht um Bewertungen, nicht um Empfehlungen, nicht um abgeschlossene Urteile. Was hier nebeneinandergestellt wird -- zwei späte Romane Don DeLillos, zwei Filme von Jaco Van Dormael und ein Film, den es so nie gegeben hat --, bildet ein lose gefügtes Ensemble. Kein Kanon, kein System. Eher ein Resonanzraum. Literatur und Film werden dabei nicht getrennt betrachtet, sondern als unterschiedliche Ausdrucksformen derselben Frage gelesen: Was bleibt, wenn die großen Vermittlungen verstummen? Alle Werke kreisen um ähnliche Motive, ohne je dasselbe zu sagen. Um Stille -- nicht als Idylle, sondern als Zustand nach dem Lärm. Um Zeit -- nicht als Uhrzeit, sondern als Möglichkeit, Verdichtung, Rücklauf. Um Ordnung -- technische, religiöse, moralische --, die Sinn verspricht und Macht ausübt. Und um das, was sich dieser Ordnung entzieht: Möglichkeit, Beziehung, Offenheit. In DeLillos Roman Der Omega-Punkt führt die Stille nicht in Leere, sondern in eine eigentümliche Zeitlosigkeit, in der Erkenntnis total und nicht mehr sagbar ist -- vielleicht aber erfahrbar. In Die Stille fällt dann die Technik aus, und mit ihr verschwinden Sprache, Deutung, Gewissheit. Zurück bleibt eine Gegenwart, die nichts erklärt und nichts erlöst. Zwei Formen der Stille stehen einander gegenüber: die eine als metaphysische Verdichtung, die andere als reiner Entzug. Van Dormaels Filme öffnen einen anderen Zugang. In Mr. Nobody zerfällt das Leben in Möglichkeiten. Jede Entscheidung erzeugt eine Wirklichkeit, jede Geschichte ist real, weil sie möglich ist. Zeit ist kein Strom, sondern ein Feld. In Das brandneue Testament wird ein Gottesbild entmachtet, das aus Angst, Schuld und Kontrolle besteht. Nicht durch Widerlegung, sondern dadurch, dass es seine Macht verliert. Sinn entsteht hier nicht aus Ordnung, sondern aus Beziehung. Der fiktive Film Gott wohnt im dritten Stock treibt diese Bewegung weiter. Gott erscheint nicht mehr als transzendente Instanz, sondern als internalisiertes Regime aus Schuld und Gewissheit. Erlösung geschieht nicht durch neue Lehre, sondern durch das Verlassen dieses Systems. Die Figuren, die tragen, sind keine Heiligen und keine Lehrer, sondern Menschen ohne metaphysischen Anspruch -- tragfähig, weil sie nichts rechtfertigen müssen. Was all diese Texte verbindet, ist keine Botschaft, sondern eine Bewegung. Sie führen nicht zu einer neuen Synthese, keinem neuen Bund, keiner letzten Wahrheit. Sie zeigen vielmehr, wie Macht verschwindet: die Macht der Technik, des allwissenden Erzählers, des strafenden Gottes, der großen Sinnnarrative. Nicht durch Zerstörung, sondern durch Irrelevanz. Zurück bleibt kein Nihilismus. Sondern eine fragile Form von Humanität. Still, vorläufig, ohne Garantie. Eine Existenz, die Leid, Zeit und Endlichkeit nicht aufhebt -- aber auch nicht mehr rechtfertigen muss, vielleicht der Omegapunkt. Mit diesem Hintergrund lesen sich die folgenden Texte nicht als Einzelrezensionen, sondern als Variationen eines Gedankens. Als Annäherungen an eine Welt, in der Sinn nicht verschwindet, aber seine Aussprechbarkeit verliert, vielleicht im Omegapinkt. In den Werken DeLillos und Van Dormaels artikuliert sich ein unausgesprochenes katholisches Lebensgefühl, das Unvollkommenheit, Leid und Zeit nicht rechtfertigt, sondern annimmt. Dieses Lebensgefühl entzieht einem augustinisch-calvinischen, dualistischen Gottesbild die Grundlage, nicht durch Widerlegung, sondern durch Bedeutungsverlust. Heilung erscheint nicht als Erlösung von der Welt, sondern als zeitlose Vereinigung innerhalb des Gelebten.
+Es geht in den folgenden Texten nicht um Bücher und Filme im üblichen
+Sinn. Nicht um Bewertungen, nicht um Empfehlungen, nicht um
+abgeschlossene Urteile. Was hier nebeneinandergestellt wird, zwei späte
+Romane Don DeLillos, zwei Filme von Jaco Van Dormael und ein Film, den
+es so nie gegeben hat -, bildet ein lose gefügtes Ensemble. Kein Kanon,
+kein System. Eher ein Resonanzraum. Literatur und Film werden dabei
+nicht getrennt betrachtet, sondern als unterschiedliche Ausdrucksformen
+derselben Frage gelesen: Was bleibt, wenn die großen Vermittlungen
+verstummen? Alle Werke kreisen um ähnliche Motive, ohne je dasselbe zu
+sagen. Um Stille, nicht als Idylle, sondern als Zustand nach dem Lärm.
+Um Zeit, nicht als Uhrzeit, sondern als Möglichkeit, Verdichtung,
+Rücklauf. Um Ordnung, technische, religiöse, moralische -, die Sinn
+verspricht und Macht ausübt. Und um das, was sich dieser Ordnung
+entzieht: Möglichkeit, Beziehung, Offenheit. In DeLillos Roman Der
+Omega-Punkt führt die Stille nicht in Leere, sondern in eine
+eigentümliche Zeitlosigkeit, in der Erkenntnis total und nicht mehr
+sagbar ist, vielleicht aber erfahrbar. In Die Stille fällt dann die
+Technik aus, und mit ihr verschwinden Sprache, Deutung, Gewissheit.
+Zurück bleibt eine Gegenwart, die nichts erklärt und nichts erlöst. Zwei
+Formen der Stille stehen einander gegenüber: die eine als metaphysische
+Verdichtung, die andere als reiner Entzug. Van Dormaels Filme öffnen
+einen anderen Zugang. In Mr. Nobody zerfällt das Leben in Möglichkeiten.
+Jede Entscheidung erzeugt eine Wirklichkeit, jede Geschichte ist real,
+weil sie möglich ist. Zeit ist kein Strom, sondern ein Feld. In Das
+brandneue Testament wird ein Gottesbild entmachtet, das aus Angst,
+Schuld und Kontrolle besteht. Nicht durch Widerlegung, sondern dadurch,
+dass es seine Macht verliert. Sinn entsteht hier nicht aus Ordnung,
+sondern aus Beziehung. Der fiktive Film Gott wohnt im dritten Stock
+treibt diese Bewegung weiter. Gott erscheint nicht mehr als
+transzendente Instanz, sondern als internalisiertes Regime aus Schuld
+und Gewissheit. Erlösung geschieht nicht durch neue Lehre, sondern durch
+das Verlassen dieses Systems. Die Figuren, die tragen, sind keine
+Heiligen und keine Lehrer, sondern Menschen ohne metaphysischen
+Anspruch, tragfähig, weil sie nichts rechtfertigen müssen. Was all diese
+Texte verbindet, ist keine Botschaft, sondern eine Bewegung. Sie führen
+nicht zu einer neuen Synthese, keinem neuen Bund, keiner letzten
+Wahrheit. Sie zeigen vielmehr, wie Macht verschwindet: die Macht der
+Technik, des allwissenden Erzählers, des strafenden Gottes, der großen
+Sinnnarrative. Nicht durch Zerstörung, sondern durch Irrelevanz. Zurück
+bleibt kein Nihilismus. Sondern eine fragile Form von Humanität. Still,
+vorläufig, ohne Garantie. Eine Existenz, die Leid, Zeit und Endlichkeit
+nicht aufhebt, aber auch nicht mehr rechtfertigen muss, vielleicht der
+Omegapunkt. Mit diesem Hintergrund lesen sich die folgenden Texte nicht
+als Einzelrezensionen, sondern als Variationen eines Gedankens. Als
+Annäherungen an eine Welt, in der Sinn nicht verschwindet, aber seine
+Aussprechbarkeit verliert, vielleicht im Omegapunkt. In den Werken
+DeLillos und Van Dormaels artikuliert sich ein unausgesprochenes
+katholisches Lebensgefühl, das Unvollkommenheit, Leid und Zeit nicht
+rechtfertigt, sondern annimmt. Dieses Lebensgefühl entzieht einem
+augustinisch-calvinischen, dualistischen Gottesbild die Grundlage, nicht
+durch Widerlegung, sondern durch Bedeutungsverlust. Heilung erscheint
+nicht als Erlösung von der Welt, sondern als zeitlose Vereinigung
+innerhalb des Gelebten.
+
+# Zwei Stimmen, ein Grenzwert
+
+Es wäre ein Missverständnis, diese Texte als Variationen eines Gedankens
+zu lesen. Sie sind Variationen zweier Gedanken, die sich nicht
+vereinbaren lassen. Der eine ist der Gedanke DeLillos: dass die Stille
+nicht in die Tiefe führt, sondern in die Ausdünnung. Dass der
+Omega-Punkt kein Ziel ist, sondern ein Grundzustand, der Wärmetod, die
+Entropie, das ungemessene Material. Der andere ist der Gedanke Van
+Dormaels: dass die Stille nicht das Ende ist, sondern die Fülle. Dass
+der Omega-Punkt kein Grundzustand ist, sondern ein Feld, die Komplexität
+der Möglichkeiten, die Differenz, die nicht nivelliert wird.
+
+Diese beiden Gedanken lassen sich nicht zu einer Synthese bringen. Wer
+sie vereinbaren will, zerstört sie. Wer einen von beiden für den ganzen
+hält, macht ihn zur Ideologie. Teilhard de Chardin hat genau das getan:
+Er hat den Gedanken der Richtung, der Teleologie, für den Omega-Punkt
+selbst gehalten. Er war Augustiner. Er war Thomist. Er konnte nicht
+anders, als die Zeit auf ein Ende hin zu denken. Das war seine Größe,
+und sein Irrtum.
+
+Der Omega-Punkt ist nicht das Ziel. Er ist nicht das Ende. Er ist der
+Rand, an dem beide Gedanken gleichzeitig gelten, ohne sich zu versöhnen.
+Die folgenden Analysen versuchen, diesen Rand sichtbar zu machen. Sie
+führen nicht zu einer Antwort. Sie führen zu der Frage, die beide
+Register offen lassen.
 
 # Der Omega-Punkt
 
-Delillo,D.: Der Omega-Punkt, ISBN-10 ‏ : ‎ 3462041924 ISBN-13 ‏ : ‎ 978-3462041927 Übersetzung von Heibert, F. Original Point-Omega 2010
+DeLillo, D.: Der Omega-Punkt. ISBN-10: 3462041924, ISBN-13:
+978-3462041927. Übersetzung von Heibert, F. Original: Point Omega, 2010.
 
-Autor: Der Autor wuchs in der Zwischenkriegszeit,wie Jaco Van Dormael, in einer katholischen Familie mit italienischen Wurzeln in der Bronx auf. Spät findet er zur Literatur. Er arbeitet als Texter mit Bachelorabschluss in der Werbebranche und beginnt zu schreiben. Seine Werke werden weltweit bekannt und kreisen um die postmoderne Reflexion der Welt, des Lebens und der krisenhaften Entwicklung in den USA.
+Autor: Der Autor wuchs in der Zwischenkriegszeit, wie Jaco Van Dormael,
+in einer katholischen Familie mit italienischen Wurzeln in der Bronx
+auf. Spät findet er zur Literatur. Er arbeitet als Texter mit
+Bachelorabschluss in der Werbebranche und beginnt zu schreiben. Seine
+Werke werden weltweit bekannt und kreisen um die postmoderne Reflexion
+der Welt, des Lebens und der krisenhaften Entwicklung in den USA.
 
-Inhalt: Zwei Männer betrachten im ersten Teil im Museum of Modern Arts, New York die Videoinstallation "24 Hour" Psycho von Douglas Gordon, in der Alfred Hitchcocks Spielfilm Psycho auf eine Laufzeit von 24 Stunden gedehnt abgespielt wird. Im nächsten Teil des Romans folgt ein junger Filmemacher einem aus dem Dienst ausgeschiedenen Kriegsberater der Bush-Regierung in die Wüste, um über ihn eine Dokumentation zu fertigen. Der alte Mann ist in die Wüste gegangen, um der Zeitlosigkeit zu folgen. Hinter dem Leben und nach dem Bewusstsein sieht der alte Mann den Omegapunkt Teilhard de Chardins. Noch bevor der Filmemacher mit seiner Dokumentation beginnen kann, kommt die Tochter des alten Mannes. Die Mutter hat sie geschickt, damit sie in der Wüste über die Absicht eines Verehrers nachdenkt, mit ihr eine Lebenspartnerschaft einzugehen. Kaum hat man sich kennengelernt, verschwindet die junge Frau und bleibt verschwunden.
+Inhalt: Zwei Männer betrachten im ersten Teil im Museum of Modern Arts,
+New York, die Videoinstallation 24 Hour Psycho von Douglas Gordon, in
+der Alfred Hitchcocks Spielfilm Psycho auf eine Laufzeit von 24 Stunden
+gedehnt abgespielt wird. Im nächsten Teil des Romans folgt ein junger
+Filmemacher einem aus dem Dienst ausgeschiedenen Kriegsberater der
+Bush-Regierung in die Wüste, um über ihn eine Dokumentation zu fertigen.
+Der alte Mann ist in die Wüste gegangen, um der Zeitlosigkeit zu folgen.
+Hinter dem Leben und nach dem Bewusstsein sieht der alte Mann den
+Omegapunkt Teilhard de Chardins. Noch bevor der Filmemacher mit seiner
+Dokumentation beginnen kann, kommt die Tochter des alten Mannes. Die
+Mutter hat sie geschickt, damit sie in der Wüste über die Absicht eines
+Verehrers nachdenkt, mit ihr eine Lebenspartnerschaft einzugehen. Kaum
+hat man sich kennengelernt, verschwindet die junge Frau und bleibt
+verschwunden.
 
-Wertung: Das Thema des Romans ist die Stille, nicht die Geräuschlosigkeit, sondern die Stille. Die Stille ist Zeitlosigkeit. Es ist die Zeitlosigkeit der Steine, in der die Zwischenstufe Leben sich verflüchtigt. Und diese Zeitlosigkeit der Steine ist das Tor zu einem Ozean des Wissens. Dieses Wissen erschließt sich, wenn man das Leben durchlitten hat. Dann weiß man, was Zeitlosigkeit, Liebe und Leid ist und kann es doch nicht mehr sagen. Die Zeitlosigkeit steckt in dem zum Standbild verlangsamten Moment der Filmsequenz. Die Stille der Steine steckt im Rückzug in die Wüste zu jesuitischen Exerzitien und der Verlust, die Liebe und das Leid stecken im Verschwinden der Tochter.
+Wertung: Das Thema des Romans ist die Stille, nicht die
+Geräuschlosigkeit, sondern die Stille. Die Stille ist Zeitlosigkeit. Es
+ist die Zeitlosigkeit der Steine, in der die Zwischenstufe Leben sich
+verflüchtigt. Und diese Zeitlosigkeit der Steine ist das Tor zu einem
+Ozean des Wissens. Dieses Wissen erschließt sich, wenn man das Leben
+durchlitten hat. Dann weiß man, was Zeitlosigkeit, Liebe und Leid ist
+und kann es doch nicht mehr sagen. Die Zeitlosigkeit steckt in dem zum
+Standbild verlangsamten Moment der Filmsequenz. Die Stille der Steine
+steckt im Rückzug in die Wüste zu jesuitischen Exerzitien und der
+Verlust, die Liebe und das Leid stecken im Verschwinden der Tochter.
 
 # Die Stille
 
-DeLillo, D.: Die Stille, ISBN: 978-3-462-30295-0, Übersetzung von Heibert, F., Original: The Silence 2020
+DeLillo, D.: Die Stille. ISBN: 978-3-462-30295-0. Übersetzung von
+Heibert, F. Original: The Silence, 2020.
 
-Autor: Don DeLillo, geboren 1936 in der Bronx, der wie Jaco Van Dormael in einem katholischen Imfeld aufgewachsen ist, stammt aus einer katholischen Familie italienischer Herkunft. Er studiert Kommunikation und arbeitet zunächst in der Werbung, bevor er sich spät, aber entschieden der Literatur zuwendet. Seit den 1970er-Jahren entwickelt er sich zu einem der bedeutendsten Chronisten der Spätmoderne. Seine Romane kreisen um das Bewusstsein in technologisch beschleunigten Zeiten, die Unsichtbarkeit von Macht, die Auflösung individueller Identität und die Frage, was Sprache noch retten kann.
+Autor: Don DeLillo, geboren 1936 in der Bronx, der wie Jaco Van Dormael
+in einem katholischen Umfeld aufgewachsen ist, stammt aus einer
+katholischen Familie italienischer Herkunft. Er studiert Kommunikation
+und arbeitet zunächst in der Werbung, bevor er sich spät, aber
+entschieden der Literatur zuwendet. Seit den 1970er-Jahren entwickelt er
+sich zu einem der bedeutendsten Chronisten der Spätmoderne. Seine Romane
+kreisen um das Bewusstsein in technologisch beschleunigten Zeiten, die
+Unsichtbarkeit von Macht, die Auflösung individueller Identität und die
+Frage, was Sprache noch retten kann.
 
-Inhalt: Am Tag des Super Bowl, mitten in einem New Yorker Wohnzimmer, fallen sämtliche elektronischen Systeme aus. Bildschirme erlöschen. Kein Fernsehen, kein Telefon, kein Internet. Eine kleine Gruppe von Menschen -- ein Ehepaar, ein Freund, ein ehemaliger Physikprofessor und dessen Frau -- sitzt zusammen, während draußen eine Welt im technischen Blackout versinkt. Der Roman beginnt mit einer prekären Flugzeuglandung und endet in einer fast rituellen Zusammenkunft bei Kerzenschein. Die Gespräche taumeln zwischen Alltagsbanalitäten, Halbsätzen über Einstein, Sonnenstürmen und digitalen Kontrollregimen. Die Worte werden weniger, die Pausen länger. Jeder Rückgriff auf eine Erklärung -- Sonnenflecken, Systemversagen -- führt tiefer in eine Leere hinein. Die Handlung bleibt fragmentarisch, fast statisch. Aber gerade darin liegt das Programm des Romans: In der Stille, in der plötzlichen Entelechie des Schweigens, enthüllt sich die Fragilität des modernen Lebens. Was geschieht mit uns, wenn der Informationsfluss endet?
+Inhalt: Am Tag des Super Bowl, mitten in einem New Yorker Wohnzimmer,
+fallen sämtliche elektronischen Systeme aus. Bildschirme erlöschen. Kein
+Fernsehen, kein Telefon, kein Internet. Eine kleine Gruppe von Menschen,
+ein Ehepaar, ein Freund, ein ehemaliger Physikprofessor und dessen Frau,
+sitzt zusammen, während draußen eine Welt im technischen Blackout
+versinkt. Der Roman beginnt mit einer prekären Flugzeuglandung und endet
+in einer fast rituellen Zusammenkunft bei Kerzenschein. Die Gespräche
+taumeln zwischen Alltagsbanalitäten, Halbsätzen über Einstein,
+Sonnenstürmen und digitalen Kontrollregimen. Die Worte werden weniger,
+die Pausen länger. Jeder Rückgriff auf eine Erklärung, Sonnenflecken,
+Systemversagen, führt tiefer in eine Leere hinein. Die Handlung bleibt
+fragmentarisch, fast statisch. Aber gerade darin liegt das Programm des
+Romans: In der Stille, in der plötzlichen Entelechie des Schweigens,
+enthüllt sich die Fragilität des modernen Lebens. Was geschieht mit uns,
+wenn der Informationsfluss endet?
 
-Wertung: „Die Stille" ist kein Katastrophenroman. Es ist ein meditativer Text über die Abwesenheit von Datenströmen, über die Entblößung des Menschlichen im Moment der medialen Entwöhnung. Der Titel meint nicht bloß das Verstummen der Technik, sondern das Verstummen der Deutungen. DeLillo legt eine stille Miniatur vor, eine Art literarische Meditation über das Ende der Vermittlung. In der Stille offenbart sich nicht Erlösung, sondern das Verstummen der Gewissheiten. Und doch birgt diese Stille eine Ahnung von Transzendenz -- ein leiser Nachhall metaphysischer Fragen, der durch Einsteins Satz „Ich weiß nicht, mit welchen Waffen der dritte Weltkrieg ausgetragen wird..." hindurchtönt. Der Text ist minimalistisch, fast theaterhaft. Die Charaktere sprechen wie aus dem Off -- verlangsamt, wie in einem inneren Echo. Jeder scheint mit sich selbst zu sprechen, auch wenn andere im Raum sind. Und was bleibt, ist die Erinnerung an eine Welt, die sich für unersetzbar hielt -- bis sie verschwand.
+Wertung: Die Stille ist kein Katastrophenroman. Es ist ein meditativer
+Text über die Abwesenheit von Datenströmen, über die Entblößung des
+Menschlichen im Moment der medialen Entwöhnung. Der Titel meint nicht
+bloß das Verstummen der Technik, sondern das Verstummen der Deutungen.
+DeLillo legt eine stille Miniatur vor, eine Art literarische Meditation
+über das Ende der Vermittlung. In der Stille offenbart sich nicht
+Erlösung, sondern das Verstummen der Gewissheiten. Und doch birgt diese
+Stille eine Ahnung von Transzendenz, ein leiser Nachhall metaphysischer
+Fragen, der durch Einsteins Satz „Ich weiß nicht, mit welchen Waffen der
+dritte Weltkrieg ausgetragen wird\...\" hindurchtönt. Der Text ist
+minimalistisch, fast theaterhaft. Die Charaktere sprechen wie aus dem
+Off, verlangsamt, wie in einem inneren Echo. Jeder scheint mit sich
+selbst zu sprechen, auch wenn andere im Raum sind. Und was bleibt, ist
+die Erinnerung an eine Welt, die sich für unersetzbar hielt, bis sie
+verschwand.
 
-Vergleich mit Der Omegapunkt: Während Der Omegapunkt von metaphysischer Dichte getragen ist -- ein Roman, der mit Teilhard de Chardins Visionen flirtet, die Wüste als Raum der Erkenntnis erforscht und das Verstummen als Eintritt in die Ewigkeit deutet --, bleibt Die Stille auf eine radikal gegenwärtige Leere fokussiert. Im Omegapunkt führt das Verstummen in die Tiefe, in eine mystisch aufgeladene Sphäre jenseits der Zeit. Die Wüste steht dort für das Göttliche im Rückzug, für die langsame Auslöschung des Egos in einer kontemplativen Ekstase. Die Stille ist hier der Auftakt zu Erkenntnis. In Die Stille hingegen ist das Schweigen nicht Erlösung, sondern Entzug. Es bleibt keine göttliche Sphäre, kein metaphysisches Ziel -- sondern ein Wohnzimmer mit Menschen, die von Einsteins Sprache träumen, aber nicht mehr sprechen können. Der Omegapunkt führt in eine jenseitige Ordnung; Die Stille konfrontiert uns mit dem Verschwinden der Ordnung überhaupt.
+\### Vergleich mit Der Omegapunkt
 
-Fazit: Die Stille ist ein Spätwerk, das wie ein literarischer Abspann wirkt. Es ist DeLillos kürzestes und wohl auch kargstes Buch. Sprachlich konzentriert, thematisch entkernt, formbewusst leer. Es ist nicht die Antwort auf eine Krise, sondern die Frage, ob wir überhaupt noch auf Krisen antworten können -- ohne Netz, ohne Bildschirm, ohne Worte.
+Während Der Omegapunkt von metaphysischer Dichte getragen ist, ein
+Roman, der mit Teilhard de Chardins Visionen flirtet, die Wüste als Raum
+der Erkenntnis erforscht und das Verstummen als Eintritt in die Ewigkeit
+deutet -, bleibt Die Stille auf eine radikal gegenwärtige Leere
+fokussiert. Im Omegapunkt führt das Verstummen in die Tiefe, in eine
+mystisch aufgeladene Sphäre jenseits der Zeit. Die Wüste steht dort für
+das Göttliche im Rückzug, für die langsame Auslöschung des Egos in einer
+kontemplativen Ekstase. Die Stille ist hier der Auftakt zu Erkenntnis.
+In Die Stille hingegen ist das Schweigen nicht Erlösung, sondern Entzug.
+Es bleibt keine göttliche Sphäre, kein metaphysisches Ziel, sondern ein
+Wohnzimmer mit Menschen, die von Einsteins Sprache träumen, aber nicht
+mehr sprechen können. Der Omegapunkt führt in eine jenseitige Ordnung;
+Die Stille konfrontiert uns mit dem Verschwinden der Ordnung überhaupt.
 
-Wer im Omegapunkt noch Spuren einer Offenbarung entdeckt hat, findet hier nur noch das Echo einer untergegangenen Welt. Und vielleicht genau darin liegt die stille Radikalität dieses Textes.
+# Zwei DeLillo-Stimmen
 
-# Mr. Nobody
+Es lohnt sich, die beiden DeLillo-Bücher nicht nur gegeneinander,
+sondern als zwei Stimmen innerhalb desselben Denkens zu lesen. Der
+Omega-Punkt tendiert zur metaphysischen Tiefe: Die Stille ist
+Zeitlosigkeit, die Wüste ist ein Raum der Erkenntnis, das Verschwinden
+der Tochter ist ein Ereignis, das über das Kriminalistische hinausweist.
+Die Stille tendiert zur radikalen Leere: Das Verstummen der Technik
+führt nicht in die Tiefe, sondern in das Wohnzimmer, in dem Menschen
+nicht mehr sprechen können. Der eine Text lässt die Transzendenz
+durchscheinen. Der andere lässt sie verschwinden.
 
-"Mr. Nobody" von Jaco Van Dormael 2009
+Beide Stimmen gehören zu DeLillo. Aber sie gehören nicht zusammen.
+Zwischen ihnen liegt kein Übergang, keine Entwicklung, keine Versöhnung.
+Sie sind zwei Zustände desselben Denkens, und das Denken selbst weiß
+nicht, welcher Zustand der wahre ist. Genau darin liegt die
+DeLillo-Perspektive auf den Omega-Punkt: Sie ist nicht einseitig. Sie
+ist innerlich gespalten. Wer sie auf einen Ton festlegt, sei es die
+Tiefe oder die Leere -, verliert genau das, was sie ausmacht.
 
-Jaco Van Dormael:
+Fazit: Die Stille ist ein Spätwerk, das wie ein literarischer Abspann
+wirkt. Es ist DeLillos kürzestes und wohl auch kargstes Buch. Sprachlich
+konzentriert, thematisch entkernt, formbewusst leer. Es ist nicht die
+Antwort auf eine Krise, sondern die Frage, ob wir überhaupt noch auf
+Krisen antworten können, ohne Netz, ohne Bildschirm, ohne Worte.
 
-Jaco Van Dormael ist ein belgischer Regisseur und Drehbuchautor, der wie Fon DeLillo in einem katholisch geprägten Umfeld aufwuchs und der für seine innovativen und visuell beeindruckenden Filme bekannt ist. Geboren am 9. Februar 1957 in Ixelles, Belgien, lernte und arbeitete er in den Bereichen Film und Theater. Van Dormael wurde international bekannt durch seine Filme. Er zeichnet sich durch seinen handwerklich beeindruckenden, einzigartigen Stil aus, der eine Mischung aus Surrealismus, Romantik und philosophischen Themen verkörpert.
+Wer im Omegapunkt noch Spuren einer Offenbarung entdeckt hat, findet
+hier nur noch das Echo einer untergegangenen Welt. Und vielleicht genau
+darin liegt die stille Radikalität dieses Textes.
 
-Handlung:
+# Mr. Nobody
 
-Der Film "Mr. Nobody" beginnt mit einer symbolischen Szene, in der eine Taube in einer Skinnerbox trainiert wird. Diese Szene symbolisiert das Konzept der Konditionierung und wie wir oft glauben, dass unser zufälliges Verhalten ursächlich für Ereignisse ist, was oft eine Illusion darstellt.
+Mr. Nobody von Jaco Van Dormael, 2009.
 
-In den folgenden Einstellungen taucht eine mit sich identische Person unkommentiert in voneinander unabhängigen alternativen Geschichten auf.
+Autor: Jaco Van Dormael ist ein belgischer Regisseur und Drehbuchautor,
+der wie Don DeLillo in einem katholisch geprägten Umfeld aufwuchs und
+der für seine innovativen und visuell beeindruckenden Filme bekannt ist.
+Geboren am 9. Februar 1957 in Ixelles, Belgien, lernte und arbeitete er
+in den Bereichen Film und Theater. Van Dormael wurde international
+bekannt durch seine Filme. Er zeichnet sich durch seinen handwerklich
+beeindruckenden, einzigartigen Stil aus, der eine Mischung aus
+Surrealismus, Romantik und philosophischen Themen verkörpert.
 
-Der Zuschauer erfährt erst dann, dass diese Person Mr. Nobody der letzte sterbliche Mensch ist und sein bevorstehender Tod live in den Medien übertragen wird, begleitet von einem Psychiater und später einem Journalisten.
+Handlung: Der Film Mr. Nobody beginnt mit einer symbolischen Szene, in
+der eine Taube in einer Skinnerbox trainiert wird. Diese Szene
+symbolisiert das Konzept der Konditionierung und wie wir oft glauben,
+dass unser zufälliges Verhalten ursächlich für Ereignisse ist, was oft
+eine Illusion darstellt.
 
-Der Psychiater führt Mr. Nobody durch Hypnose in die Zeit vor seiner Geburt zurück. Hier wird enthüllt, dass vor der Geburt alles Wissen über mögliche Entwicklungen und Lebenswege vorhanden ist, aber die sogenannten "Engel des Vergessens" nehmen dieses Wissen bei der Geburt weg. Bei Mr. Nobody haben die Engel vergessen, es zu nehmen, was ihm ermöglicht, sich an alle möglichen Leben zu erinnern und auch die zukünftigen Leben zu kennen.
+In den folgenden Einstellungen taucht eine mit sich identische Person
+unkommentiert in voneinander unabhängigen alternativen Geschichten auf.
 
-Die Geschichte konzentriert sich auf einen jungen Jungen, der bei der Trennung seiner Eltern vor der Wahl steht, zu seinem Vater oder seiner Mutter zu gehen. Er erinnert sich an drei Geschichten mit unterschiedlichen Ehepartnern und Kindern, sowie an eine Sci-Fi-Geschichte über die Marsbesiedelung, die er als Jugendlicher verfasst hat. Diese Geschichte ist ebenso real wie die anderen, da sie möglich ist.
+Der Zuschauer erfährt erst dann, dass diese Person Mr. Nobody der letzte
+sterbliche Mensch ist und sein bevorstehender Tod live in den Medien
+übertragen wird, begleitet von einem Psychiater und später einem
+Journalisten.
 
-Im Laufe seiner möglichen Leben ist Mr. Nobody auch als Fernsehmoderator tätig und behandelt in seiner Dokumentationssendung populärwissenschaftliche Themen wie die Stringtheorie, Dimensionen der Zeit, Illusion und Wirklichkeit, das Mögliche und Entscheidungen.
+Der Psychiater führt Mr. Nobody durch Hypnose in die Zeit vor seiner
+Geburt zurück. Hier wird enthüllt, dass vor der Geburt alles Wissen über
+mögliche Entwicklungen und Lebenswege vorhanden ist, aber die
+sogenannten „Engel des Vergessens\" nehmen dieses Wissen bei der Geburt
+weg. Bei Mr. Nobody haben die Engel vergessen, es zu nehmen, was ihm
+ermöglicht, sich an alle möglichen Leben zu erinnern und auch die
+zukünftigen Leben zu kennen.
 
-Der Schmetterlingseffekt wird durch ein gekochtes Ei ausgelöst, als ein Regentropfen eine Telefonnummer verwischt, wodurch wichtige Verbindungen verloren gehen.
+Die Geschichte konzentriert sich auf einen jungen Jungen, der bei der
+Trennung seiner Eltern vor der Wahl steht, zu seinem Vater oder seiner
+Mutter zu gehen. Er erinnert sich an drei Geschichten mit
+unterschiedlichen Ehepartnern und Kindern, sowie an eine
+Sci-Fi-Geschichte über die Marsbesiedelung, die er als Jugendlicher
+verfasst hat. Diese Geschichte ist ebenso real wie die anderen, da sie
+möglich ist.
 
-Eine Version von Mr. Nobody erfährt aus einem aufgezeichneten Video von einer älteren Version von ihm, dass er in den Erinnerungen eines Jungen existiert, der sich nicht zwischen Vater und Mutter entscheiden kann.
+Im Laufe seiner möglichen Leben ist Mr. Nobody auch als Fernsehmoderator
+tätig und behandelt in seiner Dokumentationssendung
+populärwissenschaftliche Themen wie die Stringtheorie, Dimensionen der
+Zeit, Illusion und Wirklichkeit, das Mögliche und Entscheidungen.
 
-Dem Journalisten, der das Sterben von Mr. Nobody dokumentiert, sagt er, dass jedes seiner Leben das richtige Leben ist, jeder Pfad der richtige Pfad, und dass diese Pfade vom sich entscheidenden Jungen erschaffen werden.
+Der Schmetterlingseffekt wird durch ein gekochtes Ei ausgelöst, als ein
+Regentropfen eine Telefonnummer verwischt, wodurch wichtige Verbindungen
+verloren gehen.
 
-Schließlich läuft die Zeit ab einem bestimmten Datum rückwärts auf den Zeitpunkt der Entscheidung zwischen Vater und Mutter zu, doch der Junge wählt nicht und läuft davon.
+Eine Version von Mr. Nobody erfährt aus einem aufgezeichneten Video von
+einer älteren Version von ihm, dass er in den Erinnerungen eines Jungen
+existiert, der sich nicht zwischen Vater und Mutter entscheiden kann.
 
-Interpretation:
+Dem Journalisten, der das Sterben von Mr. Nobody dokumentiert, sagt er,
+dass jedes seiner Leben das richtige Leben ist, jeder Pfad der richtige
+Pfad, und dass diese Pfade vom sich entscheidenden Jungen erschaffen
+werden.
 
-"Mr. Nobody" ist ein bemerkenswerter Film, der uns in die Welt der Entscheidungen und ihrer Auswirkungen auf verschiedene Realitäten entführt. Diese verschiedenen Realitäten wirken wie die Idee vieler alternativer Welten, die der Form und Substanz nach einander gleich sind und sich durch den Einfluss von alternativen Entscheidungen der verschiedenen Versionen der handelnden Personen unterscheiden.
+Schließlich läuft die Zeit ab einem bestimmten Datum rückwärts auf den
+Zeitpunkt der Entscheidung zwischen Vater und Mutter zu, doch der Junge
+wählt nicht und läuft davon.
 
-Es ist faszinierend zu sehen, wie der Protagonist, Mr. Nobody, seine verschiedenen Lebenswege und Möglichkeiten durchlebt und wie dies unser Verständnis von Entscheidungen und Realität herausfordert.
+Interpretation: Mr. Nobody ist ein bemerkenswerter Film, der uns in die
+Welt der Entscheidungen und ihrer Auswirkungen auf verschiedene
+Realitäten entführt. Diese verschiedenen Realitäten wirken wie die Idee
+vieler alternativer Welten, die der Form und Substanz nach einander
+gleich sind und sich durch den Einfluss von alternativen Entscheidungen
+der verschiedenen Versionen der handelnden Personen unterscheiden.
 
-Hierbei entstehen parallel verschiedene Realitäten basierend auf unterschiedlichen Entscheidungen und Verläufen. Jeder WEg ist dabei der richtige Weg und real ist, was möglich ist. Deshalb ist die in der Geschichte erzählte Geschichte einer Marsbesiedelung so real wie jede andere Geschichte der Versionen von Mr. Nobody.
+Es ist faszinierend zu sehen, wie der Protagonist, Mr. Nobody, seine
+verschiedenen Lebenswege und Möglichkeiten durchlebt und wie dies unser
+Verständnis von Entscheidungen und Realität herausfordert.
 
-Die Konzeption der "Engel des Vergessens", die einem bei der Geburt jegliches Wissen über mögliche Entwicklungen nehmen, kann als metaphysische Metapher für diese Viele-Welten-Interpretation und den Omegapunkt betrachtet werden. Und deshalb muss der Omegapunkt jede Version von Mr. Nobody gelebt haben, damit er auch dieses Wissen hat. In "Mr. Nobody" wird diese Idee in der Integration aller Geschichten und Möglichkeiten dargestellt, die das Leben des Protagonisten ausmachen.
+Hierbei entstehen parallel verschiedene Realitäten basierend auf
+unterschiedlichen Entscheidungen und Verläufen. Jeder Weg ist dabei der
+richtige Weg und real ist, was möglich ist. Deshalb ist die in der
+Geschichte erzählte Geschichte einer Marsbesiedelung so real wie jede
+andere Geschichte der Versionen von Mr. Nobody.
 
-Persönliche Wertung:
+Die Konzeption der „Engel des Vergessens\", die einem bei der Geburt
+jegliches Wissen über mögliche Entwicklungen nehmen, kann als
+metaphysische Metapher für diese Viele-Welten-Interpretation und den
+Omegapunkt betrachtet werden. Und deshalb muss der Omegapunkt jede
+Version von Mr. Nobody gelebt haben, damit er auch dieses Wissen hat. In
+Mr. Nobody wird diese Idee in der Integration aller Geschichten und
+Möglichkeiten dargestellt, die das Leben des Protagonisten ausmachen.
 
-Unser Leben ist leidvoll (Geburt, Alter, Krankheit, Sterben). Es rinnt uns wie Sand durch unsere Finger. Nicht einmal einen Sinn, den wir ihm geben, können wir festhalten. Wir alle müssen sterben und es wäre gut, dann ruhig und gelassen zu sein. Still ist unser Leben selbst dann nicht, wenn alles ruhig ist und kein Geräusch zu hören ist. Vollkommene Ruhe und Gelassenheit sind Zeitlosigkeit. Zeitlosigkeit ist ein Zustand, den wir nie im Leben ganz erreichen können. Zeit ist Zukunft, Gegenwart und Vergangenheit. Zukunft sind die offenen Möglichkeiten und die zu ihnen gehörenden möglichen Geschichten. Vergangenheit sind die Geschichten, an die wir uns erinnern können. Gegenwart ist das bewusste Übergehen der Möglichkeiten und ihrer möglichen Geschichten in die Vergangenheit. Zeitlosigkeit ist das Verweilen in diesem Moment, der alle Möglichkeiten und ihre möglichen Geschichten kennt und offen hält. An diesem Ort gibt es kein Leid, keine Lust und kein Verlangen und das Wissen über alle Möglichkeiten und alle möglichen Geschichten ist vollständig. An diesem Ort gibt es aber auch, weil kein Leid und keine Lust, keine Zeit und kein Zeitverrinnen ist, kein Ich, kein Selbst und kein Bewusstsein. Das ist nur dann kein Widerspruch zu vollkommenem Wissen, wenn von diesem Ort aus kontinuierlich alle Leben geboren, gelebt und erlitten werden, bis alles kontinuierlich in die Zeitlosigkeit, in die Ruhe und Gelassenheit und in vollkommenes Wissen eingeht.
+Persönliche Wertung: Unser Leben ist leidvoll (Geburt, Alter, Krankheit,
+Sterben). Es rinnt uns wie Sand durch unsere Finger. Nicht einmal einen
+Sinn, den wir ihm geben, können wir festhalten. Wir alle müssen sterben
+und es wäre gut, dann ruhig und gelassen zu sein. Still ist unser Leben
+selbst dann nicht, wenn alles ruhig ist und kein Geräusch zu hören ist.
+Vollkommene Ruhe und Gelassenheit sind Zeitlosigkeit. Zeitlosigkeit ist
+ein Zustand, den wir nie im Leben ganz erreichen können. Zeit ist
+Zukunft, Gegenwart und Vergangenheit. Zukunft sind die offenen
+Möglichkeiten und die zu ihnen gehörenden möglichen Geschichten.
+Vergangenheit sind die Geschichten, an die wir uns erinnern können.
+Gegenwart ist das bewusste Übergehen der Möglichkeiten und ihrer
+möglichen Geschichten in die Vergangenheit. Zeitlosigkeit ist das
+Verweilen in diesem Moment, der alle Möglichkeiten und ihre möglichen
+Geschichten kennt und offen hält. An diesem Ort gibt es kein Leid, keine
+Lust und kein Verlangen und das Wissen über alle Möglichkeiten und alle
+möglichen Geschichten ist vollständig. An diesem Ort gibt es aber auch,
+weil kein Leid und keine Lust, keine Zeit und kein Zeitverrinnen ist,
+kein Ich, kein Selbst und kein Bewusstsein. Das ist nur dann kein
+Widerspruch zu vollkommenem Wissen, wenn von diesem Ort aus
+kontinuierlich alle Leben geboren, gelebt und erlitten werden, bis alles
+kontinuierlich in die Zeitlosigkeit, in die Ruhe und Gelassenheit und in
+vollkommenes Wissen eingeht.
 
 # Das brandneue Testament
 
-„Das brandneue Testament" von Jaco Van Dormael (2015) Jaco Van Dormael Jaco Van Dormael ist ein belgischer Regisseur und Drehbuchautor, der wie Don DeLillo in einem katholisch geprägten Umfeld aufwuchs und der für seine eigenwilligen, visuell wie gedanklich außergewöhnlichen Filme bekannt ist. Geboren am 9. Februar 1957 in Ixelles, Belgien, verbindet er in seinem Werk surreale Bildwelten mit philosophischen, existenziellen und oft zutiefst menschlichen Fragestellungen. Seine Filme entziehen sich einfachen Genrezuordnungen und kreisen um Zeit, Möglichkeit, Freiheit, Leid und Sinn. Wie schon in Mr. Nobody arbeitet Van Dormael auch in Das brandneue Testament mit Brüchen, Ironie und metaphysischen Bildern, ohne dabei je den Blick für das Konkrete und Alltägliche zu verlieren. Handlung Das brandneue Testament beginnt mit einer provokanten Setzung: Gott existiert -- und lebt in Brüssel. Nicht im Himmel, nicht im Jenseits, sondern in einer Hochhauswohnung. Er ist kein liebender Schöpfer, sondern ein cholerischer, kleinlicher und sadistischer Familienvater. Seine Macht besteht nicht in Weisheit, sondern in Kontrolle. Er regiert über Angst, Schuld und Strafe und verwaltet das Schicksal der Menschen über einen Computer. Seine Tochter Éa lebt in dieser Wohnung wie in einem Gefängnis. Der Vater tyrannisiert sie und ihre Mutter, der Sohn Jesus ist nur noch als ferne, missachtete Erinnerung präsent. Als Éa den verbotenen Raum betritt, in dem der Computer steht, wird sie brutal bestraft. Diese Gewalt ist der Wendepunkt. Éa beschließt, sich dem Vater zu entziehen. Sie sendet allen Menschen ihr jeweiliges Sterbedatum und entzieht Gott damit sein wesentliches Machtinstrument: die Angst vor dem Ungewissen. Anschließend flieht sie durch einen Waschsalon in die Welt hinaus. Draußen sammelt sie sechs neue „Apostel", Menschen am Rand der Gesellschaft, mit gebrochenen Biografien, unerfüllten Sehnsüchten und einer oft wortlosen, aber tief verankerten Sinnorientierung. Parallel dazu verliert Gott außerhalb seiner Wohnung rasch jede Autorität. In der realen Welt ist er orientierungslos, aggressiv, unfähig zur Beziehung. Er scheitert an Menschen, Institutionen und schließlich an sich selbst. Am Ende wird er verhaftet und nach Usbekistan abgeschoben -- nicht als göttliche Strafe, sondern als groteske Konsequenz seiner Unfähigkeit, Mensch unter Menschen zu sein. Währenddessen übernimmt die Mutter -- lange Zeit unsichtbar und unterdrückt -- die Kontrolle über den Computer. Sie widerruft die Sterbedaten und verwandelt die Welt. Gott wird entmachtet, nicht durch Gewalt, sondern durch Bedeutungslosigkeit.
+Das brandneue Testament von Jaco Van Dormael, 2015.
 
-Interpretation Auf den ersten Blick wird Das brandneue Testament häufig als Religionssatire oder als Erzählung über die Gründung einer neuen Religion gelesen. Diese Deutung greift jedoch zu kurz. Der Film handelt nicht von Religion, sondern von einem bestimmten Gottesbild. Genauer: von der Überwindung eines Gottes, der aus Angst, Schuld und Strafe besteht. Dieser Gott trägt unverkennbar Züge eines augustinisch-calvinistischen Denkens, ohne je explizit benannt zu werden: totale Vorherbestimmung, moralische Kontrolle, Leiden als notwendige Ordnung, Liebe als Belohnung für Gehorsam. Éas Handlung ist keine Offenbarung und keine Heilslehre. Sie gründet nichts Neues. Sie entzieht dem Vater lediglich die Macht. Indem die Menschen ihr Sterbedatum kennen, verlieren sie nicht den Sinn, sondern die Angst. Sie beginnen zu leben, nicht weil sie erlöst sind, sondern weil sie frei werden. Die sechs Apostel verkörpern keine Dogmen, sondern gelebte Möglichkeiten. Ihre Geschichten zeigen, dass Sinn nicht aus Ordnung entsteht, sondern aus Beziehung, Aufmerksamkeit und Annahme. Die Mutter schließlich ist die eigentliche Revolution des Films: Sie verändert die Welt nicht durch neue Gebote, sondern durch das Aufheben der alten. In diesem Sinn ist Das brandneue Testament keine Parodie des Christentums, sondern eine leise Rückkehr zu dessen Geist -- ohne ihn zu benennen. Nicht Gesetz, sondern Befreiung. Nicht Schuld, sondern Beziehung. Nicht Allmacht, sondern Ohnmacht, die akzeptiert wird. Persönliche Wertung Das eigentliche Problem des Films -- und zugleich seine größte Stärke -- wird oft übersehen: Augustinus wird nicht erkannt. Der Zuschauer lacht über Gott, über seine Lächerlichkeit, seine Grausamkeit, seine Hilflosigkeit. Doch gemeint ist nicht Gott, sondern ein Gottesbild, das tief in westlicher Kultur, Moral und Selbstverständnis verankert ist. Der Film zeigt: Angst ist kein Naturzustand. Schuld ist kein ontologisches Prinzip. Strafe ist keine Voraussetzung für Sinn. Freiheit entsteht nicht durch neue Lehren, sondern durch das Ende falscher Gewissheiten. Das brandneue Testament ist deshalb kein Film über Religion, sondern über ihre Entmachtung dort, wo sie zum Instrument der Kontrolle geworden ist. Er ist kein Aufruf zum Glauben, sondern zur Menschlichkeit. Kein neues Testament -- sondern das Ende eines alten. Und vielleicht beginnt genau dort, wo Gott nicht mehr herrscht, etwas, das man nicht benennen muss, um es zu leben.
+Autor: Jaco Van Dormael ist ein belgischer Regisseur und Drehbuchautor,
+der wie Don DeLillo in einem katholisch geprägten Umfeld aufwuchs und
+der für seine eigenwilligen, visuell wie gedanklich außergewöhnlichen
+Filme bekannt ist. Geboren am 9. Februar 1957 in Ixelles, Belgien,
+verbindet er in seinem Werk surreale Bildwelten mit philosophischen,
+existenziellen und oft zutiefst menschlichen Fragestellungen. Seine
+Filme entziehen sich einfachen Genrezuordnungen und kreisen um Zeit,
+Möglichkeit, Freiheit, Leid und Sinn. Wie schon in Mr. Nobody arbeitet
+Van Dormael auch in Das brandneue Testament mit Brüchen, Ironie und
+metaphysischen Bildern, ohne dabei je den Blick für das Konkrete und
+Alltägliche zu verlieren.
+
+Handlung: Das brandneue Testament beginnt mit einer provokanten Setzung:
+Gott existiert, und lebt in Brüssel. Nicht im Himmel, nicht im Jenseits,
+sondern in einer Hochhauswohnung. Er ist kein liebender Schöpfer,
+sondern ein cholerischer, kleinlicher und sadistischer Familienvater.
+Seine Macht besteht nicht in Weisheit, sondern in Kontrolle. Er regiert
+über Angst, Schuld und Strafe und verwaltet das Schicksal der Menschen
+über einen Computer. Seine Tochter Éa lebt in dieser Wohnung wie in
+einem Gefängnis. Der Vater tyrannisiert sie und ihre Mutter, der Sohn
+Jesus ist nur noch als ferne, missachtete Erinnerung präsent. Als Éa den
+verbotenen Raum betritt, in dem der Computer steht, wird sie brutal
+bestraft. Diese Gewalt ist der Wendepunkt. Éa beschließt, sich dem Vater
+zu entziehen. Sie sendet allen Menschen ihr jeweiliges Sterbedatum und
+entzieht Gott damit sein wesentliches Machtinstrument: die Angst vor dem
+Ungewissen. Anschließend flieht sie durch einen Waschsalon in die Welt
+hinaus. Draußen sammelt sie sechs neue „Apostel\", Menschen am Rand der
+Gesellschaft, mit gebrochenen Biografien, unerfüllten Sehnsüchten und
+einer oft wortlosen, aber tief verankerten Sinnorientierung. Parallel
+dazu verliert Gott außerhalb seiner Wohnung rasch jede Autorität. In der
+realen Welt ist er orientierungslos, aggressiv, unfähig zur Beziehung.
+Er scheitert an Menschen, Institutionen und schließlich an sich selbst.
+Am Ende wird er verhaftet und nach Usbekistan abgeschoben, nicht als
+göttliche Strafe, sondern als groteske Konsequenz seiner Unfähigkeit,
+Mensch unter Menschen zu sein. Währenddessen übernimmt die Mutter, lange
+Zeit unsichtbar und unterdrückt, die Kontrolle über den Computer. Sie
+widerruft die Sterbedaten und verwandelt die Welt. Gott wird entmachtet,
+nicht durch Gewalt, sondern durch Bedeutungslosigkeit.
+
+Interpretation: Auf den ersten Blick wird Das brandneue Testament häufig
+als Religionssatire oder als Erzählung über die Gründung einer neuen
+Religion gelesen. Diese Deutung greift jedoch zu kurz. Der Film handelt
+nicht von Religion, sondern von einem bestimmten Gottesbild. Genauer:
+von der Überwindung eines Gottes, der aus Angst, Schuld und Strafe
+besteht. Dieser Gott trägt unverkennbar Züge eines
+augustinisch-calvinistischen Denkens, ohne je explizit benannt zu
+werden: totale Vorherbestimmung, moralische Kontrolle, Leiden als
+notwendige Ordnung, Liebe als Belohnung für Gehorsam. Éas Handlung ist
+keine Offenbarung und keine Heilslehre. Sie gründet nichts Neues. Sie
+entzieht dem Vater lediglich die Macht. Indem die Menschen ihr
+Sterbedatum kennen, verlieren sie nicht den Sinn, sondern die Angst. Sie
+beginnen zu leben, nicht weil sie erlöst sind, sondern weil sie frei
+werden. Die sechs Apostel verkörpern keine Dogmen, sondern gelebte
+Möglichkeiten. Ihre Geschichten zeigen, dass Sinn nicht aus Ordnung
+entsteht, sondern aus Beziehung, Aufmerksamkeit und Annahme. Die Mutter
+schließlich ist die eigentliche Revolution des Films: Sie verändert die
+Welt nicht durch neue Gebote, sondern durch das Aufheben der alten. In
+diesem Sinn ist Das brandneue Testament keine Parodie des Christentums,
+sondern eine leise Rückkehr zu dessen Geist, ohne ihn zu benennen. Nicht
+Gesetz, sondern Befreiung. Nicht Schuld, sondern Beziehung. Nicht
+Allmacht, sondern Ohnmacht, die akzeptiert wird.
+
+Persönliche Wertung: Das eigentliche Problem des Films, und zugleich
+seine größte Stärke, wird oft übersehen: Augustinus wird nicht erkannt.
+Der Zuschauer lacht über Gott, über seine Lächerlichkeit, seine
+Grausamkeit, seine Hilflosigkeit. Doch gemeint ist nicht Gott, sondern
+ein Gottesbild, das tief in westlicher Kultur, Moral und
+Selbstverständnis verankert ist. Der Film zeigt: Angst ist kein
+Naturzustand. Schuld ist kein ontologisches Prinzip. Strafe ist keine
+Voraussetzung für Sinn. Freiheit entsteht nicht durch neue Lehren,
+sondern durch das Ende falscher Gewissheiten. Das brandneue Testament
+ist deshalb kein Film über Religion, sondern über ihre Entmachtung dort,
+wo sie zum Instrument der Kontrolle geworden ist. Er ist kein Aufruf zum
+Glauben, sondern zur Menschlichkeit. Kein neues Testament, sondern das
+Ende eines alten. Und vielleicht beginnt genau dort, wo Gott nicht mehr
+herrscht, etwas, das man nicht benennen muss, um es zu leben.
+
+\### Die andere Seite des Grenzwerts
+
+Van Dormaels Filme sind nicht die Antwort auf DeLillo. Sie sind die
+andere Seite desselben Grenzwerts. Wo DeLillo die Kohärenz zeigt, die
+zerbricht, zeigt Van Dormael die Kohärenz, die sich vervielfacht. Wo
+DeLillo die Stille als Grundzustand denkt, denkt Van Dormael sie als
+Feld. Wo DeLillo den Omega-Punkt als Ausdünnung begreift, begreift Van
+Dormael ihn als Fülle.
+
+Es wäre ein Fehler, diese beiden Perspektiven gegeneinander
+auszuspielen, oder sie zu einer Synthese zu bringen. Sie sind nicht
+vereinbar. Sie sind gleichzeitig wahr, aber nicht zugleich sichtbar. Wer
+von DeLillo kommt, sieht die Steine. Wer von Van Dormael kommt, sieht
+die Verzweigungen. Beide sehen dasselbe, und sehen es anders. Der
+Omega-Punkt ist nicht das eine oder das andere. Er ist der Rand, an dem
+beide Perspektiven gelten, ohne sich zu berühren.
+
+Das ist die eigentliche Entdeckung dieser Analyse: nicht die Ähnlichkeit
+der Werke, sondern ihre Nicht-Vereinbarkeit. Nicht die gemeinsame
+Botschaft, sondern der gemeinsame Grenzwert. Und vielleicht ist genau
+das der Omega-Punkt, nicht ein Zustand, sondern ein Verhältnis. Nicht
+ein Ziel, sondern ein Rand.
 
 # Gott wohnt im dritten Stock
 
-„Gott wohnt im dritten Stock" -- Ein fiktiver Film Jaco Van Dormael zugeschrieben Jaco Van Dormael Auch in seinem Film Gott wohnt im dritten Stock bleibt Jaco Van Dormael dem Stil treu, der sein Werk seit jeher prägt: eine eigenwillige Verbindung aus leiser Komik, existenzieller Schwere und philosophischer Tiefenschärfe. Van Dormael erzählt nicht linear, nicht didaktisch, sondern in Bildern, Brüchen und Bedeutungsverschiebungen. Wie schon in Mr. Nobody und Das brandneue Testament interessiert ihn weniger die Antwort als die Frage, weniger die Ordnung als das, was aus ihr herausfällt. Dieser Film wirkt wie eine Verdichtung zentraler Motive seines Œuvres: Zeit, Schuld, Freiheit, Möglichkeit -- und die Frage, wie Menschen leben, wenn die Instanz verschwindet, die vorgibt, alles zu wissen. Handlung „Gott wohnt im dritten Stock" beginnt mit einer irritierenden Klarstellung: Gott lebt in Brüssel. Nein -- nicht Gott, sondern Augustinus. Doch seine Tochter Éa nennt ihn so. Abfällig. Nicht aus Trotz, sondern aus Erfahrung. Augustinus regiert seine Familie durch Angst, Schuld und Strafe. Seine Wohnung ist kein Zuhause, sondern ein System. Alles ist geregelt, alles bewertet. Der Sohn Michael hat dieses System nicht überlebt. Sein Suizid ist eine Leerstelle, die nicht betrauert, sondern verwaltet wird. Für Augustinus ist Michaels Tod ein Scheitern der Ordnung. Für Éa ist er eine bleibende Präsenz. In Gedanken spricht sie mit ihm -- nicht als Jenseitsfigur, sondern als innerer Zeuge. Éa verlässt die Wohnung mit einem Korb voller Wäsche. Der Waschsalon wird zum Übergangsort. Sie kehrt nicht zurück. Draußen lebt sie unter sechs Obdachlosen, die sich gegenseitig tragen, ohne Forderungen zu stellen. Jeder von ihnen verkörpert eine andere Weise, Sinn zu leben: durch Geduld, durch Rituale, durch Geschichten, durch Musik, durch Aufmerksamkeit. Nichts davon wird erklärt, nichts wird missioniert. Augustinus sucht seine Tochter. Doch außerhalb seiner Wohnung verliert er jede Autorität. Seine Sprache greift ins Leere, seine Gewissheiten werden nicht geteilt. Auch er gerät unter Obdachlose, aber er bleibt fremd. Wo Éa angenommen wird, stößt er auf Distanz. Schließlich landet er in einer Kirche, fällt einem Sozialarbeiter auf und wird in eine psychiatrische Klinik eingewiesen. Parallel dazu beginnt die Mutter, sich zu lösen. Sie sucht Éa, findet sie, ohne sie zurückzuholen. Gemeinsam besuchen sie Augustinus in der Klinik. Das Gespräch bleibt ruhig. Es gibt keine Versöhnung, keine Anklage. Nur Präsenz. Der Film endet offen. Niemand wird erlöst. Niemand wird verurteilt. Doch Macht hat sich verschoben.
+„Gott wohnt im dritten Stock\", Ein fiktiver Film Jaco Van Dormael
+zugeschrieben.
 
-Interpretation Gott wohnt im dritten Stock ist kein Film über Religion. Er ist ein Film über ein bestimmtes Verständnis von Gott -- und über dessen Scheitern. Augustinus steht für ein Weltbild, in dem Sinn durch Ordnung entsteht, Schuld durch Abweichung, Sicherheit durch Kontrolle. Dieses Weltbild ist nicht explizit religiös, aber tief religiös strukturiert. Es braucht keine Dogmen, keine Rituale, keine heiligen Texte. Es lebt von Angst. Éas Befreiung besteht nicht im Glaubenswechsel, sondern im Verlassen dieses Systems. Die sechs Obdachlosen repräsentieren keine neue Lehre, sondern gelebte Alternativen: Sinn ohne Zwang, Gewissheit ohne Gewalt, Gemeinschaft ohne Schuldrechnung. Ihre Haltungen erinnern an östliche Denkweisen, ohne benannt zu werden. Sie sind nicht heilsbringend, sondern tragfähig. Bemerkenswert ist, dass Augustinus nicht als Monster gezeichnet wird. Er ist kein Bösewicht, sondern ein Mensch, der an seinen Gewissheiten festhält, auch wenn sie niemandem mehr nützen. Seine Einweisung in die Psychiatrie ist keine Strafe, sondern eine Unterbrechung. Ein Ort, an dem sein Denken erstmals keine Wirkung mehr hat. Der Film zeigt: Gott verschwindet nicht durch Widerlegung, sondern durch Irrelevanz. Macht endet dort, wo Angst nicht mehr geteilt wird. Persönliche Wertung Dieser fiktive Film ist vielleicht Van Dormaels konsequenteste Arbeit. Er ist leiser als Das brandneue Testament, weniger verspielt als Mr. Nobody, aber existenziell schärfer. Das eigentliche Drama liegt nicht in der Gewalt des Vaters, sondern in seiner Unsichtbarkeit. Augustinus wird lange nicht erkannt -- weder von seiner Familie noch von sich selbst. Genau darin liegt die gesellschaftliche Brisanz des Films: Er zeigt, wie tief Schuld- und Angstlogiken verankert sind, selbst dort, wo niemand mehr von Gott spricht. Gott wohnt im dritten Stock erzählt keine Erlösungsgeschichte. Er erzählt von Entmachtung. Von der Befreiung aus einem Denken, das Leben ordnet, aber nicht trägt. Am Ende bleibt Hoffnung -- nicht, weil alles gut wird, sondern weil nichts mehr gerechtfertigt werden muss. Und vielleicht ist genau das der Moment, in dem Gott den dritten Stock verlässt.
+Autor: Auch in seinem Film Gott wohnt im dritten Stock bleibt Jaco Van
+Dormael dem Stil treu, der sein Werk seit jeher prägt: eine eigenwillige
+Verbindung aus leiser Komik, existenzieller Schwere und philosophischer
+Tiefenschärfe. Van Dormael erzählt nicht linear, nicht didaktisch,
+sondern in Bildern, Brüchen und Bedeutungsverschiebungen. Wie schon in
+Mr. Nobody und Das brandneue Testament interessiert ihn weniger die
+Antwort als die Frage, weniger die Ordnung als das, was aus ihr
+herausfällt. Dieser Film wirkt wie eine Verdichtung zentraler Motive
+seines Œuvres: Zeit, Schuld, Freiheit, Möglichkeit, und die Frage, wie
+Menschen leben, wenn die Instanz verschwindet, die vorgibt, alles zu
+wissen.
+
+Handlung: Gott wohnt im dritten Stock beginnt mit einer irritierenden
+Klarstellung: Gott lebt in Brüssel. Nein, nicht Gott, sondern
+Augustinus. Doch seine Tochter Éa nennt ihn so. Abfällig. Nicht aus
+Trotz, sondern aus Erfahrung. Augustinus regiert seine Familie durch
+Angst, Schuld und Strafe. Seine Wohnung ist kein Zuhause, sondern ein
+System. Alles ist geregelt, alles bewertet. Der Sohn Michael hat dieses
+System nicht überlebt. Sein Suizid ist eine Leerstelle, die nicht
+betrauert, sondern verwaltet wird. Für Augustinus ist Michaels Tod ein
+Scheitern der Ordnung. Für Éa ist er eine bleibende Präsenz. In Gedanken
+spricht sie mit ihm, nicht als Jenseitsfigur, sondern als innerer Zeuge.
+Éa verlässt die Wohnung mit einem Korb voller Wäsche. Der Waschsalon
+wird zum Übergangsort. Sie kehrt nicht zurück. Draußen lebt sie unter
+sechs Obdachlosen, die sich gegenseitig tragen, ohne Forderungen zu
+stellen. Jeder von ihnen verkörpert eine andere Weise, Sinn zu leben:
+durch Geduld, durch Rituale, durch Geschichten, durch Musik, durch
+Aufmerksamkeit. Nichts davon wird erklärt, nichts wird missioniert.
+Augustinus sucht seine Tochter. Doch außerhalb seiner Wohnung verliert
+er jede Autorität. Seine Sprache greift ins Leere, seine Gewissheiten
+werden nicht geteilt. Auch er gerät unter Obdachlose, aber er bleibt
+fremd. Wo Éa angenommen wird, stößt er auf Distanz. Schließlich landet
+er in einer Kirche, fällt einem Sozialarbeiter auf und wird in eine
+psychiatrische Klinik eingewiesen. Parallel dazu beginnt die Mutter,
+sich zu lösen. Sie sucht Éa, findet sie, ohne sie zurückzuholen.
+Gemeinsam besuchen sie Augustinus in der Klinik. Das Gespräch bleibt
+ruhig. Es gibt keine Versöhnung, keine Anklage. Nur Präsenz. Der Film
+endet offen. Niemand wird erlöst. Niemand wird verurteilt. Doch Macht
+hat sich verschoben.
+
+Interpretation: Gott wohnt im dritten Stock ist kein Film über Religion.
+Er ist ein Film über ein bestimmtes Verständnis von Gott, und über
+dessen Scheitern. Augustinus steht für ein Weltbild, in dem Sinn durch
+Ordnung entsteht, Schuld durch Abweichung, Sicherheit durch Kontrolle.
+Dieses Weltbild ist nicht explizit religiös, aber tief religiös
+strukturiert. Es braucht keine Dogmen, keine Rituale, keine heiligen
+Texte. Es lebt von Angst. Éas Befreiung besteht nicht im
+Glaubenswechsel, sondern im Verlassen dieses Systems. Die sechs
+Obdachlosen repräsentieren keine neue Lehre, sondern gelebte
+Alternativen: Sinn ohne Zwang, Gewissheit ohne Gewalt, Gemeinschaft ohne
+Schuldrechnung. Ihre Haltungen erinnern an östliche Denkweisen, ohne
+benannt zu werden. Sie sind nicht heilsbringend, sondern tragfähig.
+Bemerkenswert ist, dass Augustinus nicht als Monster gezeichnet wird. Er
+ist kein Bösewicht, sondern ein Mensch, der an seinen Gewissheiten
+festhält, auch wenn sie niemandem mehr nützen. Seine Einweisung in die
+Psychiatrie ist keine Strafe, sondern eine Unterbrechung. Ein Ort, an
+dem sein Denken erstmals keine Wirkung mehr hat. Der Film zeigt: Gott
+verschwindet nicht durch Widerlegung, sondern durch Irrelevanz. Macht
+endet dort, wo Angst nicht mehr geteilt wird.
+
+#  
+
+# Die dritte Perspektive: Entmachtung durch Irrelevanz
+
+Es wäre verfehlt, Gott wohnt im dritten Stock einfach als eine weitere
+Van-Dormael-Variation zu lesen. Der Film ist keine Wiederholung von Das
+brandneue Testament. Er ist eine dritte Perspektive, eine, die weder
+DeLillo noch Van Dormael ist.
+
+Bei DeLillo verschwindet Gott durch Entzug. Die Stille ist leer. Bei Van
+Dormael verschwindet Gott durch Bedeutungslosigkeit. Die Fülle ist da,
+aber sie braucht Gott nicht mehr. Bei Gott wohnt im dritten Stock
+verschwindet Gott durch Irrelevanz. Augustinus regiert, aber niemand
+hört ihm zu. Seine Sprache greift ins Leere. Seine Gewissheiten werden
+nicht geteilt. Er ist nicht widerlegt, er ist nicht mehr wichtig.
+
+Das ist eine eigene Form der Entmachtung. Sie ist nicht metaphysisch.
+Sie ist nicht theologisch. Sie ist sozial. Augustinus wird in die
+Psychiatrie eingewiesen, weil sein Denken keine Wirkung mehr hat. Nicht
+weil es falsch wäre, weil es keine Adressaten mehr findet. Das ist die
+konsequenteste Form der Entmachtung: nicht Widerlegung, nicht
+Bedeutungslosigkeit, sondern Verlust des Publikums.
+
+Der Film zeigt damit etwas, das weder DeLillo noch Van Dormael zeigen:
+dass das augustinische Denken nicht dadurch endet, dass man es
+widerlegt. Es endet dadurch, dass niemand mehr hinhört. Und das ist kein
+Triumph. Es ist eine stille, fast traurige Bewegung. Augustinus
+verschwindet nicht in einem Feuerwerk. Er verschwindet in einem
+Wartezimmer.
+
+Persönliche Wertung: Dieser fiktive Film ist vielleicht Van Dormaels
+konsequenteste Arbeit. Er ist leiser als Das brandneue Testament,
+weniger verspielt als Mr. Nobody, aber existenziell schärfer. Das
+eigentliche Drama liegt nicht in der Gewalt des Vaters, sondern in
+seiner Unsichtbarkeit. Augustinus wird lange nicht erkannt, weder von
+seiner Familie noch von sich selbst. Genau darin liegt die
+gesellschaftliche Brisanz des Films: Er zeigt, wie tief Schuld- und
+Angstlogiken verankert sind, selbst dort, wo niemand mehr von Gott
+spricht. Gott wohnt im dritten Stock erzählt keine Erlösungsgeschichte.
+Er erzählt von Entmachtung. Von der Befreiung aus einem Denken, das
+Leben ordnet, aber nicht trägt. Am Ende bleibt Hoffnung, nicht, weil
+alles gut wird, sondern weil nichts mehr gerechtfertigt werden muss. Und
+vielleicht ist genau das der Moment, in dem Gott den dritten Stock
+verlässt.
+
+# Nachwort
+
+Dieser Essay hat nicht versucht, DeLillo und Van Dormael zu einer
+gemeinsamen Lehre zu verbinden. Im Gegenteil: Je genauer man beide
+liest, desto deutlicher wird ihre Nicht-Vereinbarkeit.
+
+Bei DeLillo erscheint der Grenzbereich als Ausdünnung. Die Zeit verliert
+ihre gewöhnliche Struktur, die Sprache verstummt, die Vermittlungen
+verschwinden. Im Omega-Punkt liegt die Möglichkeit einer Zeitlosigkeit,
+in der das Leben nicht mehr als fortlaufende Geschichte erscheint.
+
+Bei Van Dormael, vor allem in *Mr. Nobody*, erscheint derselbe
+Grenzbereich als Fülle. Die Wirklichkeit verzweigt sich in
+Möglichkeiten. Nicht eine Geschichte ist die wirkliche und alle anderen
+sind falsch, sondern jede mögliche Geschichte besitzt ihre eigene
+Wirklichkeit. Der Grenzbereich ist hier nicht Leere, sondern die
+Gesamtheit der Möglichkeiten.
+
+Beide Perspektiven lassen sich nicht zu einer dritten, harmonischen
+Perspektive verschmelzen. Gerade deshalb ist der Omega-Punkt in diesem
+Essay weder das eine noch das andere. Er ist der **Grenzwert**: der
+unerreichbare Rand, an dem die Ausdünnung DeLillos und die Fülle Van
+Dormaels zugleich denkbar werden, ohne einander aufzuheben.
+
+In diesem Sinn liegt auch die entscheidende Differenz zu Teilhard de
+Chardin. Teilhard macht aus dem Omega-Punkt einen Zielpunkt der
+Entwicklung. Er gibt der kosmischen und geistigen Geschichte eine
+Richtung, die auf Omega zuläuft. Der Grenzwert wird damit zum Telos.
+
+*Mr. Nobody* erlaubt eine andere Lesart. Wenn alle möglichen Geschichten
+wirklich sind, dann ist Omega nicht das Ziel, das am Ende einer
+Entwicklung erreicht wird. Es ist vielmehr die Grenze, an der die
+Gesamtheit der Möglichkeiten gedacht werden muss. **Teilhard macht aus
+dem Grenzwert eine Richtung; Van Dormael macht aus ihm einen
+Möglichkeitsraum.**
+
+Auch *Das brandneue Testament* lässt sich von hier aus anders lesen. Der
+Film entmachtet den strafenden, kontrollierenden Gott. Angst verliert
+ihre religiöse Grundlage, und mit ihr soll die Freiheit des Menschen
+zurückkehren. Doch damit ist das Problem noch nicht vollständig gelöst.
+Denn ein Gottesbild kann seine äußere Macht verlieren und dennoch als
+innere Struktur fortbestehen.
+
+Genau hier setzt *Gott wohnt im dritten Stock* an.
+
+Augustinus ist in diesem Film nicht mehr der souveräne Herrscher. Seine
+religiöse und soziale Macht ist gebrochen. Aber er ist deshalb nicht
+geheilt. Was fortbesteht, ist die Struktur seines Denkens: Schuld,
+Rechtfertigung, Kontrolle, Angst und das Bedürfnis nach einer letzten
+Ordnung. Der Gott kann aus der Welt verschwinden und als innere Ordnung
+im Menschen weiterleben.
+
+Das ist die säkulare Form des Problems: **Der säkulare Mensch muss nicht
+mehr an Gott glauben, um noch in Kategorien zu leben, die aus einem
+bestimmten Gottesbild hervorgegangen sind.** Der äußere Herrscher ist
+entmachtet; seine Krankheit ist geblieben.
+
+Darum ist *Gott wohnt im dritten Stock* keine bloße Fortsetzung von *Das
+brandneue Testament*. Während dort der Gott seine Macht verliert, fragt
+der fiktive Film, was geschieht, wenn die Macht zwar verschwunden ist,
+die von ihr geprägte Struktur aber weiterwirkt. Die Entmachtung ist
+real. Die Überwindung ist es nicht notwendig.
+
+Damit erhält auch die Spannung zwischen DeLillo und Van Dormael eine
+weitere Dimension. Es geht nicht nur darum, was am Ende der Zeit
+geschieht. Es geht auch darum, **welche Ordnungen wir auf dem Weg
+dorthin mit uns tragen**.
+
+Der Omega-Punkt ist deshalb keine Erlösungserzählung und keine neue
+Metaphysik. Er ist auch kein Zustand, den der Mensch erreichen könnte.
+Er ist der Rand, an dem die unterschiedlichen Möglichkeiten des Denkens
+sichtbar werden:
+
+die Stille und die Fülle,\
+die Ausdünnung und die Verzweigung,\
+die Zeitlosigkeit und die Möglichkeit,\
+die Entmachtung und das Fortleben einer alten Ordnung.
+
+Nichts davon muss zu einer letzten Synthese werden.
+
+Vielleicht liegt gerade darin die eigentliche Bedeutung des
+Omega-Punktes: **Er ist nicht das Ende, das auf uns wartet, sondern die
+Grenze unseres Denkens über Anfang, Ende, Zeit, Möglichkeit und Sinn.**
+
+Wer von DeLillo kommt, sieht an diesem Rand die Steine.
+
+Wer von Van Dormael kommt, sieht die Verzweigungen.
+
+Wer durch *Das brandneue Testament* geht, sieht einen Gott, der seine
+Macht verliert.
+
+Wer *Gott wohnt im dritten Stock* betritt, entdeckt, dass der
+entmachtete Gott dennoch als innere Ordnung weiterleben kann.
+
+Und das Pompeji-Projekt versucht nicht, eine dieser Perspektiven zur
+letzten Wahrheit zu erklären. Es führt sie an denselben Rand.
+
+Der Omega-Punkt ist deshalb **kein Ziel, keine Lösung und keine
+Synthese**.
+
+Er ist ein **unerreichbarer Grenzwert**.
+
+Und vielleicht besteht seine Bedeutung gerade darin, dass er die
+Spannung zwischen dem, was sich auflöst, und dem, was sich vervielfacht,
+nicht beendet.
+
+Er hält sie offen.
