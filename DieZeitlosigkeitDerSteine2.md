@@ -2,7 +2,7 @@
 Paul Koop
 Die Zeitlosigkeit der Steine
 ---
-
+<!--
 - [Prolog: Die verlangsamte
   Zeit](#prolog-die-verlangsamte-zeit){#toc-prolog-die-verlangsamte-zeit}
 - [**Kapitel 1: Der
@@ -60,6 +60,7 @@ Die Zeitlosigkeit der Steine
     Möglichkeiten](#van-dormael-und-die-möglichkeiten){#toc-van-dormael-und-die-möglichkeiten}
   - [Die verbindende
     Bewegung](#die-verbindende-bewegung){#toc-die-verbindende-bewegung}
+    -->
 
 # Prolog: Die verlangsamte Zeit
 
