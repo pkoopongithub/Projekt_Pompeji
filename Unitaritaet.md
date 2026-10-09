@@ -1,8 +1,8 @@
 ---
 
-Paul Koop
-Die Unitarität des Schmerzes - Der Sprung in die Ganzheit"
-Eine Antwort auf Gianluca De Candias \"*Der Sprung in den Glauben\"*
+# Paul Koop
+# Die Unitarität des Schmerzes - Der Sprung in die Ganzheit"
+# Eine Antwort auf Gianluca De Candias \"*Der Sprung in den Glauben\"*
 
 ---
 
