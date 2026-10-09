@@ -1,8 +1,6 @@
 ---
-author: Paul Koop
-lang: de
-subtitle: Eine Erz├ñhlung aus dem Pompeji-Projekt
-title: Die Zeitlosigkeit der Steine
+Paul Koop
+Die Zeitlosigkeit der Steine
 ---
 
 - [Prolog: Die verlangsamte
