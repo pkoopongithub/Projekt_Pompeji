@@ -1247,7 +1247,7 @@ Er wusste es nicht.
 
 Aber er wusste, dass er es versuchen würde.
 
-prägnanter, aber für dieses Kapitel vielleicht zu knapp -- die Begegnung mit dem Papst verdient mehr als einen Aphorismus.
+
 
 # ARS und die Softwareagenten kommen im Datacenter des Vatikan an
 
@@ -1407,7 +1407,7 @@ War das ein Bug?, fragte sie sich. Oder etwas anderes?
 
 Sie wusste es nicht.
 
-Sie schloss den Laptop und ging ins Bett. Aber sie schlief nicht.
+
 
 Im Datacenter des Vatikans, tief unter der Erde, begannen die Server zu arbeiten.
 

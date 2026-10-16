@@ -1247,7 +1247,7 @@ He didn\'t know.
 
 But he knew he would try.
 
-More concise, but perhaps too brief for this chapter -- the encounter with the Pope deserves more than an aphorism.
+
 
 # ARS and the software agents arrive at the Vatican data center.
 
@@ -1407,7 +1407,7 @@ Was that a bug? she wondered. Or something else?
 
 She didn\'t know.
 
-She closed her laptop and went to bed. But she didn\'t sleep.
+
 
 In the Vatican\'s data center, deep underground, the servers began to work.
 
