@@ -249,7 +249,6 @@ The **modal-logical treatises** (versions 1–17) formally prove that under cert
 
 > **Reading note:** Those who want to begin with *theology* should read *Incarnation and Unitarity* first. Those who want to begin with *logic* should read the modal treatises first. Both paths lead to the same edge – but neither presupposes the other.
 
-👉 [To the Modal Treatises Page](./modal.html?lang=en)
 
 ---
 
@@ -600,7 +599,6 @@ Die **modallogischen Abhandlungen** (Versionen 1–17) beweisen formal, dass unt
 
 > **Lesehinweis:** Wer mit der *Theologie* beginnen will, liest zuerst „Inkarnation und Unitarität". Wer mit der *Logik* beginnen will, liest zuerst die Modal-Abhandlungen. Beide Wege führen zum selben Rand – aber keiner setzt den anderen voraus.
 
-👉 [Zur Modal-Abhandlungen-Seite](./modal.html?lang=de)
 
 ---
 
