@@ -239,7 +239,7 @@ This project can be read in three ways. None is more correct than the other.
 >
 > *The systematic synthesis: sacrament, church, and diakonia in evolutionary reality. Finitude as a positive ontological category, nothingness as a creative limit, the cosmological Trinity, the end of theodicy, and resurrection as information preservation. The most comprehensive elaboration of the Pompeii Project's movement of thought. The logical foundation of the Trinitarian structure unfolded here is to be found in the Modal Treatises.*
 
-[📄 PDF](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaet.pdf) | [📘 EPUB](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaet.epub) | [🧩 TEX](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaet.tex) | [📝 DOCX](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaet.docx) | [📑 MD](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaet.md)
+[📄 PDF](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaeteng.pdf) | [📘 EPUB](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaeteng.epub) | [🧩 TEX](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaeteng.tex) | [📝 DOCX](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaeteng.docx) | [📑 MD](https://github.com/pkoopongithub/Projekt_Pompeji/blob/main/inkarnation-unitaritaeteng.md)
 
 ---
 
