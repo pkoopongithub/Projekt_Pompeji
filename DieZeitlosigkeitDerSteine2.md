@@ -1,8 +1,10 @@
 ---
-Paul Koop
-Die Zeitlosigkeit der Steine
+author: Paul Koop
+lang: de
+subtitle: Eine Erzählung aus dem Pompeji-Projekt
+title: Die Zeitlosigkeit der Steine
 ---
-<!--
+
 - [Prolog: Die verlangsamte
   Zeit](#prolog-die-verlangsamte-zeit){#toc-prolog-die-verlangsamte-zeit}
 - [**Kapitel 1: Der
@@ -60,7 +62,6 @@ Die Zeitlosigkeit der Steine
     Möglichkeiten](#van-dormael-und-die-möglichkeiten){#toc-van-dormael-und-die-möglichkeiten}
   - [Die verbindende
     Bewegung](#die-verbindende-bewegung){#toc-die-verbindende-bewegung}
-    -->
 
 # Prolog: Die verlangsamte Zeit
 
@@ -1072,8 +1073,8 @@ die Hast alter Menschen. Er trat an die Kante der Veranda, die Hände
 hinter dem Rücken verschränkt, und sah hinaus in das Trümmerfeld.
 
 „Teilhard\", sagte der alte Phillips, „hat den Omegapunkt als Ziel
-gedacht. Als Verdichtung. Als Vollendung. Er war Augustiner. Er war
-Thomist. Er konnte nicht anders, als die Zeit auf ein Ende hin zu
+gedacht. Als Verdichtung. Als Vollendung. Er dachte augustinisch. Er dachte 
+thomistisch.Er konnte nicht anders, als die Zeit auf ein Ende hin zu
 denken. Das war seine Größe. Und sein Irrtum.\"
 
 „Und was ist die Wahrheit?\", fragte der jüngere Phillips.
@@ -1149,16 +1150,18 @@ sagte der alte Mann. „Ohne dass sie sich versöhnen. Ohne dass sie sich
 ausschließen. Er ist der Grenzwert der Perspektiven selbst. Nicht das
 Ziel. Nicht das Ende. Der Rand, an dem man aufhört, sich zu entscheiden.
 Und das Aufhören -- das ist das, was Teilhard nicht denken konnte. Weil
-er Augustiner war. Weil er die Richtung für die Wahrheit hielt.\"
+er augustinisch dachte. Weil er die Richtung für die Wahrheit hielt.\"
 
-Luca sah ihn an. „Und Sie? Sind Sie auch Augustiner?\"
+Luca sah ihn an. „Und Sie? Denken Sie auch augustinisch?\"
 
 Phillips schwieg. Ein Lächeln, kaum sichtbar, spielte um seine Lippen.
 Es war kein freundliches Lächeln. Es war das Lächeln eines Mannes, der
 erkannt hat, dass seine Frage falsch gestellt war.
 
-„Ich bin Jesuit\", sagte er. „Wir haben gelernt, in beiden Richtungen zu
-denken. Aber das Lehren ist das eine. Das Sehen ist das andere.\"
+„Auch Jesuiten stehen in der augustinisch-thomistischen Tradition. Ich
+selbst denke in vielem ähnlich wie Teilhard de Chardin.\", sagte er.
+„Wir haben gelernt, in beiden Richtungen zu denken. Aber das Lehren ist
+das eine. Das Sehen ist das andere.\"
 
 Er stand auf. Die Gelenke gaben das trockene Knacken von sich, das Luca
 inzwischen kannte. Er trat an das Geländer und sah hinaus in die Senke.
@@ -1185,9 +1188,7 @@ demselben Mund. Beide wahr. Beide unvereinbar.
 
 Und Luca begriff, dass er, wenn er die Wüste verließ, etwas mitnehmen
 würde, das nicht in sein Notizbuch passte. Nicht eine Antwort. Sondern
-die Frage, die beide Perspektiven offen ließ. Und das war, in Kapitel 5
-der Zeitlosigkeit der Steine, die erste Frage, die nicht mehr gestellt
-werden musste, weil sie mit der Wüste selbst identisch geworden war.
+die Frage, die beide Perspektiven offen ließ. 
 
 #  
 
@@ -2555,7 +2556,7 @@ weiter.
 
 „Teilhard\", sagte Luca, „hat eine dieser Perspektiven für die ganze
 gehalten. Die teleologische. Die mit dem Ziel. Die mit der Richtung. Er
-war Augustiner. Er war Thomist. Er konnte nicht anders, als die Zeit auf
+dachte augustinisch. Er dachte thomistisch. Er konnte nicht anders, als die Zeit auf
 ein Ende hin zu denken. Das war seine Größe. Und sein Irrtum.\"
 
 Ein kurzes, kaum hörbares Atmen ging durch die Reihen. Der Dozent sah
@@ -3128,7 +3129,7 @@ keine Abschwächung. Es ist die Konsequenz aus der Einsicht, dass DeLillo
 und Van Dormael sich nicht vereinbaren lassen, und dass der Versuch, sie
 zu vereinbaren, genau das zerstört, was beide zu sagen haben. Teilhard
 de Chardin hat eine dieser Perspektiven, die teleologische, für die
-ganze gehalten. Er war Augustiner. Er war Thomist. Er konnte nicht
+ganze gehalten. Er dachte augustinisch. Er dachte thomistisch. Er konnte nicht
 anders, als die Zeit auf ein Ende hin zu denken. Das war seine Größe.
 Und sein Irrtum.
 

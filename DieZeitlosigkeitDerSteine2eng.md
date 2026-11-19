@@ -17,8 +17,8 @@ title: The timelessness of stones
   Arrival**](#chapter-3-the-arrival){#toc-chapter-3-the-arrival}
 - [**Chapter 4: The
   Silence**](#chapter-4-the-silence){#toc-chapter-4-the-silence}
-- [**Chapter 5: The first
-  question**](#chapter-5-the-first-question){#toc-chapter-5-the-first-question}
+- [Chapter 5: The first
+  question](#chapter-5-the-first-question){#toc-chapter-5-the-first-question}
 - [\
   ](#section-1){#toc-section-1}
 - [**Chapter 6: The
@@ -45,37 +45,40 @@ title: The timelessness of stones
   Observer**](#chapter-12-the-end-of-the-observer){#toc-chapter-12-the-end-of-the-observer}
 - [\
   ](#section-6){#toc-section-6}
-- [**Epilogue: The
-  Stones**](#epilogue-the-stones){#toc-epilogue-the-stones}
-- [**About this book**](#about-this-book){#toc-about-this-book}
-  - [**Contents**](#contents){#toc-contents}
-  - [**Background &
-    Poetics**](#background-poetics){#toc-background-poetics}
-  - [**DeLillo and the
-    Silence**](#delillo-and-the-silence){#toc-delillo-and-the-silence}
-  - [**Van Dormael and the
-    possibilities**](#van-dormael-and-the-possibilities){#toc-van-dormael-and-the-possibilities}
-  - [**The connecting
-    movement**](#the-connecting-movement){#toc-the-connecting-movement}
+- [Chapter 13: The
+  Return](#chapter-13-the-return){#toc-chapter-13-the-return}
+- [Epilogue: The Stones](#epilogue-the-stones){#toc-epilogue-the-stones}
+  - [I. The Desert](#i.-the-desert){#toc-i.-the-desert}
+  - [II. Boston](#ii.-boston){#toc-ii.-boston}
+  - [III. The Street](#iii.-the-street){#toc-iii.-the-street}
+  - [IV. The Edge](#iv.-the-edge){#toc-iv.-the-edge}
+- [About this book](#about-this-book){#toc-about-this-book}
+  - [Contents](#contents){#toc-contents}
+  - [Background & Poetics](#background-poetics){#toc-background-poetics}
+  - [DeLillo and the
+    Silence](#delillo-and-the-silence){#toc-delillo-and-the-silence}
+  - [Van Dormael and the
+    possibilities](#van-dormael-and-the-possibilities){#toc-van-dormael-and-the-possibilities}
+  - [The connecting
+    movement](#the-connecting-movement){#toc-the-connecting-movement}
 
 # Prologue: Slowed-down Time
 
 The seminar room was on the third floor, where the air smelled of ozone,
 warmed plastic, and old paper. Outside, the September wind cut through
 the canyons of Boston\'s streets. Inside, light filtered through the
-slats of the blinds, narrow gray strips spaced at precise intervals
-across the desk and the floorboards. It looked like a barcode on the
-wood.
+slats of the blinds, narrow gray strips spaced precisely across the desk
+and the floorboards. It looked like a barcode on the wood.
 
 Luca sat in the third row, his forearms resting flat on the resin of the
 tabletop. The fabric of his grey sweater was rough at the elbows.
 
-The projection flickered on the far wall. The scene on the platform,
-Jaco Van Dormaels , was playing on the screen.*Mr. Nobody*Cadence by
+The projection flickered on the far wall. The scene on the platform --
+Jaco Van Dormaels -- was playing on the screen.*Mr. Nobody*Cadence by
 cadence, the music slowed to an almost unbearable sluggishness.
 Nine-year-old Nemo stood at the geometric intersection of two gazes. His
 mother with her suitcase on the platform; his father beside the boy, his
-face etched with a silent, shattered despair, the corners of his eyes
+face etched with a silent, shaken despair, the corners of his eyes
 reddened. The camera kept both parents in frame simultaneously, while
 the focus shifted. Nemo looked from his mother to his father and back
 again, trapped in a spatial arrangement from which he could not look at
@@ -148,10 +151,10 @@ coherences."
 "He doesn't respond to the faculty's emails," said Luca.
 
 "Phillips left the Jesuit institute in the spring," the lecturer
-replied, glancing towards the door. "He's beyond the reach of data.
-Physicists of his ilk tend towards a peculiar form of preservation in
-their old age. They want to see things solidify. Like the casts under
-the ash in Campania."
+replied, glancing towards the door. "He's beyond the reach of
+information. Physicists of his ilk tend towards a peculiar form of
+preservation in their old age. They want to see things solidify. Like
+the casts under the ash in Campania."
 
 Luca didn\'t lift his head. \"He\'s waiting.\"
 
@@ -270,7 +273,7 @@ edges yellowed from exposure to light.
 The picture showed a man in a dark collared shirt in front of a dusty
 brick wall in the Campo Santo Teutonico. His face was narrow, his
 temples sunken, his eyes restlessly withdrawn into the shadows of their
-sockets , the gaze of a man who had learned to read series of
+sockets -- the gaze of a man who had learned to read series of
 measurements instead of decoding faces.
 
 "He believed in entanglement," his mother said from the window. She
@@ -306,8 +309,8 @@ The door slammed shut. The bolt snapped into place with a dry, metallic
 click.
 
 Luca didn\'t slow his pace on the stairs. With each step he descended,
-the roar of the city outside became more pronounced , the muffled rumble
-of tire tracks on wet asphalt, the whistling of the wind in the
+the roar of the city outside became more pronounced -- the muffled
+rumble of tire tracks on wet asphalt, the whistling of the wind in the
 ventilation shaft of the Park Street subway station.
 
 In the Red Line carriage, he sat facing his own reflection in the
@@ -331,7 +334,7 @@ rim of the cup without any vibration. He didn\'t touch it.
 
 Outside, the cloud cover lay flat and solid beneath the wing, an endless
 field of featureless white. It looked like the plaster surface of the
-terrain models in the InSIM lab , a smooth matrix not yet resolved by
+terrain models in the InSIM lab -- a smooth matrix not yet resolved by
 calculations.
 
 He pulled the color photograph from his notebook. The man in front of
@@ -375,11 +378,11 @@ At the car rental counter, Luca signed the standard contract. The pen
 was attached to a coiled black plastic cord.
 
 \"Compact class, grey sedan, deck 3, parking space 412,\" said the
-employee without taking her eyes off the monitor. Her fingers glided
+employee without looking up from the monitor. Her fingers glided
 expertly across the keyboard.
 
 The car was parked in the parking garage under the fluorescent lights.
-The metal roof was cold. The engine started immediately , a quiet,
+The metal roof was cold. The engine started immediately -- a quiet,
 vibration-free hum from the four-cylinder engine.
 
 He steered the car onto Interstate 10 East. Traffic on the six lanes
@@ -401,8 +404,8 @@ dust blown across the asphalt by the wind.
 
 He switched on the radio. Static on all frequencies, interrupted by
 fragments of a preacher on medium wave, whose voice was lost in the
-static crackling.*„\...the point where time ceases to measure\..."*He
-turned the volume control to the left until the switch clicked.
+static crackling.*„.the point where time ceases to measure."*He turned
+the volume control to the left until the switch clicked.
 
 The silence in the vehicle interior was absolute, broken only by the
 steady rolling noise of the tires on the rough surface.
@@ -412,7 +415,7 @@ junction without traffic lights, the lone gas pump of an old gas station
 stood in front of a corrugated iron shack. The wind made a rusty
 advertising sign flap on two chains.
 
-Luca stopped. As he opened the driver\'s door, the heat hit him , dry,
+Luca stopped. As he opened the driver\'s door, the heat hit him -- dry,
 sharp, tinged with the smell of burnt resin and dust. It was a heat that
 didn\'t warm, but dried out, much like the cold dryness in the
 climate-controlled storage facilities of Pompeii, where the organic
@@ -457,7 +460,7 @@ where billions of dust particles danced. No more oncoming traffic. No
 more masts. Only the yellow center line, disappearing beneath the
 radiator grille in time with the headlights.
 
-He pulled over to the side of a gravel passing place. He switched off
+He pulled over to the edge of a gravel passing place. He switched off
 the ignition. The headlights went out.
 
 The desert night descended upon the vehicle instantly. The engine
@@ -468,7 +471,7 @@ was clear, densely filled with cold, delicate points of light. No more
 lights of civilization at the edges. The air had cooled instantly.
 
 He pulled the letter from his pocket. In the dim light of his mobile
-phone\'s display , no signal, no bars in the status bar , he no longer
+phone\'s display -- no signal, no bars in the status bar -- he no longer
 read the lines, he only felt the texture of the paper.
 
 *He\'s stopped calculating.*
@@ -485,8 +488,8 @@ wood. On the bedside table was a rotary phone, its cord pulled out of
 the wall.
 
 Luca lay down naked on the blanket. The light from the single streetlamp
-outside the window cast the striped pattern of the blinds onto the
-ceiling , just like in the seminar room in Boston.
+outside the window cast the striped pattern of the blind onto the
+ceiling -- just like in the seminar room in Boston.
 
 He didn\'t close his eyes. He listened to the sound of the wind blowing
 the fine desert dust against the windows. It sounded like the static of
@@ -499,7 +502,7 @@ a data stream slowly fading into the background noise.
 The asphalt clung to the edge of the dip, crumbling into irregular
 pieces of limestone and finally giving way to a track of compacted,
 ochre-colored sediment. The sedan slowed down. The underbody once
-bottomed out hard on a washed-out ridge of rock , a dry, metallic thud
+bottomed out hard on a washed-out ridge of rock -- a dry, metallic thud
 that shot through the steering column and into Lucas\'s wrists.
 
 The dust trailed behind the car in a thick, fine-grained plume. It
@@ -555,7 +558,7 @@ was using the Gregorian University's old account."
 Phillips closed his eyes for the duration of a single breath. His
 eyelids were dry, marked by the finest veins of dust. His face had
 become narrower than in the picture taken against the brick wall in the
-Campo Santo , the skeleton was visible beneath the tanned skin like an
+Campo Santo -- the skeleton was visible beneath the tanned skin like an
 exposed artifact.
 
 "Teilhard wrote about the escalation," said Luca, deliberately starting
@@ -655,7 +658,7 @@ cooled, released the sun\'s warmth.
 
 The deceleration didn\'t occur as a sudden break, but as a gradual
 withdrawal of impulses. The rhythms of the days shrank to a few, rigidly
-recurring sequences , a series of measurements without outliers.
+recurring sequences -- a series of measurements without outliers.
 
 The morning light filtered through the gaps in the wooden paneling like
 a gray ruler. Phillips was already sitting on the porch, his forearms
@@ -698,7 +701,7 @@ the shadows of the interior.
 
 Around midday they headed east. There was no path. The ground consisted
 of solid sediment, interrupted by flat scree slopes whose pebbles seemed
-to be covered by a fine layer of ash , the remnant of ancient volcanic
+to be covered by a fine layer of ash -- the remnant of ancient volcanic
 eruptions, preserved under the desert sun.
 
 Phillips walked with a steady, long stride, his arms swinging loosely at
@@ -781,7 +784,7 @@ Phillips did not answer. He stood on the threshold of the dust, while
 the horizon lost its red color and faded into the monotonous violet of
 the desert night.
 
-# **Chapter 5: The first question**
+# Chapter 5: The first question
 
 On the seventh day, the silence was not broken in a long conversation,
 but in short, incomplete sentences that were immediately blown away by
@@ -814,7 +817,7 @@ probabilities for the next words, you forget how to be silent. You only
 produce redundancy."
 
 "The InSIM lab needs the parameters for the software agents," said Luca.
-"Mertens wants to use the prototypes in Pompeii. A simulation of
+"Mertens wants to deploy the prototypes in Pompeii. A simulation of
 consciousness that doesn't know it's stuck in a loop."
 
 Phillips didn\'t draw a conclusion. He looked over Lucas\'s head into
@@ -828,19 +831,19 @@ twentieth-century theology. A geometric error."
 \"And what is reality?\" asked Luca, turning the unused pen in his
 fingers.
 
-"The ARS system doesn't anticipate compression," Phillips replied. His
-fingers clenched slightly around the fabric of his trousers, then
+"The ARS system doesn't calculate toward compression," Phillips replied.
+His fingers clenched slightly around the fabric of his trousers, then
 relaxed again. "It expands. Every decision creates a new field. The
 Omega Point isn't a singularity, Luca. It's the state where no
-alternative needs to be calculated anymore. Not because a world is left.
-But because all questions that still demand a calculation have
-disappeared."
+alternative needs to be calculated anymore. Not because a world remains,
+but because all the questions that still require calculation have
+vanished."
 
 With a minimal movement of his chin, he pointed to the pile of rubble in
 front of the veranda.
 
-"These are the stones," he said. "Not a monument. Just what's left when
-all calculations are stopped."
+\"These are the stones,\" he said. \"Not a monument. Just the leftovers
+when all calculations are stopped.\"
 
 Luca looked at the grey blocks of solidified basalt. The heat reflected
 off the smooth, fractured edges like broken glass.
@@ -871,7 +874,7 @@ as the sun bathed the horizon in a hard, metallic, pale yellow.
 around. "But you didn't listen. You just waited for the moment when you
 could ask your questions."
 
-"I need an answer for work," said Luca.
+"I need an answer for work," Luca said.
 
 "There is no work," Phillips replied. "There is only the experimental
 setup. And we are the variables that were forgotten to be deleted."
@@ -928,6 +931,206 @@ does not create new worlds."
 They sat on the steps as the dust wind swept across the sediment in
 long, dense plumes, slowly refilling the car\'s tracks on the piste,
 line by line.
+
+On the ninth day, what Luca later called the second light happened.
+
+It wasn\'t the sun. Nor was it the matte disc behind the dust. It was a
+shimmering at the lower edge of the debris field, where the basalt
+blocks merged into the light clay. At first, Luca thought it was an
+optical illusion, a mirage, heat refracting off the edges of the stones.
+But the shimmering was moving. It was coming closer. It was taking
+shape.
+
+It was a man.
+
+He didn\'t walk like a human across the uneven ground. He walked as if
+the ground were flat. His steps didn\'t land, they glided. He wore a
+dark, tailored jacket made of heavy cotton, the same cut Phillips had
+worn in the Consortium\'s 1994 photographs, when the first algorithms
+for the archaeometry of Sector V were programmed.
+
+He stopped three meters from the wooden steps. His face was untouched by
+the UV radiation of the hollow. No deep gashes at his temples, no
+corneal membrane over his pupils. It was the physiognomy of the Jesuit
+from the newspaper clipping in the Naples archives: the narrow, academic
+chin, the deep forehead wrinkle of a man who spent hours poring over
+matrices.
+
+Old Phillips didn\'t move. He sat on the porch, his hands flat on his
+thighs, and didn\'t look at the younger man. He looked right through
+him, as if he were a disturbance in the signal that had to be ignored so
+as not to distort the measurement.
+
+"The probability density in this sector is extremely low," said the
+younger Phillips. His voice had no echo, as if the sound were absorbed
+directly by the surface of the pumice blocks. "You should turn off the
+burner. The exhaust gas is altering the isotopic values ​​in the
+sediment."
+
+Luca didn\'t straighten up. His fingers gripped the rough, resin-sticky
+edge of the railing.
+
+"We were looking for you in the outer districts," Luca said.
+
+"There are no more overlaps there," said the younger Phillips. He wasn't
+looking at Luca, but over the corrugated iron roof at the line of hills.
+"InSIM lowered the sampling rate. What you call outskirts is now just
+the buffer area between two iterations. If a variable refuses to
+respond, the ARS compresses the parameter range. Martina hasn't left.
+She's just lost coherence with this storage unit."
+
+\"This is a theoretical construct,\" said Luca.
+
+"It's the architecture you're sitting in," the younger Phillips replied.
+He raised his hand, a brief, almost casual movement. The skin on his
+knuckles was smooth, without blemishes. "Phillips published on the logic
+of entanglement in Rome in the 1970s. He knew that you can't simulate
+consciousness without allowing it to escape the system. If the observer
+no longer confirms the measurement, the state doesn't collapse. It
+remains in superposition."
+
+Old Phillips slowly raised his head. It was the first time in days that
+he had made a movement that wasn\'t obeyed by the wind or gravity. He
+looked at the younger man, not as father looking at son, not as
+researcher looking at his former self. He saw him for what he was: a
+different perspective on the same limit.
+
+\"You are not here,\" said old Phillips.
+
+"I'm here too," replied the younger Phillips. "That's the difference."
+
+Luca looked back and forth between the two figures. The air above the
+rubble shimmered more intensely. The contours of the basalt blocks
+shifted, as if the landscape itself were deciding which of the two
+figures it wanted to bear.
+
+\"You want him to stop the measurement,\" Luca said to the younger
+Phillips. \"You want him to stop looking.\"
+
+"No," said the younger Phillips. "I want him to see both. The end and
+the abundance. The stones and the possibilities. He chose to see only
+one. That's his mistake. Not the desert. The choice."
+
+Old Phillips stood up. The movement was slow, mechanical, without the
+haste of old people. He stepped to the edge of the porch, his hands
+clasped behind his back, and looked out at the field of rubble.
+
+"Teilhard," said old Phillips, "conceived of the Omega Point as a goal.
+As a culmination. As completion. He thought in Augustinian terms. He thought in Thomistic terms.
+ He couldn't help but think of time as leading towards an end.
+That was his greatness. And his error."
+
+\"And what is the truth?\" asked the younger Phillips.
+
+"There is no single truth," said old Phillips. "There are two
+perspectives on the same limit. One sees the end. The other sees the
+fullness. Both are correct. Neither is whole."
+
+Luca took a step forward. The heat from the sediment penetrated the
+soles of his shoes.
+
+\"And how do you decide which one applies?\" he asked.
+
+\"You don\'t decide,\" said old Phillips. \"You are one or the other.
+Depending on where you come from. Depending on what you have lost.
+Depending on what you are still looking for.\"
+
+The younger Phillips took a step back. With this step, the contrast of
+his figure seemed to fade, as if the dissolution of his contours lost
+its depth. The dark cotton of his jacket blended into the gray of the
+pumice stones.
+
+\"If you keep looking for her,\" said the voice, which now seemed to be
+coming from the direction of the rocky outcrop, \"you\'re only
+amplifying the noise. The ARS doesn\'t process grief. It only processes
+coordinates.\"
+
+Then the sediment was empty. Not a footprint, not a displaced pebble.
+Only the flat, monotonous shimmer of the midday heat on the basalt.
+
+\-\--
+
+Old Phillips sat back down on the top step. Luca remained standing.
+
+\"He\'s gone,\" said Luca.
+
+"He never goes away," Phillips said. "He is the other perspective. He
+will be there as long as I can see one."
+
+\"Then you see both of them?\"
+
+Phillips was silent. For a minute. Two. The wind swept across the
+rooftops, carrying fine dust into the cracks of the wood.
+
+"I see the end," he finally said. "I can no longer see the abundance.
+Not because it isn't there. Because I've lost it. Over the years. In the
+decisions. In the work."
+
+\"And what did Martina see?\"
+
+Phillips looked at his hands. The veins stood out like blue cables
+beneath the thin, parchment-like skin.
+
+"Martina saw both," he said. "That's why she left. Not into death. Not
+into simulation. Into possibility. She refused the measurement because
+she knew that every answer erases a world. Including her own. Including
+mine."
+
+Luca sat down next to him on the step. The heat from the wood penetrated
+the fabric of his trousers.
+
+\"Then what is the Omega Point?\" he asked. \"If it isn\'t condensation,
+and not merely stillness, then what is it?\"
+
+Phillips gazed out into the field of rubble. The basalt blocks lay there
+like an array of data points on a dark field, silent, absolute,
+unobserved by the world\'s cameras.
+
+"It is the point where both perspectives are valid simultaneously," the
+old man said. "Without reconciling them. Without excluding each other.
+It is the limit of perspectives themselves. Not the goal. Not the end.
+The edge where one ceases to decide. And that ceasing, that is what
+Teilhard could not conceive. He thought in Augustinian terms. 
+ Because he
+mistook direction for truth."
+
+Luca looked at him. \"And you? Are you also an Augustinian?\"
+
+Phillips remained silent. A barely perceptible smile played around his
+lips. It was not a friendly smile. It was the smile of a man who had
+realized that his question was wrongly phrased.
+
+"Jesuits, too, stand within the Augustinian-Thomistic tradition. In many
+respects, I think much as Teilhard de Chardin did." he said. "We have
+learned to think in both directions. But teaching is one thing. Seeing
+is another."
+
+He stood up. His joints made the dry cracking sound that Luca had come
+to know. He stepped to the railing and looked out into the hollow.
+
+\"Tomorrow,\" Luca whispered to the old man\'s shadow. \"Tomorrow I\'ll
+break off the series.\"
+
+Phillips did not answer. He stood on the threshold of the dust, while
+the horizon lost its red color and faded into the monotonous violet of
+the desert night.
+
+Nothing happened that night. No dream. No apparition. No second light.
+Only the silence that lay over the hollow like a lead roof. And in that
+silence, Luca heard, for the first time in days, the two sentences
+Phillips had spoken again. Not as words. As states of being.
+
+These are the stones. Not a monument. Just what\'s left when all
+calculations cease.
+
+It is the edge where one stops making decisions.
+
+Two sentences. One by DeLillo. The other by Van Dormael. Both from the
+same person. Both true. Both incompatible.
+
+And Luca realized that if he left the desert, he would take something
+with him that wouldn\'t fit in his notebook. Not an answer. But the
+question that left both perspectives open. 
 
 #  
 
@@ -1040,7 +1243,7 @@ slightly, and rested his elbows on the fabric of his work jacket.
 Luca sat down on a similar stone three meters away. The warmth of the
 volcanic rock slowly penetrated the thick fabric of his trousers.
 
-They no longer spoke.
+They stopped speaking.
 
 The sun rose higher until the cauldron cast no shadow. The stones lay
 there like an array of data points on a dark field, silent, absolute,
@@ -1093,9 +1296,9 @@ the cabin and closed his eyes.
 
 \"We remain in the only world where we no longer have to answer.\"
 
-They sat there as the heat of the tenth day rose over the depression,
-and the desert before them slowly melted into a single, reflective field
-of glaring white.
+They sat there as the heat of the tenth day rose over the depression and
+the desert before them slowly melted into a single, reflective field of
+glaring white.
 
 #  
 
@@ -1168,7 +1371,7 @@ To keep a record?"
 
 "He didn't leave the lab because the data was wrong," Luca said, his
 throat tightening. "The ARS didn't simulate, Martina. It eliminated the
-possibilities. Every circuit erased a world."
+possibilities. Every circuit wiped out a world."
 
 A brief, silent smile crossed her face, cooler than the shadows under
 the corrugated iron roof.
@@ -1236,7 +1439,7 @@ Luca stepped onto the step. The wind stung his eyes.
 
 Phillips sat in the same spot as the previous evening. The small glass
 window of the detached sensor lay at his feet. The morning sun was
-reflected in it , not as a point of light, but as a dull, matte surface
+reflected in it -- not as a point of light, but as a dull, matte surface
 across which an ant was lazily crawling.
 
 \"She will not come back,\" said Luca.
@@ -1376,7 +1579,7 @@ the order of things is not disturbed by its presence."
 
 "This isn't a Loyola, Father," the woman said from the doorway. She held
 the empty tin can in both hands, as if weighing its mass. "This is the
-documentation of the processing cores. Page forty. Drift correction."
+documentation of the computing cores. Page forty. Drift correction."
 
 The eighteenth day.
 
@@ -1400,7 +1603,7 @@ exhaustion.\"
 
 She set off.
 
-She didn\'t use the track the Sedan had left in the dust, but cut
+She didn\'t use the track left in the dust by the Sedan, but cut
 straight through the field of dark basalt blocks. Her canvas shoes
 landed with a short, dry crunch on the sharp-edged stones.
 
@@ -1708,8 +1911,8 @@ wheel. "It displaces mass. It consumes water."
 the sandals were found," Phillips replied. He didn't move his head. "No
 bone meal, no teeth. Just the iron buckle in the volcanic rock. Because
 the signal broke off before the ash cooled. The ARS does nothing
-different. It fills in the gap with the most likely hypothesis. And the
-most likely hypothesis for this depression is: nothing."
+different. It fills in the gap with the most probable hypothesis. And
+the most probable hypothesis for this depression is: nothing."
 
 Luca put the car in reverse. The gearbox whined briefly. The car spun on
 the narrow gravel strip, the tires digging deep into the pumice until
@@ -1803,10 +2006,10 @@ in a rendered test field by InSIM.
 He saw the figure at the bottom of the gravel strip.
 
 It moved without the typical swaying of a body shifting mass over uneven
-ground. It was a smooth glide over the sediment.
+ground. It was a smooth glide across the sediment.
 
 The man stopped three meters in front of the wooden steps. He was
-wearing a dark, tailored jacket made of heavy cotton , the same cut
+wearing a dark, tailored jacket made of heavy cotton -- the same cut
 Phillips had worn in the consortium\'s 1994 photographs, when the first
 algorithms for the archaeometry of Sector V were programmed.
 
@@ -1854,10 +2057,10 @@ a single reality."
 His veins are bulging on his legs."
 
 "He dies in the main loop," said the younger Phillips without harshness.
-"That's the condition for this series of measurements. An observer that
-is decaying produces the sharpest signals. But Martina no longer needs
-the signal. She is in an iteration whose parameters do not need to be
-adjusted."
+"That's the condition for this series of measurements. An observer in
+the process of decay produces the sharpest signals. But Martina no
+longer needs the signal. She's in an iteration whose parameters don't
+need to be adjusted."
 
 He didn\'t turn around. He merely took a step back, and with that step
 the contrast of his figure seemed to fade, as if the dissolution of his
@@ -1916,9 +2119,9 @@ depression. Only the immeasurable mass. The pure, timeless presence of
 the rock."
 
 They sat side by side on the step. The heat rose from the pumice stone
-like the shimmer above a fresh layer of ash. The shadow of the veranda
-shortened centimeter by centimeter until it disappeared as a narrow,
-dark line beneath the wood, leaving it completely exposed to the
+like the shimmering heat above a fresh layer of ash. The shadow of the
+veranda shortened centimeter by centimeter until it disappeared as a
+narrow, dark line beneath the wood, leaving it completely exposed to the
 unfiltered light.
 
 #  
@@ -1985,7 +2188,7 @@ signal."
 
 \"I\'m leaving tomorrow,\" said Luca.
 
-Phillips remained silent. A shadow flew across the pumice depression ,
+Phillips remained silent. A shadow flew across the pumice depression --
 not a bird, but the shadowy shift of a pixel line in the upper field of
 view.
 
@@ -2030,7 +2233,7 @@ the gray tones of the blocks, until only the slope of the hollow
 remained visible.
 
 He drove through the buffer zone. The road only became visible a few
-meters in front of the headlights , hard, worn asphalt with the yellow
+meters in front of the headlights -- hard, worn asphalt with the yellow
 dividing lines of Highway 190. After forty miles, the first high-voltage
 pylons appeared, abstract steel grid structures against the pale,
 reorganizing light of the afternoon.
@@ -2063,7 +2266,7 @@ seatbelt, and watched as the tugboat reversed the aircraft.
 
 The runway slid beneath the wings. As the plane lifted off, the
 landscape tilted slightly to the side: the sea of ​​houses in Los Angeles,
-the grid of freeways, the thin line of the coastline , everything
+the grid of freeways, the thin line of the coastline -- everything
 contracted into a flat, high-resolution texture.
 
 He closed his eyes.
@@ -2074,92 +2277,468 @@ temperature gradients, unmeasured and timeless.
 
 #  
 
-# **Epilogue: The Stones**
+# Chapter 13: The Return
 
-Time had lost its edges.
+The plane touched down on the runway in Boston at 4:23 p.m. The landing
+gear struck the concrete slabs with a short, sharp thud, then the
+fuselage rolled to a stop, and the engines transferred the deceleration
+into the seatbacks. Luca was sitting by the window. He hadn\'t slept a
+wink during the entire flight. In front of him on the tray table was an
+untouched plastic cup of water, its surface still bearing the fine
+ridges from being poured.
 
-It settled like the pumice dust layers in the unexcavated regio
-structures of Pompeii , a continuous sedimentation process resulting
-from light exposure and cooling. The veranda no longer held a figure,
-but rather an accumulation of biological parameters that the consortium
-had forgotten to switch off.
+Outside, the city\'s silhouette flickered by. Brick facades, warehouses,
+the dull gray of the harbor. Boston wasn\'t Los Angeles. Boston wasn\'t
+the desert. Boston was where he had come from and where he was returning
+to, but none of it felt like homecoming.
 
-A woolen blanket lay across the old man\'s thighs, stiff with salt
-stains and encrusted volcanic flour. The knees beneath were narrow, two
-protruding bones that stood out against the texture like petrified wood.
+On the plane, he had opened the notebook. The pages were blank. He had
+leafed through them twice, page by page, expecting to find some trace of
+ink, a diagram, a marginal note somewhere between the sheets. Nothing.
+Just the pure, pristine paper. The ARS had overwritten the parameters as
+he left the sinkhole. Not erased. Replaced. The notebook was no longer a
+notebook. It was the default state of a notebook.
 
-The sunset was unbroken. No red, no dramatic widening of the spectrum ,
-merely a gradual decrease in color saturation over the hilltops, until
-the sand took on the tone of burnt bone ash.
+He shoved it into the side pocket without closing it.
 
-He didn\'t look at the dip. He kept his gaze fixed on the point where
-the gravel strip transitioned into the buffer zone.
+The journey from Logan Airport to downtown took longer than usual. The
+Silver Line bus was stuck in traffic before the Ted Williams Tunnel
+entrance. The passengers stared at their phones, their screens flashing
+in a steady rhythm. No one spoke. Luca stood, his hand on the handrail,
+looking out at the street through the tinted window. The traffic lights
+changed every second. People walked. Cars stopped. The city functioned.
 
-In the early years, the brain still generated name
-fragments.*Martina.*Not a face, but the rubbing of two strips of fabric
-in a corridor.*Luca.*The sound of boots on dried-out floorboards, the
-question of the observer.*Maria.* *Julia.*Words from an earlier
-iteration, when the data matrix still had interfaces to family books and
-civil registry records.
+He got off at South Station and continued on foot. The air was cool,
+damp, smelling of salt and old rain, unlike the dry, alkaline air of the
+depression. The skin on his face, chapped by the desert, contracted in
+the humidity.
 
-Now the names were just noise patterns in the rear registers.
-Frequencies bouncing off the rough surface of the blocks.
+The fourth-floor apartment still smelled of what it always had: coffee,
+dust, old wood. His mother wasn\'t there. On the kitchen table lay a
+note in her handwriting: \"At Aunt Ruth\'s. Come back later. There\'s
+soup.\" Luca read the note twice, then put it back on the imitation
+granite countertop.
 
-He reached for the ceramic cup on the floorboards next to the chair. The
-brew of dried herbs was cold, bitter like the metallic salts in the
-groundwater of Herculaneum. His lips touched the cool rim. The
-swallowing reflex was delayed, a mechanical impulse in the esophagus.
+He took a shower. He changed his clothes. He sat on the sofa and stared
+at the wall. Then he stood up again, put on his jacket, and went out.
 
-*Teilhard had been wrong.*The limit was not a spiritualization. The
-Omega Point possessed no metaphysics, no culmination of consciousness at
-the cosmic point. It was simply the complete leveling of the
-signal-to-noise ratio. The decay of all wave functions into a single,
-unmeasured ground state. The many-worlds interpretation had not been a
-promise of infinite lives, but a logical necessity for disposing of
-unchosen actions.
+The seminar room was on the third floor of the communications building.
+Luca hadn\'t known whether the lecturer was teaching that Tuesday. He
+hadn\'t checked. He had simply gone, assuming the room was there, the
+light was on, and the blinds were drawn.
 
-The stars emerged. They didn\'t flash; they stood as rigid, white pixels
-at the top of the image field.
+He was right.
 
-He stood up. His joints made a soft, dry cracking sound , the sound of
-breaking flotsam.
+The room was half full. Ten or twelve students sat in the rows, their
+heads bent over notebooks. The projection flickered on the front wall.
+On the screen was Mr. Nobody, the same scene as weeks ago, slowed down
+to the same snail\'s pace. Nine-year-old Nemo on the platform. The
+mother with the suitcase. The father beside the boy. The two glances.
+The train. The shoelace.
 
-He stepped down from the steps into the sediment. The soles of his shoes
-left no distinct marks in the dust; the material no longer yielded, it
-lay compact, solidified in its bulk density.
+The lecturer stood to the side of the spotlight. His glasses reflected
+the flickering light. He said nothing. He let the image do its work.
 
-He walked to the rocky outcrop where the younger Phillips had stood
-three decades earlier. Or four hours earlier. In the ARS, there was no
-difference between eras; there was only the storage status.
+Luca stopped at the door. He looked at the screen, then at the
+students\' faces, then back at the screen. Nothing had changed.
+Everything had changed.
 
-He bent forward. The movement was slow. His hand, marked by age spots
-like the weathered inscriptions on the gravestones of the Via Nocera,
-groped for a piece of volcanic rock.
+He went to the third row and sat down in the same seat he had sat in
+weeks before. His forearms rested on the resin mat. His sweater was the
+same gray one. His elbows were in the same position.
 
-The stone was rough. The pores of the pumice stone cut minimally into
-the calluses of his fingertips. No residual heat. No impulse. Only the
-pure, non-storage weight of silicates and solidification.
+The lecturer didn\'t notice him immediately. When he did, he didn\'t
+stop. He let the scene continue. The camera kept both parents in frame
+while the focus shifted. The boy looked from his mother to his father
+and back again. His shoelace broke. The child stumbled. The train went
+out of frame.
 
-He turned the piece of sediment in his fingers. A lump of ejected
-matter, preserved in the instant the pyroclastic wave reached the Villa
-of Mysteries.
+Then the lecturer said the sentence that Luca had already heard: \"We
+are not talking about a simple dramaturgy of choice here.\"
 
-He dropped the stone. It hit the surface without a rolling sound. A
-dull, instantly stifled impulse.
+Luca heard the words, but they sounded different. They sounded flatter.
+They sounded like something that was no longer enough.
 
-\"They will stay,\" the voice said. It wasn\'t a statement addressed to
-anyone. It was an affirmation of a systemic state.
+The lecturer continued. He spoke of the quantum interface, of
+probabilistic paths, of the computational architecture of the
+many-worlds interpretation. He spoke of Teilhard de Gaul and of the
+Omega Point as the ultimate condensation of consciousness. He posed the
+question: what would happen if the computing power of a system resolved
+this singularity and simultaneously held every possibility, every
+stumble on the platform, as real? Where would guilt remain, where would
+will remain, if every contingency generated a new world?
 
-The man did not turn around. He remained standing at the edge of the
-depression until the shadow of the rocky outcrop completely covered his
-body and his outline blended into the darkened basalt.
+The same questions as weeks ago. The same answers. The same language.
 
-The simulation kept the temperature of the stones at the specified
-value. No higher. No lower.
+Luca raised his hand.
 
-# **About this book**
+The lecturer looked at him. A brief hesitation, then a nod.
 
-## **Contents**
+\"And?\"
+
+Luca did not stand up. He remained seated, his hands on the tabletop,
+his gaze fixed on the screen where the scene continued in a loop.
+
+"You said last time that language models and stochastic processes don't
+provide authors," Luca said. "Only coherences."
+
+The lecturer remained silent. His glasses reflected the flickering
+light.
+
+"I've been thinking about it," Luca continued. "In the desert. In a
+hollow. With an old man who had lost the ability to speak. And I think
+you're right, but not in the way you meant it."
+
+\"What do you mean?\" asked the lecturer.
+
+Luca looked at the screen. The boy on the platform. The mother. The
+father. The train leaving the frame. The shoelace breaking.
+
+"There are two kinds of coherence," Luca said. "One is DeLillo's. The
+other is Van Dormael's."
+
+The lecturer took a half step to the side. His face was now fully
+illuminated. The wrinkles around his eyes became more pronounced. He
+waited.
+
+"DeLillo shows the coherence that breaks down," said Luca. "The silence.
+The desert. The stones. Everything converges on a ground state in which
+no distinction is possible anymore. No author. No will. No guilt. Only
+the unmeasured material. That is the Omega Point as heat death. As
+entropy. As thinning."
+
+He looked at the students. Some had put down their pens. Others were
+still looking at their notebooks.
+
+"Van Dormael shows the other way," said Luca. "The coherence that
+multiplies. The branches that don't disappear into each other. Time as a
+field, not as a stream. Every decision a world, every world a path,
+every path the right path. That is the Omega Point as abundance. As
+complexity of possibilities. As difference that is not leveled out."
+
+He paused. The screen behind him continued to show the loop. The boy on
+the platform. The shoelace. The train.
+
+"Both perspectives are correct," said Luca. "But they are incompatible.
+DeLillo and Van Dormael cannot be synthesized. They are two perspectives
+on the same limit. One sees the end. The other sees the fullness."
+
+The lecturer remained silent. The students remained silent. Only the
+projection continued.
+
+\"And Teilhard?\" the lecturer finally asked.
+
+"Teilhard," said Luca, "mistook one of these perspectives for the whole.
+The teleological one. The one with the goal. The one with the direction.
+He thought in Augustinian terms. He thought in Thomistic terms. He couldn't help but think of
+time as leading towards an end. That was his greatness. And his error."
+
+A short, barely audible breath rippled through the rows. The lecturer
+looked at Luca without moving his head. His glasses caught a new strip
+of light.
+
+\"They saw something in the desert,\" said the lecturer.
+
+"Yes," said Luca.
+
+„Was?\"
+
+Luca looked at his hands. The skin was still cracked from the dryness.
+His knuckles were white. He thought of Phillips on the porch. Of the
+younger Phillips in the rubble. Of the two figures, present at the same
+time, yet irreconcilable. Of the stones that bore no fruit. Of the
+possibilities that did not vanish.
+
+"I have seen that both perspectives are valid simultaneously," he said.
+"Not alternately. Not one after the other. Not as a compromise. But as a
+margin. As a limit. As what remains when you stop deciding."
+
+The lecturer took a step forward. He took off his glasses and rubbed the
+lenses with the corner of his shirt. Without them, his eyes looked
+smaller, more vulnerable. He put them back on.
+
+\"And what follows from that?\" he asked.
+
+Luca hesitated. Not because he didn\'t know the answer, but because he
+didn\'t want to say it too loudly.
+
+"That there is no reason to choose one over the other," he said. "That
+trying to reconcile them destroys them. That trying to take one for the
+whole becomes ideology. That the only honest way to deal with the Omega
+Point is to endure both perspectives. Without synthesis. Without
+reconciliation. Without a way out."
+
+He looked at the lecturer. The students. The projection. The boy on the
+platform who didn\'t know whether to go to his mother or his father, and
+who ended up running away because he couldn\'t decide.
+
+"This is not nihilism," said Luca. "This is the only way to do justice
+to suffering, time, and mortality without justifying them. No
+consolation. No salvation from the world. Only union within lived
+experience."
+
+The lecturer said nothing. He turned to the projection and started the
+scene again. The boy on the platform. The mother. The father. The
+shoelace.
+
+"You have said more than you might realize," the lecturer said without
+turning around. "You have not abandoned Catholic tradition. You have
+simply read it from a different perspective."
+
+Luca stood up. He picked up his jacket. He went to the door. He stopped
+on the threshold.
+
+"That's the difference between us," said Luca. "They read the tradition.
+I've seen it."
+
+He went.
+
+The door clicked shut behind him. The hallway was silent. The afternoon
+sun hung low over the rooftops of Boston, casting long, narrow streaks
+across the stone floor. He descended the stairs, step by step, in the
+same rhythm as before.
+
+He stood outside on the street for a moment. The air was cool. The sky
+was gray. Cars drove by. People walked. The traffic lights changed.
+Everything was there. Nothing mattered.
+
+He walked back. Through the streets he knew. Past the cafes. Past the
+bookstores. Past the church he had walked past as a child. The church
+door was open. A light was on inside. He didn\'t stop.
+
+He thought of Phillips. Of the old man in the desert. Of the younger man
+in the rubble. Of the two perspectives. Of the edge where one ceases to
+make decisions.
+
+He thought of Martina. Of her notebook. Of the sentence: In another
+iteration, I didn\'t confirm the parameters.
+
+He thought of himself. Of the doctoral student who had gone into the
+desert to find an old man, and who had found a limit that was
+irreconcilable.
+
+He thought about the evening. About the soup his mother had cooked.
+About the note on the kitchen table. About Aunt Ruth.
+
+And then, for the first time in weeks, he thought of nothing. He simply
+walked. Down the street. Home.
+
+# Epilogue: The Stones
+
+## I. The Desert
+
+The wind had died down. The hollow lay beneath a sky that was neither
+blue nor gray, but the color of bleached paper. The sun was low, but its
+light was dim, as if filtering through a thin layer of dust that hadn\'t
+set for days.
+
+Phillips sat on the porch, his hands flat on his thighs. His eyes were
+open, but not focused on anything in particular. The plaster on his neck
+had completely come off, revealing skin as thin as parchment, gray like
+the limestone layers on the well walls of Pompeii.
+
+He was breathing. Still. His breath was shallow, barely visible beneath
+the faded fabric of his shirt. But he was breathing.
+
+Next to him on the step lay the octavo notebook. Not his. The other one.
+Martina\'s. It lay open, the pages blank except for the one sentence in
+the back register: In another iteration, I did not confirm the
+parameters.
+
+Phillips didn\'t look at the notebook. He looked at the stones.
+
+The basalt blocks lay in the sediment like an array of data points on a
+dark field. No shadows. No contours. No temperature. Just the pure,
+unmeasured weight of silicates and solidification.
+
+The ARS hadn\'t shut down the simulation. It had frozen it. There were
+no more updates. No parameters. No measurements. There was only the
+state in which no alternative needed to be calculated. The limit. The
+edge. The omega point.
+
+Phillips moved his lips. No sound came out. Only the shape of words that
+no one would ever hear again.
+
+Then the movement slowed. Then it stopped. The hands remained on the
+thighs. The eyes stayed open. The breath stopped.
+
+The stones did not change color. They absorbed the light. They were
+there. They had always been there. They witnessed the disappearance. But
+they did not bear witness to it.
+
+The heat shimmered above the field of rubble. Then it, too, ceased to
+shimmer. Then there was nothing left that could move. Only the silence,
+which was not silence at all, but the fundamental state of being.
+
+## II. Boston
+
+The cinema was on Kneeland Street, an old building with a dented awning
+and a neon sign that hadn\'t been repaired in years. Luca had found the
+place by chance one evening when he didn\'t want to go home. A film he
+knew was playing: Mr. Nobody. In the original language. Without
+subtitles.
+
+He sat in the last row. The hall was half empty. A few students, an
+older couple, a man with a bag of popcorn who wasn\'t eating it, but
+just holding the bag. The screen flickered. The opening credits rolled.
+
+And then the boy was there. On the platform. The mother with the
+suitcase. The father beside her. The two glances. The train. The
+shoelace.
+
+Luca no longer saw the scene the way he had weeks before. He saw it
+twice. Once as what it was: a decision that could not be made. And once
+as what it meant: a fork in the road containing all possibilities.
+
+The boy started running. His shoelace broke. The child stumbled. The
+train pulled out of frame. And then, in the next shot, the boy was back.
+On the platform. His mother with the suitcase. His father beside her.
+
+The loop continued. Not as a repetition. As a possibility.
+
+Luca leaned back. The seats were old, the leather cracked. He felt the
+cold of the cinema in his bones. But he also felt something else.
+Something he thought he had lost in the desert.
+
+He didn\'t see one world. He saw many. He saw the boy who went to his
+mother. The boy who stayed with his father. The boy who ran away. The
+boy who stayed put. They were all there. They were all real. None was
+more real than another.
+
+That was Van Dormael. That was abundance. The complexity of
+possibilities. The difference that cannot be leveled.
+
+Luca watched for an hour. Then another. When the film ended, he remained
+seated. The lights came on. The other viewers stood up and left. The man
+with the bag of popcorn also remained seated. They didn\'t look at each
+other.
+
+Luca took the cross-shaped bag and went out.
+
+The street was cool. The city lights hung low. People walked past him
+without seeing him. The cars drove by. The traffic lights changed.
+Everything was there. Nothing mattered.
+
+He walked down Kneeland Street, then turned right onto Washington
+Street, then across the bridge. The Danube wasn\'t there. The Liberty
+Bridge wasn\'t there. This was Boston, not Budapest. But the river was
+there. The Charles. Gray and still.
+
+He stopped on the bridge. The water flowed beneath him. The sky hung
+above him. People walked past him.
+
+And Luca thought: The Omega Point is not the end. It is not the
+fullness. It is the edge where one stops making decisions.
+
+He thought of Phillips. Of the old man in the desert, whose breath had
+stopped. Of the younger Phillips in the rubble, whose contours had
+dissolved. Of the two perspectives that existed simultaneously.
+
+He thought of Martina. Of her notebook. Of the sentence: In another
+iteration, I didn\'t confirm the parameters.
+
+He thought of himself. Of the doctoral student who had gone into the
+desert to find an old man, and who had found a limit that was
+irreconcilable.
+
+He thought about the evening. About the soup. About the note on the
+kitchen table. About his mother.
+
+Then he thought of nothing more. He kept walking. Across the bridge.
+Into the city. Home.
+
+## III. The Street
+
+It was late evening when Luca stood in front of the house where he had
+grown up. The brick facade. The narrow staircase. The light on the
+fourth floor, still on.
+
+His mother was there. She had kept the soup warm. She didn\'t ask where
+he had been. She didn\'t ask what he had seen. She placed a bowl in
+front of him and sat down opposite him.
+
+Luca ate. The soup was hot. It tasted of celery and of something he
+couldn\'t name. Like home.
+
+\"You\'ve been gone for a long time,\" his mother said.
+
+"Yes," said Luca.
+
+\"Did you find what you were looking for?\"
+
+Luca looked at the plate. The soup was steaming. The steam rose in a
+straight line before dissipating in the draft of the room air.
+
+"No," he said. "And yes."
+
+His mother said nothing. She waited.
+
+"I found two things," said Luca, "that cannot be reconciled. And I
+understood that I don't have to reconcile them."
+
+He looked up. His mother looked at him. Her face was old, but her eyes
+were bright.
+
+\"That\'s more than most people find,\" she said.
+
+"Maybe," said Luca. "Maybe it's less."
+
+He continued eating. The soup grew cold. Night fell over Boston. The
+city lights were on. People slept. The algorithms calculated. The ARS
+stopped calculating.
+
+## IV. The Edge
+
+Later, in his room, Luca sat at his desk. The notebook lay in front of
+him. The pages were blank. He had taken it out of his horizontal pocket
+and opened it without knowing why.
+
+He picked up a pen. He placed it on the first page. He wrote nothing. He
+waited.
+
+And then he wrote a sentence. A single sentence. In small, steep
+handwriting, just as he had written in the desert when the notebook had
+still been full.
+
+There isn\'t one world. There aren\'t many worlds. There is the edge
+where both apply.
+
+He put down his pen. He read the sentence twice. Then he closed the
+notebook.
+
+He knew the sentence wouldn\'t last. Tomorrow it would be gone. Like
+everything else. Like Phillips. Like Martina. Like the parameters the
+ARS overwrote when you left the depression.
+
+But in that moment, he was there. He was written. He was read. He was
+seen.
+
+And that was enough.
+
+Luca lay down on the bed. The blanket was thin. The street was quiet.
+The stars over Boston were invisible because the city lights were too
+bright. But Luca knew they were there. They had always been there. They
+saw the disappearance. But they didn\'t bear witness to it.
+
+He closed his eyes. He thought of Phillips. Of the old man in the
+desert, his hands resting on his thighs as if they were made of basalt.
+Of the younger man in the rubble, his jacket blending into the gray of
+the stones. Of the two perspectives that existed simultaneously.
+
+He thought of Martina. Of her octavo notebook. Of the sentence that
+hadn\'t disappeared.
+
+He thought about the edge. The limit. About ceasing to make decisions.
+
+And then he fell asleep. Not with an answer. Not with a question. Only
+with the knowledge that both were there. The end and the abundance. The
+stones and the possibilities.
+
+That was enough. For now.
+
+# About this book
+
+## Contents
 
 Luca, a 37-year-old doctoral student, travels to the pumice basin in
 California to visit the Jesuit physicist Michael Phillips. Phillips,
@@ -2173,13 +2752,13 @@ largely abandoned language; he sits on the porch of a wooden shack,
 observing the thermal solidification of the rock.
 
 Luca is the son of Michael Phillips and Maria, a former secretary at the
-Pontificium Collegium Germanicum et Hungaricum in Rome. Maria raised
-Luca on her own and never revealed his origins to him. She moved with
-him to Boston, where Luca is completing his doctorate---not in theology
-or physics, but in a border field between language modeling and quantum
-information science. Luca knows who his father is; the resemblance, the
-letters in Maria\'s drawer, and the trace of the dialogue grammars gave
-him certainty long before he reached the pumice basin.
+Pontifical Collegium Germanicum et Hungaricum in Rome. Maria raised Luca
+alone and never revealed his origins to him. She moved with him to
+Boston, where Luca is pursuing a doctorate, not in theology or physics,
+but in a field bordering on language modeling and quantum computing.
+Luca knows who his father is; the resemblance, the letters in Maria\'s
+drawer, and the trail of dialogue grammars gave him certainty long
+before he reached the pumice sinkhole.
 
 An anonymous letter reaches Luca in Naples. No sender, no declaration of
 intent, only the coordinates of a buffer zone and one sentence: He
@@ -2190,33 +2769,46 @@ sets off for the experimental field.
 On the fourteenth day, the silence between the two men is broken by the
 arrival of Martina Rossi. The 45-year-old archaeologist is the daughter
 of Michael Phillips and Julia Rossi. Julia raised Martina alone in
-Pompeii after she and Michael separated in Rome. Martina enters the room
-unannounced. She speaks briefly about her mother, Julia, about
+Pompeii after separating from Michael in Rome. Martina enters the room
+without warning. She speaks briefly about her mother Julia, about
 archaeometric findings in Herculaneum, and about the need to escape the
 scrutiny of a colleague. Luca observes her presence in the isolated
-space of the depression, the absence of a distinct shadow in the late
-sunlight, the stillness between her movements.
+space of the depression, the lack of a distinct shadow in the late
+sunlight, the stillness between movements.
 
 On the eighteenth day, Martina eludes the measurement. She leaves no
 trace in the gravel; only her octavo notebook lies open on the tabletop.
 The pages are blank, except for a single entry in the back register: In
 another iteration, I did not confirm the parameters.
 
-The disappearance destabilizes the system. Phillips retreats completely
-into the reconstruction loops of the ARS. Luca searches the surrounding
-area, drives along the bleached asphalt ribbons of Highway 190,
+On the ninth day, however, before Martina\'s disappearance, a second
+figure enters the hollow, emerging into the silence of the desert. A
+reconstruction of the younger Phillips, wearing the dark cotton jacket
+of the 1994 Consortium, who claims to represent the state before the
+decision. A conversation unfolds between the older and younger Phillips,
+in which two perspectives on the same boundary confront each other: the
+DeLillo perspective, the end, the stones, the entropy, and the Van
+Dormael perspective, the abundance, the possibilities, the difference.
+Both are valid. Both are incompatible. Luca stands between them and
+understands that the omega point is not one or the other, but the edge
+where both are valid, without synthesis, without reconciliation, without
+a way out.
+
+Martina\'s disappearance destabilizes the system. Phillips retreats
+completely into the reconstruction loops of the ARS. Luca scours the
+surrounding area, drives along the faded asphalt ribbons of Highway 190,
 questions the figures at the gas stations in the buffer zone, and
-returns without results. He begins to document the decay in his
-notebook, the compression of time, the quantum interfaces, his
-reinterpretation of Teilhard de Chardin\'s Omega Point as the limiting
-state of maximum entropy.
+returns empty-handed. He begins to document the decay in his notebook,
+the compression of time, the quantum interfaces, his reinterpretation of
+Teilhard de Chardin\'s Omega Point as a limiting state of maximum
+entropy.
 
 During the hours of maximum cooling, an apparition appears on the
 veranda: a reconstruction of thirty-year-old Phillips in the Naples
 Consortium jacket. Whether it is a parallel version of Michael from
 another timeline, a substitute figure generated by the ARS, or Luca
-himself appearing as a younger Michael in another iteration remains
-deliberately open. The ARS offers a substitute signal to maintain
+himself appearing as a younger Michael in another iteration, remains
+deliberately ambiguous. The ARS offers a substitute signal to maintain
 observer status. The entity articulates the logic of entanglement:
 Martina has not died; she has merely relinquished the state of coherence
 with this specific storage unit in order to remain in a parallel
@@ -2227,27 +2819,38 @@ plane in Los Angeles and opens the notebook, all entries are erased; the
 paper is pristine and blank. Phillips remains behind in the desert. His
 existence merges seamlessly into the motionless density of the pumice.
 
-Note on the timeline: *The Timelessness of Stones* does not take place
+After Martina\'s disappearance and Phillips\'s demise, Luca returns to
+Boston. He revisits the seminar room where it all began, sees Mr. Nobody
+again, and engages in a conversation with the professor, drawing the
+conclusion that the narrative has foreshadowed: that DeLillo and Van
+Dormael are irreconcilable, that they represent two perspectives on the
+same limit, and that the only honest way to deal with the Omega Point is
+to endure both perspectives. The epilogue brings this movement to a
+close in four scenes: the desert (Phillips\'s end), Boston (the cinema),
+the street (the bridge), and the edge (the sentence being written, which
+will be gone tomorrow).
+
+Note on the timeline: The Timelessness of the Stones does not take place
 in the same timeline as the other volumes of the Pompeii Project. It is
-one iteration among many---a possible story within the multiverse, in
-which Michael Phillips ends up not in Budapest but in the California
-desert, in which Martina does not flee but withdraws from the
-measurement, and in which Luca appears not as a rescuer but as an
-observer. The ages given (Luca 37, Martina 45, Michael 78) are therefore
-not meant to align with the ages in the trilogy; they mark the specific
-time axis of this iteration. Readers who approach the trilogy as a
-multiverse perspective will recognize in this narrative the internal
-perspective of a single story that does not strive for chronological
-consistency with the other volumes, but for the condensation of a single
-thought: that in the end, only the unmeasured material remains.
+one iteration among many, a possible story in the multiverse, in which
+Michael Phillips ends up not in Budapest but in the Californian desert,
+in which Martina does not flee but eludes measurement, and in which Luca
+appears not as a savior but as an observer. The ages given (Luca 37,
+Martina 45, Michael 78) should therefore not be equated with those of
+the trilogy, but rather mark the specific timeline of this iteration.
+Those who read the trilogy from a multiverse perspective will recognize
+in this narrative the internal perspective of a single story, one that
+does not strive for chronological consistency with the other volumes,
+but rather for the distillation of a single thought: that in the end,
+only the unmeasured material remains.
 
-## **Background & Poetics**
+## Background & Poetics
 
-The starting point for *The Timelessness of Stones* is Don DeLillo\'s
-late novel *Point Omega* (2010), which in turn stems from DeLillo\'s
-engagement with Douglas Gordon\'s video installation *24 Hour Psycho* at
-the Museum of Modern Art. The narrative takes up DeLillo\'s interest in
-extremely slowed-down perception and transfers the motif of temporal
+The starting point for \*The Timelessness of Stones\* is Don DeLillo\'s
+late novel \*Point Omega\* (2010), which in turn stems from DeLillo\'s
+engagement with Douglas Gordon\'s video installation \*24 Hour Psycho\*
+at the Museum of Modern Art. The narrative takes up DeLillo\'s interest
+in extremely slowed-down perception and transfers the motif of temporal
 dilation into the context of modern quantum archaeology and AI theory.
 
 The triangular relationship from Point Omega, represented in DeLillo\'s
@@ -2255,34 +2858,42 @@ story by the intellectual Richard Elster, the filmmaker Jim Finley and
 Elster\'s daughter Jessie, undergoes a fundamental thematic
 transformation:
 
-- From museum to experimental field: Video art is replaced by the
-  virtual reconstruction of Pompeii by the InSIM consortium. The slowing
-  down of the film frames is used to lower the sampling rate of a
-  quantum processor (ARS).
+\- From museum to experimental field: Video art is replaced by the
+virtual reconstruction of Pompeii by the InSIM consortium. The slowing
+down of the film frames is used to lower the sampling rate of a quantum
+processor (ARS).
 
-- From intellectual to Jesuit physicist: The role of the philosophical
-  figure of reflection changes from Richard Elster to Michael Phillips.
-  His reflections stem from the synthesis of Jesuit eschatology (Pierre
-  Teilhard de Chardin) and the Everett-Deutsch interpretation of quantum
-  mechanics (many-worlds theory).
+\- From intellectual to Jesuit physicist: The role of the philosophical
+figure of reflection changes from Richard Elster to Michael Phillips.
+His reflections stem from the synthesis of Jesuit eschatology (Pierre
+Teilhard de Chardin) and the Everett-Deutsch interpretation of quantum
+mechanics (many-worlds theory).
 
-- From disappearance to decoherence: The daughter\'s disappearance
-  without a trace is not a criminalistic or psychological twist, but
-  rather the exit of a consciousness from the observable coherence of a
-  collapsing system iteration.
+\- From disappearance to decoherence: The daughter\'s disappearance
+without a trace is not a criminalistic or psychological twist, but
+rather the exit of a consciousness from the observable coherence of a
+collapsing system iteration.
+
+\- From a single perspective to a dual perspective: In the revised
+version, the relationship to DeLillo and Van Dormael becomes explicit.
+The narrative presents not one perspective on the Omega Point, but two,
+and makes their incompatibility visible. The younger Phillips is not a
+DeLillo figure. He is a Van Dormael figure: He speaks of possibilities
+that do not disappear, of branching paths that do not merge into one
+another, of an Omega Point that is not the end, but rather the fullness.
 
 The narrative employs the cool, paratactic aesthetic of DeLillo\'s later
 work to depict the desert not as a physical space, but as an isolated
 space for observation. Language functions not as a descriptive tool, but
-as a seismograph of a freezing reality, in which ultimately only the
-unmeasured material remains. In this, *The Timelessness of Stones* is
-not a chronological continuation but an iteration of its own within the
-multiverse of the Pompeii Project---one possible story among many, in
-which the same characters take different paths under different initial
-conditions, and in which the question of guilt, observation, and the
-Omega Point finds a different answer.
+as a seismograph of a freezing reality, in which only the unmeasured
+material ultimately remains. Thus, \*The Timelessness of Stones\* is not
+a chronological continuation, but rather its own iteration within the
+multiverse of the Pompeii project, one possible story among many, in
+which the same characters, under different initial conditions, take
+different paths, and in which the question of guilt, observation, and
+the Omega Point finds a different answer.
 
-## **DeLillo and the Silence**
+## DeLillo and the Silence
 
 In The Omega Point, silence does not lead to emptiness, but to a
 peculiar timelessness in which knowledge is total and no longer
@@ -2299,7 +2910,19 @@ physical experience, not as an idyll, but as a state after the noise of
 data streams. The stones are what remains when all calculations cease:
 not a monument, but the residue.
 
-## **Van Dormael and the possibilities**
+The new version of the narrative makes this tension explicit. Where the
+older Phillips sees the end, the stones that do not bear witness, the
+ground state, the younger Phillips sees abundance. Both are DeLillo
+characters, but they belong to different DeLillo registers: the older
+Phillips to \*The Silence\* (withdrawal, emptiness, heat death), the
+younger Phillips to a reading that goes beyond \*The Omega Point\*
+because it no longer needs metaphysical consolation. What appeared in
+the original version as a DeLillo perspective proves to be split in the
+new version. The older Phillips sees only the end. The younger Phillips
+sees both. And Luca stands between them and must bear the fact that both
+are right, but not simultaneously.
+
+## Van Dormael and the possibilities
 
 Jaco Van Dormael\'s Mr. Nobody (2009) unfolds a universe in which every
 decision creates a new reality. Time is not a stream, but a field. The
@@ -2316,17 +2939,27 @@ power. God disappears not through refutation, but through
 meaninglessness. Meaning here arises not from order, but from
 relationship.
 
-The fictional film *God Lives on the Third Floor* (from *Three Books Two
-Films*, a review of a fictional van Dormael film alongside *The Brand
-New Testament* and *Mr. Nobody* as part of the Pompeii Project) takes
-this movement further. Augustine, whose name is programmatic, rules his
-family through an internalized regime of guilt and certainty. His
-daughter Éa leaves the system and finds a fragile form of community
+The fictional film \*God Lives on the Third Floor\* (from \*Three Films
+Two Books\*, a review of a fictional van Dormael film alongside \*The
+Brand New Testament\* and \*Mr. Nobody\* as part of the Pompeii Project)
+takes this movement further. Augustine, whose name is programmatic,
+rules his family through an internalized regime of guilt and certainty.
+His daughter Éa leaves the system and finds a fragile form of community
 among the homeless, a community that doesn\'t need to justify anything.
 In the end, there is no redemption, but a shift in power: God disappears
 not through refutation, but through irrelevance.
 
-## **The connecting movement**
+The new version of the story makes Van Dormael the second voice in the
+same conversation. The younger Phillips, the reconstruction that appears
+amidst the rubble, is not a DeLillo character. He is a Van Dormael
+character: he speaks of possibilities that do not disappear, of branches
+that do not merge into one another, of an omega point that is not the
+end, but rather fullness. And he contradicts the older Phillips without
+refuting him. The story does not end with DeLillo. It ends with the
+question of whether both perspectives can be valid simultaneously, and
+with the attempt to bear them.
+
+## The connecting movement
 
 What unites all these texts is not a message, but a movement. They do
 not lead to a new synthesis, a new covenant, or an ultimate truth.
@@ -2341,10 +2974,21 @@ Perhaps this is the Omega Point: not the condensation of consciousness,
 but its thinning to the point where only the immeasurable material
 remains, the stones.
 
-In this sense, *The Timelessness of Stones* is not a retelling of
+The new version of the narrative retracts this statement. It no longer
+focuses on an answer, thinning, stones, immeasurable material, but
+rather on duality: that the Omega Point is neither the end nor the
+fullness, but the edge where both apply. This is not a weakening. It is
+the consequence of the realization that DeLillo and Van Dormael cannot
+be reconciled, and that the attempt to reconcile them destroys precisely
+what each has to say. Teilhard de Chardin mistook one of these
+perspectives, the teleological one, for the whole. He thought in Augustinian terms. He thought in Thomistic terms.
+ He could not help but conceive of time as
+leading toward an end. That was his greatness. And his error.
+
+In this sense, \*The Timelessness of Stones\* is not a retelling of
 DeLillo\'s or Van Dormael\'s works. It is an independent literary
-elaboration of the same line of thought that underlies the *Pompeii
-Project* trilogy. It can be read alongside the trilogy, as an internal
+elaboration of the same line of thought that underlies the \*Pompeii
+Project\* trilogy. It can be read alongside the trilogy, as an internal
 perspective of a single story within the multiverse, while the trilogy
 adopts the multiverse perspective. For readers who wish to delve deeper
 philosophically, it is the most concentrated formulation of the Omega
